@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<material>
+	<textures>
+		<texture name="Units/SpaceMarines/AquilaMacroCannonDiffuse"/>
+		<texture name="Units/SpaceMarines/AquilaMacroCannonNormal"/>
+		<texture name="Units/SpaceMarines/AquilaMacroCannonSIC"/>
+		<texture name="ShadowMapColor"/>
+	</textures>
+</material>

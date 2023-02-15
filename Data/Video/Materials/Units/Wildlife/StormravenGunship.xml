@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<material>
+	<textures>
+		<texture name="Units/SpaceMarines/StormravenGunshipDiffuse"/>
+		<texture name="Units/SpaceMarines/StormravenGunshipNormal"/>
+		<texture name="Units/SpaceMarines/StormravenGunshipSIC"/>
+		<texture name="ShadowMapColor"/>
+	</textures>
+</material>

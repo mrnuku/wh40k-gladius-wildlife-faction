@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<material>
+	<textures>
+		<texture name="Units/SpaceMarines/VindicatorDiffuse"/>
+		<texture name="Units/SpaceMarines/VindicatorNormal"/>
+		<texture name="Units/SpaceMarines/VindicatorSIC"/>
+		<texture name="ShadowMapColor"/>
+		<texture name="Units/SpaceMarines/VindicatorAnimation"/>
+	</textures>
+</material>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="Wildlife0" value="Indomitable Guard"/>
+	<entry name="Wildlife1" value="Honoured Tacticians"/>
+	<entry name="Wildlife2" value="Venerated Veterans"/>
+	<entry name="Wildlife3" value="Honorbound Wardens"/>
+	<entry name="Wildlife4" value="Defender of Gladius"/>
+	<entry name="Wildlife5" value="The Immortals"/>
+	<entry name="Wildlife6" value="Crux Terminatus"/>
+	<entry name="Wildlife7" value="Laurels Imperialis"/>
+	<entry name="Wildlife8" value="Marksman's Honour"/>
+	<entry name="Wildlife9" value="Prime Helix"/>
+	<entry name="Wildlife10" value="Purity Seal"/>
+	<entry name="Wildlife11" value="Machina Opus"/>
+	<entry name="WildlifeCount" value="12"/>
+</language>

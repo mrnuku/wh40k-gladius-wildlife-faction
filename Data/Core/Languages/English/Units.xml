@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="Wildlife/Apothecary" value="Apothecaries"/>
+	<entry name="Wildlife/ApothecaryDescription" value="Infantry unit that heals allied infantry."/>
+	<entry name="Wildlife/ApothecaryFlavor" value="These courageous field-surgeons face the full heat of battle, their nartheciums healing even grievous injuries, and their vials of combat stimms and anticoagulants quickly getting wounded brothers back into the fight. They also administer the Emperor's grace to those beyond help, extracting the progenoid glands containing the gene-seed so that the Space Marine's legacy might live on."/>
+	<entry name="Wildlife/AquilaMacroCannon" value="Aquila Macro-Cannon"/>
+	<entry name="Wildlife/AquilaMacroCannonDescription" value="Massive fortification with a devastating long-range cannon."/>
+	<entry name="Wildlife/AquilaMacroCannonFlavor" value="Macro-cannon Aquila Strongpoints are massive fortifications, often used as bastions in Imperial defensive battle lines. Each consists of a munitions silo, topped by a large turret that houses the huge macro-cannon that gives the strongpoint its name."/>
+	<entry name="Wildlife/AssaultSpaceMarine" value="Assault Space Marines"/>
+	<entry name="Wildlife/AssaultSpaceMarineDescription" value="Melee infantry unit equipped with jump packs to overcome terrain obstacles."/>
+	<entry name="Wildlife/AssaultSpaceMarineFlavor" value="The howl of jump pack turbines heralds the meteoric descent of the Assault Marines. Plunging from the sky with bolt pistols blazing, they slam into their foes like a hurricane of destruction. Screaming victims are thrown to the ground, bodies crushed beneath ceramite boots, chests ripped open by snarling chainswords. Within moments the killing is done, and the Assault Marines bound onwards, leaving behind them a ragged wound torn in the enemy's battle line."/>
+	<entry name="Wildlife/Captain" value="Captain"/>
+	<entry name="Wildlife/CaptainDescription" value="Legendary hero unit that excels in close combat."/>
+	<entry name="Wildlife/CaptainFlavor" value="Amid the fire and thunder of the front lines, Space Marine Captains set a peerless example to their brothers as they carve down one enemy after another. Each Captain is a skilled warrior, a veteran of hundreds of battles who has slain whole armies of foes during his celebrated career."/>
+	<entry name="Wildlife/Chaplain" value="Chaplain"/>
+	<entry name="Wildlife/ChaplainDescription" value="Zealous hero unit that raises morale and inspires loyalty."/>
+	<entry name="Wildlife/ChaplainFlavor" value="To meet the baleful gaze of a Space Marine Chaplain is to know that death itself will soon follow. These terrifying warrior-priests can be found wherever the fighting is thickest, inspiring their brothers to greatness with every thunderous blow and roared exhortation."/>
+	<entry name="Wildlife/DevastatorCenturion" value="Devastator Centurions"/>
+	<entry name="Wildlife/DevastatorCenturionDescription" value="Very bulky infantry unit with massive armaments."/>
+	<entry name="Wildlife/DevastatorCenturionFlavor" value="Devastator Centurions pound their enemies with a remorseless, relentless rain of fire. Bloody havoc is wrought upon anything that falls within the Centurions’ targeting reticules. The pilots’ marksmanship is augmented by the grim machine spirits of their warsuits, decimator protocols guiding servo-assisted recoil absorption and oracular auto-targeting to ensure the Centurions maintain a punishing rate of fire. Return fire is a futile gesture, akin to flinging stones at a fortress, for should the enemy launch an assault in an attempt to silence the Devastator Centurions’ guns they must contend with the suits’ massive strength and the pilots’ skill at arms."/>
+	<entry name="Wildlife/DevastatorSpaceMarine" value="Devastator Space Marines"/>
+	<entry name="Wildlife/DevastatorSpaceMarineDescription" value="Infantry unit equipped to bring down heavy war machines."/>
+	<entry name="Wildlife/DevastatorSpaceMarineFlavor" value="The battlefield echoes to the furious roar of heavy weapons as the Devastators open fire. No matter the target, no matter the odds, a Devastator Squad carries sufficient firepower to obliterate their enemies in a matter of moments. Even mighty war engines cannot stand against these deadly-accurate support troopers, shuddering to a blazing, explosion-wracked halt beneath the concentrated volleys of the Devastators."/>
+	<entry name="Wildlife/Dreadnought" value="Dreadnought"/>
+	<entry name="Wildlife/DreadnoughtDescription" value="Heavy walker unit that crushes opponents in close combat."/>
+	<entry name="Wildlife/DreadnoughtFlavor" value="The ground shakes at the advance of a Space Marine Dreadnought. With its mighty power fist and blazing heavy weapon, this armoured war engine tramples a path of destruction through its foes."/>
+	<entry name="Wildlife/FortressOfRedemption" value="Fortress of Redemption"/>
+	<entry name="Wildlife/FortressOfRedemptionDescription" value="Fortification that automatically gathers resources from adjacent special resource features."/>
+	<entry name="Wildlife/FortressOfRedemptionFlavor" value="A Fortress of Redemption is a towering bulwark against the ravages of planetary invasion. Each is virtually impervious to conventional firepower and the lower levels, bunker annexes and sub-crypts can house entire platoons of battle-ready warriors. First used by the Dark Angels Legion during the days of the Great Crusade, they have since been used by every military force in the Imperium and proven invaluable to its defence."/>
+	<entry name="Wildlife/Headquarters" value="<string name='Buildings/Wildlife/Headquarters'/>"/>
+	<entry name="Wildlife/HeadquartersDescription" value="Headquarters unit that represents the fortress city's defenses."/>
+	<entry name="Wildlife/HeadquartersFlavor" value="<string name='Buildings/Wildlife/HeadquartersFlavor'/>"/>
+	<entry name="Wildlife/Hunter" value="Hunter"/>
+	<entry name="Wildlife/HunterDescription" value="Tank unit that is specialized in taking down skimmers and flyers."/>
+	<entry name="Wildlife/HunterFlavor" value="From out of its massive turreted warhead chamber, the Hunter sends skyspear missiles thundering into the heavens. Emitting a piercing scream as it tears across the firmament, each of these sacred rounds seeks out the skyborne foes of the Emperor. Entombed in the heart of each missile, a servitor savant guides the ordnance to its foe. Even if the missile flies wide of its mark, the hard-wired savant will set it back on course."/>
+	<entry name="Wildlife/LandRaider" value="Land Raider"/>
+	<entry name="Wildlife/LandRaiderDescription" value="Massively armoured and heavily armed transport unit."/>
+	<entry name="Wildlife/LandRaiderFlavor" value="The ground trembles and enemies flee in fear as the mighty Land Raider advances into battle. Massively armoured and all but unstoppable, the noble war engine smashes through walls and grinds over wreckage while drumming volley after volley of fire into the foe. Beams of incandescent energy slam into enemy tanks, knifing through their armoured hulls and reducing them to blazing fireballs. Thudding bolt shells punch into the flesh of the foe before detonating in shocking sprays of gore. The kill count climbs with each passing moment as the Land Raider advances across the war zone, especially once the tank's assault ramp slams down and its Adeptus Astartes passengers charge out to add to the carnage."/>
+	<entry name="Wildlife/LandSpeeder" value="Land Speeders"/>
+	<entry name="Wildlife/LandSpeederDescription" value="Mobile hover vehicle unit that can even traverse water."/>
+	<entry name="Wildlife/LandSpeederFlavor" value="Skimming over the battlefield at breakneck speeds, Land Speeders bank and roll with incredible agility. Able to navigate tangled urban ruins, narrow-sided canyons, and even to weave through dense forest canopies, the Land Speeder possesses unrivalled manoeuvrability. This is enhanced by the superhuman reflexes of its Space Marine crew, and capitalised upon through the incorporation of resilient, if light, armour and an arsenal of heavy weapons."/>
+	<entry name="Wildlife/Librarian" value="Librarian"/>
+	<entry name="Wildlife/LibrarianDescription" value="Hero unit with versatile psychic powers."/>
+	<entry name="Wildlife/LibrarianFlavor" value="Eyes blazing and fists crackling with the roiling energies of the Warp, Space Marine Librarians stride into battle to destroy their foes. Some hurl blasts of force that crush their victims to paste, while others twist the flow of time itself, or revitalise their brothers with incredible surges of vitality. However they choose to fight, all Librarians are powerful psykers, harnessing the potent mutation they bear as a force to defend Humanity."/>
+	<entry name="Wildlife/Predator" value="Predator"/>
+	<entry name="Wildlife/PredatorDescription" value="Main battle tank unit."/>
+	<entry name="Wildlife/PredatorFlavor" value="A swift and brutal fighting vehicle, the Predator provides the Space Marine Chapters with prodigious amounts of fire support. The battle tank's heavy bolters and autocannon are the bane of infantry and light vehicles, while the Annihilator variant's lascannons spell doom to any armoured enemy."/>
+	<entry name="Wildlife/Razorback" value="Razorback"/>
+	<entry name="Wildlife/RazorbackDescription" value="Tank unit that transports infantry."/>
+	<entry name="Wildlife/RazorbackFlavor" value="The Razorback rolls into battle with its weapons charged and ready to fire. Its determined crew slam their vehicle through obstacles and over wreckage, keeping pace with the Adeptus Astartes’ advance. Meanwhile, inside the vehicle’s transport bay, its passengers ready themselves for the battle ahead."/>
+	<entry name="Wildlife/Scout" value="Scouts"/>
+	<entry name="Wildlife/ScoutDescription" value="Infantry unit specializing in reconnaissance and infiltration."/>
+	<entry name="Wildlife/ScoutFlavor" value="The first the enemy knows of a Scout Squad’s presence is when its advance is brought to a sudden, violent halt. Heads snap back and warriors crumple to the floor, neat holes drilled through their skulls by sniper fire. The sudden boom of shotguns sees foes thrown from their feet with bloody craters blasted in their chests and backs. Bolt pistols bark, counterpointed by the thump of heavy bolter fire and the screams of the dying as enemies caught in the crossfire are torn apart by mass-reactive shells. Even artillery and heavy weapons troopers are not safe, as ambushing Scouts burst from concealment to wreak havoc on the enemy’s rear lines. However a Scout Squad chooses to attack its foes, it will be with total surprise and from an unexpected quarter, their stealth and cunning proving to be just as deadly as bolter and blade."/>
+	<entry name="Wildlife/ScoutBiker" value="Scout Bikers"/>
+	<entry name="Wildlife/ScoutBikerDescription" value="Fast reconnaissance unit."/>
+	<entry name="Wildlife/ScoutBikerFlavor" value="Racing across the blasted battlegrounds of the 41st Millennium, Scout Bikers use their speed and manoeuvrability to outflank and outwit their foes. Shadowing their enemies' movements, the Scout Bikers probe for weaknesses and assess the foe's intentions. Only once the element of surprise is guaranteed do they strike, roaring suddenly from concealment with guns blazing."/>
+	<entry name="Wildlife/StormravenGunship" value="Stormraven Gunship"/>
+	<entry name="Wildlife/StormravenGunshipDescription" value="Heavily armed and armoured airborne transport unit."/>
+	<entry name="Wildlife/StormravenGunshipFlavor" value="Stormraven Gunships streak into battle with their weapons blazing, flak whipping around them as they rake the foe with bolts, blasts and warheads. More akin to a flying tank than a conventional dropship, the Stormraven is the most versatile aircraft in the arsenal of the Adeptus Astartes. Fast, manoeuvrable, resilient, boasting prodigious firepower and a substantial transport capacity, the Stormraven can perform many different roles."/>
+	<entry name="Wildlife/StormtalonGunship" value="Stormtalon Gunship"/>
+	<entry name="Wildlife/StormtalonGunshipDescription" value="Airborne interceptor and ground-attack unit."/>
+	<entry name="Wildlife/StormtalonGunshipFlavor" value="The smaller Stormtalon Gunship is incredibly fast and agile, and makes a superb air-interceptor and ground attack craft. With a single press of a trigger, the Stormtalon's pilot purges his victims from existence amid a whistling hail of missiles, bolts and las blasts. All the while, the Stormtalon jinks and weaves with incredible speed, enemy fire slicing around it to no avail."/>
+	<entry name="Wildlife/TacticalSpaceMarine" value="Tactical Space Marines"/>
+	<entry name="Wildlife/TacticalSpaceMarineDescription" value="Versatile infantry unit."/>
+	<entry name="Wildlife/TacticalSpaceMarineFlavor" value="Where an objective must be seized, Tactical Squads attack in a storm of gunfire and combat blades. Where the line must be held, these courageous warriors plant their feet, raise their weapons, and fight to the last. Armed with boltguns and grenades, Tactical Squads are superbly versatile strategic assets."/>
+	<entry name="Wildlife/Terminator" value="Terminators"/>
+	<entry name="Wildlife/TerminatorDescription" value="Heavily armoured infantry unit that can take on virtually every ground opponent."/>
+	<entry name="Wildlife/TerminatorFlavor" value="Near invincible and utterly indomitable, Terminators undertake those missions that even their power-armoured brethren cannot. Whether it be an unsupported strike into the heart of an enemy fortress, or hunting super-heavy war engines on foot, these heroic 1st Company Veterans are equal to the task."/>
+	<entry name="Wildlife/ThunderfireCannon" value="Thunderfire Cannon"/>
+	<entry name="Wildlife/ThunderfireCannonDescription" value="Infantry unit that provides long-range barrage support and can clear tiles and repair vehicles."/>
+	<entry name="Wildlife/ThunderfireCannonFlavor" value="These colossal, quad-barrelled artillery guns are designed to excel in a static defence role. Each is capable of firing and reloading at a punishing rate, unleashing salvo after salvo of high explosive shells, pounding the enemy into oblivion. Only the brave or the foolish dare advance in the face of such overwhelming and obliterating firepower."/>
+	<entry name="Wildlife/Vindicator" value="Vindicator"/>
+	<entry name="Wildlife/VindicatorDescription" value="Heavy tank unit with a devastating close-range cannon."/>
+	<entry name="Wildlife/VindicatorFlavor" value="The Vindicator is a short-ranged sledgehammer of a vehicle, a siege tank whose massive demolisher cannon can reduce any target to a smoking crater. The Vindicator is especially favoured by the Imperial Fists, who regularly field whole squadrons of these tanks and rely upon their concentrated volleys to blast open fortress walls, flatten gun-nests and bunkers, and lay low super-heavy war engines."/>
+	
+</language>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<material>
+	<textures>
+		<texture name="Weapons/SpaceMarines/PredatorLascannonsDiffuse"/>
+		<texture name="Weapons/SpaceMarines/PredatorLascannonsNormal"/>
+		<texture name="Weapons/SpaceMarines/PredatorLascannonsSIC"/>
+		<texture name="ShadowMapColor"/>
+	</textures>
+</material>

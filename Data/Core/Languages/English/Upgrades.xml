@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+
+	<entry name="Wildlife/Aircraft" value="<string name='Buildings/Wildlife/Aircraft'/>"/>
+	<entry name="Wildlife/AircraftDescription" value="<string name='Buildings/Wildlife/AircraftDescription'/>"/>
+	<entry name="Wildlife/AircraftFlavor" value="<string name='Buildings/Wildlife/AircraftFlavor'/>"/>
+	<entry name="Wildlife/Construction" value="<string name='Buildings/Wildlife/Construction'/>"/>
+	<entry name="Wildlife/ConstructionDescription" value="<string name='Buildings/Wildlife/ConstructionDescription'/>"/>
+	<entry name="Wildlife/ConstructionFlavor" value="<string name='Buildings/Wildlife/ConstructionFlavor'/>"/>
+	<entry name="Wildlife/GeneseedBunker" value="<string name='Buildings/Wildlife/GeneseedBunker'/>"/>
+	<entry name="Wildlife/GeneseedBunkerDescription" value="<string name='Buildings/Wildlife/GeneseedBunkerDescription'/>"/>
+	<entry name="Wildlife/GeneseedBunkerFlavor" value="<string name='Buildings/Wildlife/GeneseedBunkerFlavor'/>"/>
+	<entry name="Wildlife/Heroes" value="<string name='Buildings/Wildlife/Heroes'/>"/>
+	<entry name="Wildlife/HeroesDescription" value="<string name='Buildings/Wildlife/HeroesDescription'/>"/>
+	<entry name="Wildlife/HeroesFlavor" value="<string name='Buildings/Wildlife/HeroesFlavor'/>"/>
+	<entry name="Wildlife/Housing" value="<string name='Buildings/Wildlife/Housing'/>"/>
+	<entry name="Wildlife/HousingDescription" value="<string name='Buildings/Wildlife/HousingDescription'/>"/>
+	<entry name="Wildlife/HousingFlavor" value="<string name='Buildings/Wildlife/HousingFlavor'/>"/>
+	<entry name="Wildlife/Loyalty" value="<string name='Buildings/Wildlife/Loyalty'/>"/>
+	<entry name="Wildlife/LoyaltyDescription" value="<string name='Buildings/Wildlife/LoyaltyDescription'/>"/>
+	<entry name="Wildlife/LoyaltyFlavor" value="<string name='Buildings/Wildlife/LoyaltyFlavor'/>"/>
+	<entry name="Wildlife/Vehicles" value="<string name='Buildings/Wildlife/Vehicles'/>"/>
+	<entry name="Wildlife/VehiclesDescription" value="<string name='Buildings/Wildlife/VehiclesDescription'/>"/>
+	<entry name="Wildlife/VehiclesFlavor" value="<string name='Buildings/Wildlife/VehiclesFlavor'/>"/>
+
+	<entry name="Wildlife/HammerOfWrath" value="<string name='Actions/HammerOfWrath'/>"/>
+	<entry name="Wildlife/HammerOfWrathDescription" value="Grants Assault Space Marines, Dreadnoughts and Scout Bikers the ability to perform more devastating attacks."/>
+	<entry name="Wildlife/HammerOfWrathFlavor" value="<string name='Actions/HammerOfWrathFlavor'/>"/>
+	<entry name="Wildlife/ExtraInfantryArmour" value="<string name='Traits/ExtraInfantryArmour'/>"/>
+	<entry name="Wildlife/ExtraInfantryArmourDescription" value="<string name='Upgrades/AstraMilitarum/ExtraInfantryArmourDescription'/>"/>
+	<entry name="Wildlife/ExtraInfantryArmourFlavor" value="Whilst purity seals may well keep an Adeptus Astartes in the field for longer, faith doesn't stop all bolts. By upgrading to later versions of their Power Armour, Space Marine infantry improve their survivability substantially."/>
+	<entry name="Wildlife/ExtraVehicleArmour" value="<string name='Traits/ExtraVehicleArmour'/>"/>
+	<entry name="Wildlife/ExtraVehicleArmourDescription" value="<string name='Upgrades/AstraMilitarum/ExtraVehicleArmourDescription'/>"/>
+	<entry name="Wildlife/ExtraVehicleArmourFlavor" value="When the proper unguents have been spread and blessings made, a Techmarine may well make some minor changes to his charges, in line with Codex Astartes of course, to improve survivability."/>
+	<entry name="Wildlife/MeleeDamage" value="<string name='Traits/SpaceMarines/MeleeDamage'/>"/>
+	<entry name="Wildlife/MeleeDamageDescription" value="Increases the armour penetration of melee weapons."/>
+	<entry name="Wildlife/MeleeDamageFlavor" value="<string name='Traits/SpaceMarines/MeleeDamageFlavor'/>"/>
+	<entry name="Wildlife/SiegeMasters" value="<string name='Traits/SiegeMasters'/>"/>
+	<entry name="Wildlife/SiegeMastersDescription" value="<string name='Actions/SiegeMastersDescription'/>"/>
+	<entry name="Wildlife/SiegeMastersFlavor" value="<string name='Actions/SiegeMastersFlavor'/>"/>
+
+	<entry name="Wildlife/CityTier2" value="<string name='Traits/Wildlife/CityTier2'/>"/>
+	<entry name="Wildlife/CityTier2Description" value="Increases the tile acquisition radius of the city."/>
+	<entry name="Wildlife/CityTier2Flavor" value="<string name='Traits/Wildlife/CityTier2Flavor'/>"/>
+	<entry name="Wildlife/CityTier3" value="<string name='Traits/Wildlife/CityTier3'/>"/>
+	<entry name="Wildlife/CityTier3Description" value="<string name='Traits/Wildlife/CityTier2Description'/>"/>
+	<entry name="Wildlife/CityTier3Flavor" value="<string name='Traits/Wildlife/CityTier3Flavor'/>"/>
+	<entry name="Wildlife/CityTier4" value="<string name='Traits/Wildlife/CityTier4'/>"/>
+	<entry name="Wildlife/CityTier4Description" value="<string name='Traits/Wildlife/CityTier2Description'/>"/>
+
+	<entry name="Wildlife/VespidStingwing" value="<string name='Units/Neutral/VespidStingwing'/>"/>
+	<entry name="Wildlife/NeophyteHybrid" value="<string name='Units/Neutral/NeophyteHybrid'/>"/>
+	<entry name="Wildlife/ChaosCultist" value="<string name='Units/ChaosSpaceMarines/ChaosCultist'/>"/>
+	<entry name="Wildlife/LordOfSkulls" value="<string name='Units/Neutral/LordOfSkulls'/>"/>
+	<entry name="Wildlife/Ambull" value="<string name='Units/Neutral/Ambull'/>"/>
+	<entry name="Wildlife/KastelanRobot" value="<string name='Units/Neutral/KastelanRobot'/>"/>
+	<entry name="Wildlife/Enslaver" value="<string name='Units/Neutral/Enslaver'/>"/>
+	<entry name="Wildlife/Umbra" value="<string name='Units/Neutral/Umbra'/>"/>
+	
+</language>

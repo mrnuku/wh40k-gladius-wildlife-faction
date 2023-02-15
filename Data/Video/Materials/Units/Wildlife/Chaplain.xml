@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<material>
+	<textures>
+		<texture name="Units/SpaceMarines/ChaplainDiffuse"/>
+		<texture name="Units/SpaceMarines/ChaplainNormal"/>
+		<texture name="Units/SpaceMarines/ChaplainSIC"/>
+		<texture name="ShadowMapColor"/>
+	</textures>
+</material>

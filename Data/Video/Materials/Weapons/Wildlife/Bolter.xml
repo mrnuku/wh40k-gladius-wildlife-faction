@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<material>
+	<textures>
+		<texture name="Weapons/SpaceMarines/BolterDiffuse"/>
+		<texture name="Weapons/SpaceMarines/BolterNormal"/>
+		<texture name="Weapons/SpaceMarines/BolterSIC"/>
+		<texture name="ShadowMapColor"/>
+	</textures>
+</material>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<material>
+	<textures>
+		<texture name="Units/SpaceMarines/LandRaiderDiffuse"/>
+		<texture name="Units/SpaceMarines/LandRaiderNormal"/>
+		<texture name="Units/SpaceMarines/LandRaiderSIC"/>
+		<texture name="ShadowMapColor"/>
+		<texture name="Units/SpaceMarines/LandRaiderAnimation"/>
+	</textures>
+</material>

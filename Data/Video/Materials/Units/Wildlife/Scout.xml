@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<material>
+	<textures>
+		<texture name="Units/SpaceMarines/ScoutDiffuse"/>
+		<texture name="Units/SpaceMarines/ScoutNormal"/>
+		<texture name="Units/SpaceMarines/ScoutSIC"/>
+		<texture name="ShadowMapColor"/>
+	</textures>
+</material>

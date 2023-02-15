@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<material>
+	<textures>
+		<texture name="Units/SpaceMarines/FortressOfRedemptionDiffuse"/>
+		<texture name="Units/SpaceMarines/FortressOfRedemptionNormal"/>
+		<texture name="Units/SpaceMarines/FortressOfRedemptionSIC"/>
+		<texture name="ShadowMapColor"/>
+	</textures>
+</material>

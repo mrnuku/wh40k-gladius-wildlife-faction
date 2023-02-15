@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<material>
+	<textures>
+		<texture name="Units/SpaceMarines/StormtalonGunshipDiffuse"/>
+		<texture name="Units/SpaceMarines/StormtalonGunshipNormal"/>
+		<texture name="Units/SpaceMarines/StormtalonGunshipSIC"/>
+		<texture name="ShadowMapColor"/>
+	</textures>
+</material>

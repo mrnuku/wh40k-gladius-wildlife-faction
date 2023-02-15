@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="Wildlife/Aircraft" value="Launch Pads"/>
+	<entry name="Wildlife/AircraftDescription" value="Building that produces aircraft as well as generates requisitions and influence."/>
+	<entry name="Wildlife/AircraftFlavor" value="Staging area for the Chapter's aerial assault craft and transports, from whence battle-brothers may embark upon their endless crusade. The fortress-monastery's active gunships, interceptors, landing craft and even its mighty Thunderhawks are housed in a hive of hangars below the launch pads."/>
+	<entry name="Wildlife/Construction" value="Orbital Relay"/>
+	<entry name="Wildlife/ConstructionDescription" value="Building that constructs new buildings and generates influence."/>
+	<entry name="Wildlife/ConstructionFlavor" value="In normal times, the various Teleportaria would be used to transport troops to and from nearby starships. In these warptorn times, the Orbital Relay serves a more important function, communicating with the low-orbiting Battle Barge and calling down important requisitions for rapid surface deployment."/>
+	<entry name="Wildlife/Energy" value="Generatorum"/>
+	<entry name="Wildlife/EnergyDescription" value="Building that generates energy."/>
+	<entry name="Wildlife/EnergyFlavor" value="Though the light of the Emperor is the true source of every Chapter's strength, a physical power source is also required. The exact nature of its Generatorum differs from Chapter to Chapter. The Space Wolves, for instance, have driven immense crystal shafts deep into the surface of the planet Fenris, transforming subterranean heat into the endless energy their fortress-monastery demands."/>
+	<entry name="Wildlife/Food" value="Soylens Farm"/>
+	<entry name="Wildlife/FoodDescription" value="Building that harvests food."/>
+	<entry name="Wildlife/FoodFlavor" value="Soylens viridians might be filling, nutritious and easy to grow in great vats—but as a foodstuff it has some drawbacks. First, it's utterly bland and flavourless. Second, it looks like green gloop. Third, it's made from any available organic matter. Persistent rumour has it that human corpses are not excluded."/>
+	<entry name="Wildlife/GeneseedBunker" value="Geneseed Bunker"/>
+	<entry name="Wildlife/GeneseedBunkerDescription" value="Building that stores the geneseed of your chapter and generates influence."/>
+	<entry name="Wildlife/GeneseedBunkerFlavor" value="Using all of the secrets of the machine spirits, Techmarines have designed these bunkers to be shielded in every possible way—physically, electromagnetically and psychically. It will take the labour of hundreds of heavy Servitors, but even if a Chapter's warriors die to a man, the Apothecaries and geneseed in these bunkers will be able to resurrect it… eventually."/>
+	<entry name="Wildlife/Headquarters" value="Great Hall"/>
+	<entry name="Wildlife/HeadquartersDescription" value="Headquarters building that generates resources."/>
+	<entry name="Wildlife/HeadquartersFlavor" value="Every fortress-monastery contains myriad halls large enough to house several armies, but most have too a Great Hall, centerpiece of a Chapter's home. Trophies, relics and even its most revered spacecraft may be housed within the Great Hall. If the sight of the Great Hall does not reduce a visitor to dumbfounded silence, then it has failed in its purpose."/>
+	<entry name="Wildlife/Heroes" value="Reclusiam"/>
+	<entry name="Wildlife/HeroesDescription" value="Building that produces heroes as well as generates influence and increases loyalty."/>
+	<entry name="Wildlife/HeroesFlavor" value="For those rare ceremonies that require the attendance of every Battle Brother, the vastness of the Reclusiam allows the entire Chapter to gather. This is the most precious place in a fortress-monastery—home to its most sacred relics and, in a rare few, the very body of its Primarch. It is also the seat of the chapter's commanders and heroes."/>
+	<entry name="Wildlife/Housing" value="Dormitories"/>
+	<entry name="Wildlife/HousingDescription" value="Building that increases population limit."/>
+	<entry name="Wildlife/HousingFlavor" value="Though each Battle-Brother receives his own personal cell, those members of a Chapter who do not directly enforce the will of the Emperor share communal quarters spread across the fortress-monastery. Support staff including servants, nurses and technicians call these stark dormitories home."/>
+	<entry name="Wildlife/Infantry" value="Apothecarion"/>
+	<entry name="Wildlife/InfantryDescription" value="Building that produces infantry as well as increases population limit and generates research."/>
+	<entry name="Wildlife/InfantryFlavor" value="The Apothecarion provides medical support for wounded Battle-Brothers, and plays a vital role in the elevation of an Aspirant to a Space Marine. Both these functions pale into insignificance against the Apothecarion's other purpose—the preservation of its Chapter's unique gene-seed, from which new Space Marines are created. If the gene-seed is lost, so too is the Chapter."/>
+	<entry name="Wildlife/Influence" value="Assimularum"/>
+	<entry name="Wildlife/InfluenceDescription" value="Building that generates influence."/>
+	<entry name="Wildlife/InfluenceFlavor" value="An immense and high-ceilinged gathering-place, wherein every member of the Chapter may assemble to attend briefings, ceremonies and even feasts of particular import. In most fortress-monasteries, the Great Hall is the only room to exceed the sheer size of the Assimularum."/>
+	<entry name="Wildlife/Loyalty" value="Company Chapel"/>
+	<entry name="Wildlife/LoyaltyDescription" value="Building that increases loyalty."/>
+	<entry name="Wildlife/LoyaltyFlavor" value="Here the Chaplains tend to the spiritual well-being of their charges, ensuring the discipline of every Marine and keeping their minds and spirits pure. In order to accommodate this, each of the Chapter's ten Companies has its own dedicated chapel. Greater ceremonies take place in the Reclusiam itself."/>
+	<entry name="Wildlife/Requisitions" value="Refectory"/>
+	<entry name="Wildlife/RequisitionsDescription" value="Building that generates requisitions."/>
+	<entry name="Wildlife/RequisitionsFlavor" value="The Chapter's mammoth dining halls and kitchens are contained within its Refectories. The Space Marine diet is a spartan affair, augmented with a cocktail of bio-chemical supplements to ensure constant battle-readiness. The Battle-Brothers consume this repast in complete silence."/>
+	<entry name="Wildlife/Research" value="Librarium"/>
+	<entry name="Wildlife/ResearchDescription" value="Building that generates research."/>
+	<entry name="Wildlife/ResearchFlavor" value="Though also a store for extensive written histories of its Chapter, the Librarium is first and foremost its central command, communications and defence station. Here, Astropaths manage external and intra-base comms, while Librarians and psykers pore over, protect and update the Chapter's centuries of wisdom."/>
+	<entry name="Wildlife/Vehicles" value="Armoury"/>
+	<entry name="Wildlife/VehiclesDescription" value="Building that produces ground vehicles as well as generates requisitions and research."/>
+	<entry name="Wildlife/VehiclesFlavor" value="Home to anything that a Marine might employ to purge the battlefield of xenos and heretics, from the simplest combat knife to the most redoubtable of relics. The Master of Ordnance keeps a close watch upon the Chapter's wargear—only his gene-print can grant access to this titanic underground repository of weapons and vehicles."/>
+</language>

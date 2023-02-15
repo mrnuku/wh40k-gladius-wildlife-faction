@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="Wildlife/Omniscope" value="Omniscope"/>
+	<entry name="Wildlife/OmniscopeDescription" value="Ignores enemy ranged damage reduction."/>
+	<entry name="Wildlife/OmniscopeFlavor" value="Centurions make use of omniscopes to better direct their fearsome firepower and pierce the gloom of a hostile galaxy."/>
+</language>

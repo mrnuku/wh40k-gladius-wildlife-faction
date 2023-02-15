@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<material>
+	<textures>
+		<texture name="Units/SpaceMarines/LibrarianDiffuse"/>
+		<texture name="Units/SpaceMarines/LibrarianNormal"/>
+		<texture name="Units/SpaceMarines/LibrarianSIC"/>
+		<texture name="ShadowMapColor"/>
+	</textures>
+</material>

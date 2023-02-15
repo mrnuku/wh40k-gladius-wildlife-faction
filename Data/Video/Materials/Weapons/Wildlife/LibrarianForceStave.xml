@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<material>
+	<textures>
+		<texture name="Weapons/SpaceMarines/LibrarianForceStaveDiffuse"/>
+		<texture name="Weapons/SpaceMarines/LibrarianForceStaveNormal"/>
+		<texture name="Weapons/SpaceMarines/LibrarianForceStaveSIC"/>
+		<texture name="ShadowMapColor"/>
+	</textures>
+</material>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="Wildlife0" value="Sullius"/>
+	<entry name="Wildlife1" value="Domenico"/>
+	<entry name="Wildlife2" value="Hipparchus"/>
+	<entry name="Wildlife3" value="Phaedron"/>
+	<entry name="Wildlife4" value="Draco"/>
+	<entry name="Wildlife5" value="Leonatus"/>
+	<entry name="Wildlife6" value="Telamon"/>
+	<entry name="Wildlife7" value="Belleraphon"/>
+	<entry name="Wildlife8" value="Iason"/>
+	<entry name="Wildlife9" value="Meleager"/>
+	<entry name="Wildlife10" value="Astorius"/>
+	<entry name="Wildlife11" value="Hagan"/>
+	<entry name="Wildlife12" value="Perseter"/>
+	<entry name="Wildlife13" value="Khagani"/>
+	<entry name="Wildlife14" value="Tarvitz"/>
+	<entry name="Wildlife15" value="Penates"/>
+	<entry name="Wildlife16" value="Achilles"/>
+	<entry name="Wildlife17" value="Ajax"/>
+	<entry name="Wildlife18" value="Diomedes"/>
+	<entry name="Wildlife19" value="Meriones"/>
+	<entry name="Wildlife20" value="Teuxer"/>
+	<entry name="WildlifeCount" value="21"/>
+</language>
