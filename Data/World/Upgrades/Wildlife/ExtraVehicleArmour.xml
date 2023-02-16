@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<upgrade position="7" icon="Traits/ExtraVehicleArmour">
+<upgrade position="8" icon="Traits/ExtraVehicleArmour">
 	<requiredUpgrades>
 		<upgrade name="Wildlife/Vehicles"/>
 	</requiredUpgrades>
