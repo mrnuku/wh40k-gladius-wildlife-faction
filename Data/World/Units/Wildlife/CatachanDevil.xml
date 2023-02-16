@@ -116,5 +116,6 @@
 		<trait name="Relentless"/>
 		<trait name="Smash"/>
 		<trait name="Stealth"/>
+		<trait name="ExtraVehicleArmour" requiredUpgrade="Wildlife/ExtraVehicleArmour"/>
 	</traits>
 </unit>

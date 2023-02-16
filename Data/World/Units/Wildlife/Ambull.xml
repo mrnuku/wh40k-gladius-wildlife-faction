@@ -71,5 +71,6 @@
 	<traits>
 		<trait name="Regeneration"/>
 		<trait name="Rending"/>
+		<trait name="ExtraVehicleArmour" requiredUpgrade="Wildlife/ExtraVehicleArmour"/>
 	</traits>
 </unit>

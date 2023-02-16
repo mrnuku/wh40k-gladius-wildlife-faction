@@ -118,6 +118,7 @@
 	<traits>
 		<trait name="AdeptusMechanicus/CanticlesOfTheOmnissiah"/>
 		<trait name="ExtraVehicleArmour" requiredUpgrade="AdeptusMechanicus/ExtraVehicleArmour"/>
+		<trait name="ExtraVehicleArmour" requiredUpgrade="Wildlife/ExtraVehicleArmour"/>
 		<trait name="Fearless"/>
 		<trait name="FeelNoPain"/>
 		<trait name="RepulsorGrid"/>
