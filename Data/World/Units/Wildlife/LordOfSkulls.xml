@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<unit dlc="LordOfSkulls" spawnCountMax="1">
+<unit dlc="LordOfSkulls">
 	<model>
 		<unit mesh="Units/Neutral/LordOfSkulls"
 				material="Units/Neutral/LordOfSkulls"
@@ -53,6 +53,13 @@
 			</effects>
 		</modifier>
 	</modifiers>
+	<strategyModifiers>
+		<modifier>
+			<effects>
+				<increaseHeroesScore base="1.0"/>
+			</effects>
+		</modifier>
+	</strategyModifiers>
 	<actions>
 		<attack>
 			<model>
