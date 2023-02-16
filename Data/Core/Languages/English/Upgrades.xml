@@ -56,5 +56,6 @@
 	<entry name="Wildlife/KastelanRobot" value="<string name='Units/Neutral/KastelanRobot'/>"/>
 	<entry name="Wildlife/Enslaver" value="<string name='Units/Neutral/Enslaver'/>"/>
 	<entry name="Wildlife/Umbra" value="<string name='Units/Neutral/Umbra'/>"/>
+	<entry name="Wildlife/TechpriestBetrayer" value="<string name='Units/Neutral/TechpriestBetrayer'/>"/>
 	
 </language>
