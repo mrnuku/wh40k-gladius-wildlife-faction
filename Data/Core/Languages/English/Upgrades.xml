@@ -38,6 +38,9 @@
 	<entry name="Wildlife/SiegeMasters" value="<string name='Traits/SiegeMasters'/>"/>
 	<entry name="Wildlife/SiegeMastersDescription" value="<string name='Actions/SiegeMastersDescription'/>"/>
 	<entry name="Wildlife/SiegeMastersFlavor" value="<string name='Actions/SiegeMastersFlavor'/>"/>
+	<entry name="Wildlife/BoltDamage" value="<string name='Traits/SpaceMarines/BoltDamage'/>"/>
+	<entry name="Wildlife/BoltDamageDescription" value="<string name='Upgrades/AstraMilitarum/BoltDamageDescription'/>"/>
+	<entry name="Wildlife/BoltDamageFlavor" value="<string name='Traits/SpaceMarines/BoltDamageFlavor'/>"/>
 
 	<entry name="Wildlife/CityTier2" value="<string name='Traits/Wildlife/CityTier2'/>"/>
 	<entry name="Wildlife/CityTier2Description" value="Increases the tile acquisition radius of the city."/>
