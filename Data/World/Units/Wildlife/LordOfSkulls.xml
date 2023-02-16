@@ -40,6 +40,7 @@
 				<hitpointsMax base="108.0"/> <!-- %hitpointsMax base armor=13/13/11 wounds=9 -->
 				<influenceUpkeep base="10.0"/> <!-- %influenceUpkeep base tier=13 factor=0.5 -->
 				<influenceCost base="100.0"/> <!-- %influenceCost base tier=13 factor=0.25 -->
+				<itemSlots base="6"/>
 				<meleeAccuracy base="8"/> <!-- %meleeAccuracy base weaponSkill=4 -->
 				<meleeAttacks base="2"/>
 				<strengthDamage base="12"/> <!-- %strengthDamage base strength=10 -->
