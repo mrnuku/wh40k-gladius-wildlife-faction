@@ -91,7 +91,7 @@
 						soundCount="3"/>
 			</model>
 		</move>
-		<foundCity>
+		<!-- <foundCity>
 			<model>
 				<action animation="Units/AdeptusMechanicus/CyberneticaDatasmithAbility"
 						sound="Actions/FoundCity"/>
@@ -104,8 +104,8 @@
 					</effects>
 				</modifier>
 			</modifiers>
-		</foundCity>
-		<clearTileUnitAbility cooldown="1"
+		</foundCity> -->
+		<!-- <clearTileUnitAbility cooldown="1"
 				icon="Actions/ClearTile"
 				name="ClearTile">
 			<model>
@@ -125,7 +125,36 @@
 					</effects>
 				</modifier>
 			</modifiers>
-		</clearTileUnitAbility>
+		</clearTileUnitAbility> -->
+		<narthecium cooldown="1">
+			<model>
+				<action animation="Units/AdeptusMechanicus/CyberneticaDatasmithAbility"
+						sound="Actions/Heal"/>
+			</model>
+			<beginTargets>
+				<target rangeMax="1">
+					<conditions>
+						<unit>
+							<allied/>
+							<damaged/>
+							<noTrait name="Fortification"/>
+							<noTrait name="Vehicle"/>
+						</unit>
+					</conditions>
+					<areas>
+						<area affects="Unit">
+							<modifiers>
+								<modifier>
+									<effects>
+										<hitpoints add="8"/>
+									</effects>
+								</modifier>
+							</modifiers>
+						</area>
+					</areas>
+				</target>
+			</beginTargets>
+		</narthecium>
 		<masterOfMachines cooldown="1"
 				name="AdeptusMechanicus/MasterOfMachines">
 			<model>
@@ -150,7 +179,7 @@
 							<modifiers>
 								<modifier>
 									<effects>
-										<hitpoints add="6"/>
+										<hitpoints add="12"/>
 									</effects>
 								</modifier>
 							</modifiers>
