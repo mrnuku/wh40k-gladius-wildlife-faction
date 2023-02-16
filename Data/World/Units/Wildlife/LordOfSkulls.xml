@@ -159,6 +159,7 @@
 				<action sound="Actions/Teleport"/>
 			</model>
 		</warpOut>
+		<shop/>
 	</actions>
 	<traits>
 		<trait name="Daemon"/>
