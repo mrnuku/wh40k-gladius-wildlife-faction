@@ -204,6 +204,6 @@
 		<trait name="AdeptusMechanicus/CanticlesOfTheOmnissiah"/>
 		<trait name="FeelNoPain"/>
 		<trait name="RefractorField"/>
-		<trait name="ExtraInfantryArmour" requiredUpgrade="AdeptusMechanicus/ExtraInfantryArmour"/>
+		<trait name="EavyArmour" requiredUpgrade="Wildlife/ExtraInfantryArmour"/>
 	</traits>
 </unit>

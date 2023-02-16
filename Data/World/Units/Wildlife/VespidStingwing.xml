@@ -100,5 +100,6 @@
 		<trait name="HitAndRun"/>
 		<trait name="MoveThroughCover"/>
 		<trait name="RuinsStealth"/>
+		<trait name="EavyArmour" requiredUpgrade="Wildlife/ExtraInfantryArmour"/>
 	</traits>
 </unit>

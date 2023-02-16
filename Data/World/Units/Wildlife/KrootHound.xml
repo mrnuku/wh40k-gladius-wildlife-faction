@@ -72,5 +72,6 @@
 		<trait name="Infiltrate"/>
 		<trait name="MoveThroughCover"/>
 		<trait name="ForestStealth"/>
+		<trait name="EavyArmour" requiredUpgrade="Wildlife/ExtraInfantryArmour"/>
 	</traits>
 </unit>

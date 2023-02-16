@@ -104,6 +104,6 @@
 	</actions>
 	<traits>
 		<trait name="CultAmbush"/>
-		<trait name="ExtraInfantryArmour" requiredUpgrade="ChaosSpaceMarines/ExtraInfantryArmour"/>
+		<trait name="EavyArmour" requiredUpgrade="Wildlife/ExtraInfantryArmour"/>
 	</traits>
 </unit>

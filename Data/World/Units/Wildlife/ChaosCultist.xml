@@ -218,6 +218,6 @@
 	</actions>
 	<traits>
 		<trait name="ChaosSpaceMarines/ChampionOfChaos"/>
-		<trait name="ExtraInfantryArmour" requiredUpgrade="ChaosSpaceMarines/ExtraInfantryArmour"/>
+		<trait name="EavyArmour" requiredUpgrade="Wildlife/ExtraInfantryArmour"/>
 	</traits>
 </unit>

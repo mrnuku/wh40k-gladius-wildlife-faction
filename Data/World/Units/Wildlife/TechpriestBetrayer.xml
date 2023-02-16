@@ -151,5 +151,6 @@
 		<trait name="FeelNoPain"/>
 		<trait name="Hero"/>
 		<trait name="RefractorField"/>
+		<trait name="EavyArmour" requiredUpgrade="Wildlife/ExtraInfantryArmour"/>
 	</traits>
 </unit>
