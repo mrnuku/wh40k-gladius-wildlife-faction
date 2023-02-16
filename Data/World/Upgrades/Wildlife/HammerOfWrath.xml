@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<upgrade position="6" icon="Actions/HammerOfWrath">
+<upgrade position="9" icon="Actions/HammerOfWrath">
 	<requiredUpgrades>
 		<upgrade name="Wildlife/Vehicles"/>
 	</requiredUpgrades>
