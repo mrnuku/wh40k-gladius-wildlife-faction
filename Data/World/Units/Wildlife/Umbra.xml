@@ -90,7 +90,8 @@
 		</auraOfFear>
 		<hammerOfWrath consumedActionPoints="0" 
 				consumedMovement="0"
-				cooldown="3">
+				cooldown="3"
+				requiredUpgrade="Wildlife/HammerOfWrath">
 			<model>
 				<action sound="Actions/PsychicBuff"/>
 			</model>

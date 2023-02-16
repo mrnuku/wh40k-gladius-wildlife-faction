@@ -24,7 +24,7 @@
 	<entry name="Wildlife/VehiclesFlavor" value="<string name='Buildings/Wildlife/VehiclesFlavor'/>"/>
 
 	<entry name="Wildlife/HammerOfWrath" value="<string name='Actions/HammerOfWrath'/>"/>
-	<entry name="Wildlife/HammerOfWrathDescription" value="Grants Assault Space Marines, Dreadnoughts and Scout Bikers the ability to perform more devastating attacks."/>
+	<entry name="Wildlife/HammerOfWrathDescription" value="Grants Catachan Devils, Kastelan Robots, Umbras and Lord Of Skulls the ability to perform more devastating attacks."/>
 	<entry name="Wildlife/HammerOfWrathFlavor" value="<string name='Actions/HammerOfWrathFlavor'/>"/>
 	<entry name="Wildlife/ExtraInfantryArmour" value="<string name='Traits/ExtraInfantryArmour'/>"/>
 	<entry name="Wildlife/ExtraInfantryArmourDescription" value="<string name='Upgrades/AstraMilitarum/ExtraInfantryArmourDescription'/>"/>

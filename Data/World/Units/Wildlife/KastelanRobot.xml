@@ -94,7 +94,7 @@
 		<hammerOfWrath consumedActionPoints="0"
 				consumedMovement="0"
 				cooldown="3"
-				requiredUpgrade="AdeptusMechanicus/HammerOfWrath">
+				requiredUpgrade="Wildlife/HammerOfWrath">
 			<model>
 				<action sound="Actions/PsychicBuff"/>
 			</model>
