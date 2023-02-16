@@ -91,6 +91,13 @@
 				<action animation="Units/Neutral/EnslaverAttack"
 						sound="Actions/PsychicDebuff"/>
 			</model>
+			<modifiers>
+				<modifier visible="0">
+					<effects>
+						<influenceCost base="20"/>
+					</effects>
+				</modifier>
+			</modifiers>
 			<beginTargets>
 				<target rangeMax="1">
 					<conditions>
