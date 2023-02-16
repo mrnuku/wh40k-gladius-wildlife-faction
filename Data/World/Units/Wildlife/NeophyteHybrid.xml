@@ -13,7 +13,7 @@
 	</model>
 	<group size="6" rowSize="3" memberDeltaX="70" memberDeltaY="60"/>
 	<weapons>
-		<weapon name="Autogun">
+		<weapon name="Snazzgun">
 			<model>
 				<projectileWeapon mesh="Weapons/Neutral/Autogun"
 						material="Units/Neutral/NeophyteHybrid"
