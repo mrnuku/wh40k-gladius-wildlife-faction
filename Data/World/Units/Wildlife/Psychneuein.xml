@@ -103,6 +103,6 @@
 	<traits>
 		<trait name="Flyer"/>
 		<!-- <trait name="Hover"/> -->
-		<trait name="PsychneueinInfest"/>
+		<trait name="WildlifePsychneueinInfest"/>
 	</traits>
 </unit>

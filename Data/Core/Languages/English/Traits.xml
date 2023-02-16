@@ -30,4 +30,9 @@
 	<entry name="Wildlife/Omniscope" value="<string name='Actions/Wildlife/Omniscope'/>"/>
 	<entry name="Wildlife/OmniscopeDescription" value="<string name='Actions/Wildlife/OmniscopeDescription'/>"/>
 	<entry name="Wildlife/OmniscopeFlavor" value="<string name='Actions/Wildlife/OmniscopeFlavor'/>"/>
+	<entry name="WildlifePsychneueinInfest" value="<string name='Traits/PsychneueinInfest'/>"/>
+	<entry name="WildlifePsychneueinInfestDescription" value="<string name='Traits/PsychneueinInfestDescription'/>"/>
+	<entry name="WildlifePsychneueinInfestation" value="<string name='Traits/PsychneueinInfestation'/>"/>
+	<entry name="WildlifePsychneueinInfestationDescription" value="<string name='Traits/PsychneueinInfestationDescription'/>"/>
+
 </language>
