@@ -33,6 +33,7 @@
 		</modifier>
 	</strategyModifiers>
 	<actions>
+		<produceUnit unit="Wildlife/CyberneticaDatasmith"/>
 		<produceUnit unit="Wildlife/TechpriestBetrayer"/>
 		<produceUnit unit="Wildlife/ChaosCultist" requiredUpgrade="Wildlife/ChaosCultist"/>
 		<produceUnit unit="Wildlife/LordOfSkulls" requiredUpgrade="Wildlife/LordOfSkulls"/>
