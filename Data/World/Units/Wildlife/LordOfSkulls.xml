@@ -130,7 +130,8 @@
 		<useWeapon cooldown="1"
 				requiredActionPoints="0"
 				consumedActionPoints="0"
-				weaponSlotName="GorestormCannon">	
+				weaponSlotName="GorestormCannon"
+				requiredUpgrade="Wildlife/LordOfSkullsGorestormCannon">	
 			<model>
 				<action	animation="Units/Neutral/LordOfSkullsAttack"
 						beginFire="0.15"
@@ -140,7 +141,8 @@
 		<useWeapon cooldown="1"
 				requiredActionPoints="0"
 				consumedActionPoints="0"
-				weaponSlotName="HadesGatlingCannon">
+				weaponSlotName="HadesGatlingCannon"
+				requiredUpgrade="Wildlife/LordOfSkullsHadesGatlingCannon">
 			<model>
 				<action	animation="Units/Neutral/LordOfSkullsAttack"
 							beginFire="0.15"

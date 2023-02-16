@@ -55,6 +55,12 @@
 	<entry name="Wildlife/NeophyteHybrid" value="<string name='Units/Neutral/NeophyteHybrid'/>"/>
 	<entry name="Wildlife/ChaosCultist" value="<string name='Units/ChaosSpaceMarines/ChaosCultist'/>"/>
 	<entry name="Wildlife/LordOfSkulls" value="<string name='Units/Neutral/LordOfSkulls'/>"/>
+	<entry name="Wildlife/LordOfSkullsGorestormCannon" value="<string name='Weapons/GorestormCannon'/>"/>
+	<entry name="Wildlife/LordOfSkullsGorestormCannonDescription" value="<string name='Weapons/GorestormCannonFlavor'/>"/>
+	<entry name="Wildlife/LordOfSkullsGorestormCannonFlavor" value="<string name='Weapons/GorestormCannonFlavor'/>"/>
+	<entry name="Wildlife/LordOfSkullsHadesGatlingCannon" value="<string name='Weapons/HadesGatlingCannon'/>"/>
+	<entry name="Wildlife/LordOfSkullsHadesGatlingCannonDescription" value="<string name='Weapons/HadesGatlingCannonFlavor'/>"/>
+	<entry name="Wildlife/LordOfSkullsHadesGatlingCannonFlavor" value="<string name='Weapons/HadesGatlingCannonFlavor'/>"/>
 	<entry name="Wildlife/CatachanDevil" value="<string name='Units/Neutral/CatachanDevil'/>"/>
 	<entry name="Wildlife/KastelanRobot" value="<string name='Units/Neutral/KastelanRobot'/>"/>
 	<entry name="Wildlife/Enslaver" value="<string name='Units/Neutral/Enslaver'/>"/>
