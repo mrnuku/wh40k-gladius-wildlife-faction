@@ -33,8 +33,8 @@
 		</modifier>
 	</strategyModifiers>
 	<actions>
-		<produceUnit unit="Neutral/CatachanDevil"/>
-		<produceUnit unit="Neutral/Ambull" requiredUpgrade="Wildlife/Ambull"/>
-		<produceUnit unit="Neutral/KastelanRobot" requiredUpgrade="Wildlife/KastelanRobot"/>
+		<produceUnit unit="Wildlife/CatachanDevil"/>
+		<produceUnit unit="Wildlife/Ambull" requiredUpgrade="Wildlife/Ambull"/>
+		<produceUnit unit="Wildlife/KastelanRobot" requiredUpgrade="Wildlife/KastelanRobot"/>
 	</actions>
 </building>

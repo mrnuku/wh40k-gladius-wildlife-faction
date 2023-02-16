@@ -33,8 +33,8 @@
 		</modifier>
 	</strategyModifiers>
 	<actions>
-		<produceUnit unit="Neutral/TechpriestBetrayer"/>
-		<produceUnit unit="ChaosSpaceMarines/ChaosCultist" requiredUpgrade="Wildlife/ChaosCultist"/>
-		<produceUnit unit="Neutral/LordOfSkulls" requiredUpgrade="Wildlife/LordOfSkulls"/>
+		<produceUnit unit="Wildlife/TechpriestBetrayer"/>
+		<produceUnit unit="Wildlife/ChaosCultist" requiredUpgrade="Wildlife/ChaosCultist"/>
+		<produceUnit unit="Wildlife/LordOfSkulls" requiredUpgrade="Wildlife/LordOfSkulls"/>
 	</actions>
 </building>

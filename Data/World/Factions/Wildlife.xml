@@ -156,7 +156,7 @@
 						<accumulateResearch count="200"/>
 					</objectives>
 					<rewards>
-						<unit type="Neutral/Ambull"/>
+						<unit type="Wildlife/Ambull"/>
 					</rewards>
 				</stage>
 				<stage>
@@ -313,9 +313,9 @@
 		</deployCity>
 		<deployFortress cooldown="10"
 				cooldownScalesWithPace="1"
-				icon="Actions/DeployFortressOfRedemption"
+				icon="Units/Wildlife/CatachanDevilLair"
 				scaleInfluenceCost="1"
-				unit="Neutral/CatachanDevilLair">
+				unit="Wildlife/CatachanDevilLair">
 			<model>
 				<action sound="Actions/DropPod"/>
 			</model>
@@ -574,6 +574,6 @@
 		</tactic>
 	</actions>
 	<startingUnits>
-		<unit type="Neutral/KrootHound" count="2"/>
+		<unit type="Wildlife/KrootHound" count="2"/>
 	</startingUnits>
 </faction>
