@@ -21,7 +21,7 @@
 		</unit>
 	</model>
 	<weapons>
-		<weapon name="Shadowlimbs">
+		<weapon name="WildlifeShadowlimbs">
 			<model>
 				<beamWeapon muzzleBone="Muzzle" fireInterval="0.3"/>
 			</model>

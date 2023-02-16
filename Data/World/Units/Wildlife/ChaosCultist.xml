@@ -22,7 +22,7 @@
 						fireInterval="0.25"/>
 			</model>
 		</weapon>
-		<weapon name="CloseCombatWeapon">
+		<weapon name="WildlifeCloseCombatWeapon">
  			<model>
 				<weapon fireInterval="0.5"/>
 			</model>

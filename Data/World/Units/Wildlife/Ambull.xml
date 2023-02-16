@@ -13,7 +13,7 @@
 	</model>
 	<group size="3" rowSize="3" memberDeltaX="120" memberDeltaY="80"/>
 	<weapons>
-		<weapon name="CloseCombatWeapon">
+		<weapon name="WildlifeCloseCombatWeapon">
 			<model>
 				<weapon fireInterval="0.5"
 						fireSoundCount="0"/>

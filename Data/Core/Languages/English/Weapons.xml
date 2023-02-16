@@ -2,5 +2,7 @@
 <language>
 
 	<entry name="WildlifeSnazzgun" value="<string name='Weapons/Snazzgun'/>"/>
+	<entry name="WildlifeCloseCombatWeapon" value="<string name='Weapons/CloseCombatWeapon'/>"/>
+	<entry name="WildlifeWildlifeShadowlimbs" value="<string name='Weapons/Shadowlimbs'/>"/>
 
 </language>
