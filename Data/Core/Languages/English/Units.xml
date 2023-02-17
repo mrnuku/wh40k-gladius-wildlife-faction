@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <language>
-	<entry name="Wildlife/Ambull" value="Ambulls"/>
-	<entry name="Wildlife/AmbullDescription" value="Powerful native brawler unit that regenerates hitpoints each turn."/>
-	<entry name="Wildlife/AmbullFlavor" value="The Ambull is an ape-like Xenos species native to the desert Death World of Luther McIntyre IX, which has spread throughout the Imperium of man (presumably as a result of failed attempts at domestication). They are a subterranean race, able to move through ice, sand or rock at speed, and prone to excavating long tunnels as homes."/>
-	<entry name="Wildlife/CatachanDevil" value="Catachan Devil"/>
-	<entry name="Wildlife/CatachanDevilDescription" value="Devastating native unit that frightens enemies and fights in a reckless rage."/>
-	<entry name="Wildlife/CatachanDevilFlavor" value="Native to the death world Catachan, the Devil is scorpion-like in appearance, with a long segmented body ending in a poisonous barbed tail. A full-grown Devil can reach up to thirty meters in length, with the sixty legs of a mature 'Fiddler' allowing it to move at great speeds through all terrain. Once it's upon its prey, it will either shred it with its claws or stun it with its barbs, before consuming it."/>
-	<entry name="Wildlife/CatachanDevilLair" value="Catachan Devil Lair"/>
-	<entry name="Wildlife/CatachanDevilLairDescription" value="Stationary structure unit that spawns Catachan Devils over time."/>
-	<entry name="Wildlife/Enslaver" value="Enslavers"/>
-	<entry name="Wildlife/EnslaverDescription" value="Highly dangerous warp unit that enslaves the mind of its enemies."/>
-	<entry name="Wildlife/EnslaverFlavor" value="During the War in Heaven, legend tells that the Old Ones engineered new Warp-sensitive species to defeat the C'tan—Krork, Aeldari, Man and more. Yet they bargained without the denizens of the warp, the most numerous of which were the Enslavers or Psyrens. These transdimensional beings were able to rapidly enslave the new races, and hence aided in the downfall of the Old Ones. Today, Enslaver incursions are rare, but extremely destructive unless ended quickly."/>
-	<entry name="Wildlife/KastelanRobot" value="Kastelan Robot"/>
-	<entry name="Wildlife/KastelanRobotDescription" value="Extremely durable and heavily armed Canticles of the Omnissiah combat walker unit."/>
-	<entry name="Wildlife/KastelanRobotFlavor" value="Kastelan Robots are ancient monstrosities that stamp to war, each an unliving giant assigned a deadly purpose by its master. Soulless, these metallic golems are given thought only by the doctrina wafers in their recessed chestslots and the Cybernetica Datasmiths that program their every move. These machines are walking relics from aeons past, and all the deadlier for it—the air nearby thrums with power, bullets ricocheting from repulsor fields that glow like golden cages around them. Volleys of phosphor blasts and promethium incinerate their foes wherever they may hide, and crushing fists bring ruin wherever they strike. The violence meted out by each maniple is as inspiring to the Omnissiah's faithful as it is terrifying to his foes."/>
-	<entry name="Wildlife/KrootHound" value="Kroot Hounds"/>
-	<entry name="Wildlife/KrootHoundDescription" value="Agile predator unit that is particularly dangerous in forests."/>
-	<entry name="Wildlife/KrootHoundFlavor" value="The pseudo-avian Kroot is uniquely flexible, able to absorb the genetic data of other races by consuming them, but sometimes isolated Kroot communities run into evolutionary dead ends. The Kroot Hound is one such dead end, a devolution of the Kroot into a wolf-like species. On Gladius Prime, they have run feral for generations."/>
-	<entry name="Wildlife/LordOfSkulls" value="Lord of Skulls"/>
-	<entry name="Wildlife/LordOfSkullsDescription" value="Almost unstoppable war engine that can slaughter entire armies."/>
-	<entry name="Wildlife/LordOfSkullsFlavor" value="Grinding across the battlefield on rumbling tracks, the Lord of Skulls towers over its terrified foes. Given life by the raging spirit of a Bloodthirster bound within its hull, and powered by the boiling blood of murderers, this unholy engine of war is death to all who stand before it. Its devastating guns reduce swathes of victims to ruin, drowning them in jets of red-hot gore or burying them under rains of gnashing skulls. As it ploughs through the enemy ranks, the Daemon Engine wields its roaring cleaver with a speed and skill that is entirely horrifying in something so huge. Entire ranks of enemy warriors are swept away with a single swing, tanks and monstrous beasts swatted through the air like toys. Even towering war engines such as Stompas or Titans are made to look clumsy and sluggish as the Lord of Skulls hacks off their limbs and tears open their armoured torsos amid blossoms of dirty flame. Few warriors can face the Lord of Skulls and live, for it is a machine of absolute destruction."/>
-	<entry name="Wildlife/NeophyteHybrid" value="Neophyte Hybrids"/>
-	<entry name="Wildlife/NeophyteHybridDescription" value="Ranged infantry unit specialized in ambushes."/>
-	<entry name="Wildlife/NeophyteHybridFlavor" value="Each cultist is spry and tough of build—weathered over a lifetime of hard labour, their physical strength and reaction is bolstered by the alien genes lurking within. Neophyte Hybrids do not bear the outward hallmarks of the Patriarch's sacred touch; as their brood leaders tell them, their blessings are of the soul more than the body. These third and fourth generation hybrids can pass for human—some are even cunning enough to infiltrate the Astra Militarum. When the cult goes on the attack, these Neophytes show their true colours. Surging from sewers, catacombs and shadowy barracks, they swarm their enemies in such number they can seize control of a planet's defences within the first hours of conquest."/>
-	<entry name="Wildlife/Psychneuein" value="Psychneuein"/>
-	<entry name="Wildlife/PsychneueinDescription" value="Airborne elusive warp unit that infests its victims."/>
-	<entry name="Wildlife/PsychneueinFlavor" value="A rare Warp-sensitive creature apparently native to Prospero, the Psychneuein seems capable of travel through the Old One's Webways, meaning they're widely distributed around the galaxy. Parallel evolution has resulted in a wasp-like appearance, but a mature adult's significant strength, speed, toughness and rumoured ability to turn insubstantial at will makes them a threat to any sentient being."/>
-	<entry name="Wildlife/TechpriestBetrayer" value="Techpriest Betrayer"/>
-	<entry name="Wildlife/Umbra" value="Umbra"/>
-	<entry name="Wildlife/UmbraDescription" value="Terrifying flying monstrous creature that is vulnerable to light."/>
-	<entry name="Wildlife/UmbraFlavor" value="The Umbra are an alien species appearing as smooth black spheres that live in the void of space, often observed attracted to areas resonant of the warp such as starship hulls and warp engines or suspected entrances to the Aeldari Webway. They can manipulate and control shadows to form terrifying limbs of hooks, blades, teeth and other nightmarish shapes."/>
-	<entry name="Wildlife/VespidStingwing" value="Vespid Stingwings"/>
-	<entry name="Wildlife/VespidStingwingDescription" value="Quick ranged infantry unit that excels at combat in ruins and can fly over obstacles."/>
-	<entry name="Wildlife/VespidStingwingFlavor" value="Vespid Stingwings dart into battle with unsettling insectile speed. The high pitched whine of their wings inspires atavistic revulsion, seeming to come from every direction at once as it echoes and bounces from ruins and wreckage. When they strike, the Vespids do so with lightning speed, dropping from above with their neutron blasters emitting bolts of translucent fire. Each shot shimmers clean through the armour of the foe, scouring their bodies with massive doses of radiation and burning them alive from the inside."/>
-	<entry name="Wildlife/CyberneticaDatasmith" value="Cybernetica Datasmith"/>
-	<entry name="Wildlife/CyberneticaDatasmithDescription" value="Canticles of the Omnissiah infantry unit that repairs Adeptus Mechanicus units, reprograms Kastelan Robots, clears tiles and founds new cities."/>
-	<entry name="Wildlife/CyberneticaDatasmithFlavor" value="Datasmiths optimise the programming of their robotic charges. These Tech-Priests employ rituals and binharic hymns to bless the doctrina wafers through which they alter the robots’ protocols, all the while laying waste to the enemies of the Omnissiah with blasts of ionizing radiation from their gamma pistols."/>
-	<entry name="Wildlife/ChaosCultist" value="Chaos Cultists"/>
-	<entry name="Wildlife/ChaosCultistDescription" value="Mass infantry unit that can clear tiles, found cities and sacrifice itself to the Dark Gods."/>
-	<entry name="Wildlife/ChaosCultistFlavor" value="The cultists of Chaos can be found, in one form or another, almost anywhere the Imperium has spread. At first glance, they are indistinguishable from normal men, but under their clothes, their flesh is tattooed and branded with sigils that hurt the eyes of any faithful who look upon them. When the Chaos Space Marines come to a planet, the true colours of the cultists are revealed. The powers of darkness are ever quick to promise glory, and even the lowliest initiate knows that to fight alongside such legendary warriors is to court the gaze of the gods."/>
+	<entry name="Wildlife/Ambull" value="<string name='Units/Neutral/Ambull'/>"/>
+	<entry name="Wildlife/AmbullDescription" value="<string name='Units/Neutral/AmbullDescription'/>"/>
+	<entry name="Wildlife/AmbullFlavor" value="<string name='Units/Neutral/AmbullFlavor'/>"/>
+	<entry name="Wildlife/CatachanDevil" value="<string name='Units/Neutral/CatachanDevil'/>"/>
+	<entry name="Wildlife/CatachanDevilDescription" value="<string name='Units/Neutral/CatachanDevilDescription'/>"/>
+	<entry name="Wildlife/CatachanDevilFlavor" value="<string name='Units/Neutral/CatachanDevilFlavor'/>"/>
+	<entry name="Wildlife/CatachanDevilLair" value="<string name='Units/Neutral/CatachanDevilLair'/>"/>
+	<entry name="Wildlife/CatachanDevilLairDescription" value="<string name='Units/Neutral/CatachanDevilLairDescription'/>"/>
+	<entry name="Wildlife/Enslaver" value="<string name='Units/Neutral/Enslaver'/>"/>
+	<entry name="Wildlife/EnslaverDescription" value="<string name='Units/Neutral/EnslaverDescription'/>"/>
+	<entry name="Wildlife/EnslaverFlavor" value="<string name='Units/Neutral/EnslaverFlavor'/>"/>
+	<entry name="Wildlife/KastelanRobot" value="<string name='Units/Neutral/KastelanRobot'/>"/>
+	<entry name="Wildlife/KastelanRobotDescription" value="<string name='Units/Neutral/KastelanRobotDescription'/>"/>
+	<entry name="Wildlife/KastelanRobotFlavor" value="<string name='Units/Neutral/KastelanRobotFlavor'/>"/>
+	<entry name="Wildlife/KrootHound" value="<string name='Units/Neutral/KrootHound'/>"/>
+	<entry name="Wildlife/KrootHoundDescription" value="<string name='Units/Neutral/KrootHoundDescription'/>"/>
+	<entry name="Wildlife/KrootHoundFlavor" value="<string name='Units/Neutral/KrootHoundFlavor'/>"/>
+	<entry name="Wildlife/LordOfSkulls" value="<string name='Units/Neutral/LordOfSkulls'/>"/>
+	<entry name="Wildlife/LordOfSkullsDescription" value="<string name='Units/Neutral/LordOfSkullsDescription'/>"/>
+	<entry name="Wildlife/LordOfSkullsFlavor" value="<string name='Units/Neutral/LordOfSkullsFlavor'/>"/>
+	<entry name="Wildlife/NeophyteHybrid" value="<string name='Units/Neutral/NeophyteHybrid'/>"/>
+	<entry name="Wildlife/NeophyteHybridDescription" value="<string name='Units/Neutral/NeophyteHybridDescription'/>"/>
+	<entry name="Wildlife/NeophyteHybridFlavor" value="<string name='Units/Neutral/NeophyteHybridFlavor'/>"/>
+	<entry name="Wildlife/Psychneuein" value="<string name='Units/Neutral/Psychneuein'/>"/>
+	<entry name="Wildlife/PsychneueinDescription" value="<string name='Units/Neutral/PsychneueinDescription'/>"/>
+	<entry name="Wildlife/PsychneueinFlavor" value="<string name='Units/Neutral/PsychneueinFlavor'/>"/>
+	<entry name="Wildlife/TechpriestBetrayer" value="<string name='Units/Neutral/TechpriestBetrayer'/>"/>
+	<entry name="Wildlife/Umbra" value="<string name='Units/Neutral/Umbra'/>"/>
+	<entry name="Wildlife/UmbraDescription" value="<string name='Units/Neutral/UmbraDescription'/>"/>
+	<entry name="Wildlife/UmbraFlavor" value="<string name='Units/Neutral/UmbraFlavor'/>"/>
+	<entry name="Wildlife/VespidStingwing" value="<string name='Units/Neutral/VespidStingwing'/>"/>
+	<entry name="Wildlife/VespidStingwingDescription" value="<string name='Units/Neutral/VespidStingwingDescription'/>"/>
+	<entry name="Wildlife/VespidStingwingFlavor" value="<string name='Units/Neutral/VespidStingwingFlavor'/>"/>
+	<entry name="Wildlife/CyberneticaDatasmith" value="<string name='Units/AdeptusMechanicus/CyberneticaDatasmith'/>"/>
+	<entry name="Wildlife/CyberneticaDatasmithDescription" value="<string name='Units/AdeptusMechanicus/CyberneticaDatasmithDescription'/>"/>
+	<entry name="Wildlife/CyberneticaDatasmithFlavor" value="<string name='Units/AdeptusMechanicus/CyberneticaDatasmithFlavor'/>"/>
+	<entry name="Wildlife/ChaosCultist" value="<string name='Units/ChaosSpaceMarines/ChaosCultist'/>"/>
+	<entry name="Wildlife/ChaosCultistDescription" value="<string name='Units/ChaosSpaceMarines/ChaosCultistDescription'/>"/>
+	<entry name="Wildlife/ChaosCultistFlavor" value="<string name='Units/ChaosSpaceMarines/ChaosCultistFlavor'/>"/>
 	
 </language>
