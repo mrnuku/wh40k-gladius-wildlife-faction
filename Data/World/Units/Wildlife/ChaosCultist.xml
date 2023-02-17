@@ -39,11 +39,11 @@
 				<!-- <meleeInitiative base="3"/> -->
 				<moraleMax base="4"/> <!-- %moraleMax base leadership=5 -->
 				<movementMax base="3"/>
-				<productionCost base="24.0"/> <!-- %productionCost base tier=4 factor=1 -->
+				<productionCost base="42.0"/> <!-- %productionCost base tier=7 factor=1 -->
 				<rangedAccuracy base="6"/> <!-- %rangedAccuracy base ballisticSkill=3 -->
-				<foodUpkeep base="1.0"/> <!-- %foodUpkeep base tier=4 factor=1 -->
-				<foodCost base="10.0"/> <!-- %foodCost base tier=4 factor=0.5 -->
-				<oreCost base="10.0"/> <!-- %oreCost base tier=4 factor=0.5 -->
+				<foodUpkeep base="3.0"/> <!-- %foodUpkeep base tier=7 factor=1 -->
+				<foodCost base="30.0"/> <!-- %foodCost base tier=7 factor=0.5 -->
+				<oreCost base="30.0"/> <!-- %oreCost base tier=7 factor=0.5 -->
 			</effects>
 		</modifier>
 	</modifiers>
