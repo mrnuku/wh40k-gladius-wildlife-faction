@@ -45,42 +45,43 @@
 		<track name="Music/TyranidsTheme" dlc="Supplement2"/>
 	</music>
 	<quests>
- 		<quest name="SpaceMarines/Story0" icon="Quests/SpaceMarines/Chapter0"
+ 		<quest name="Wildlife/Story0" icon="Quests/SpaceMarines/Chapter0"
  				firstTurn="2" lastTurn="2">
 			<stages>
 				<stage>
 					<objectives>
-						<deployFortress unitType="SpaceMarines/FortressOfRedemption"/>
+						<deployFortress unitType="Wildlife/CatachanDevilLair"/>
 					</objectives>
 					<rewards>
-						<requisitions amount="50"/>
+						<ore amount="50"/>
 					</rewards>
 				</stage>
 				<stage>
 					<objectives>
-						<produceRequisitionsPerTurn count="20"/>
+						<constructBuilding buildingType="Wildlife/Infantry"/>
+						<produceUnit unitType="Wildlife/VespidStingwing" count="2" ignoreExisting="1"/>
 					</objectives>
 					<rewards>
-						<influence amount="50"/>
+						<food amount="50"/>
 					</rewards>
 				</stage>
 			</stages>
 		</quest>
- 		<quest name="SpaceMarines/Story1" icon="Quests/SpaceMarines/Chapter1"
+ 		<quest name="Wildlife/Story1" icon="Quests/SpaceMarines/Chapter1"
  				firstTurn="20" lastTurn="30">
  			<conditions>
 				<quests>
-					<completed name="SpaceMarines/Story0"/>
+					<completed name="Wildlife/Story0"/>
 				</quests>
 			</conditions>
  			<stages>
  				<stage>
 					<objectives>
-						<researchUpgrade upgrade="SpaceMarines/Heroes"/>
-						<constructBuilding buildingType="SpaceMarines/Heroes"
+						<researchUpgrade upgrade="Wildlife/Heroes"/>
+						<constructBuilding buildingType="Wildlife/Heroes"
 								count="1"/>
-						<researchUpgrade upgrade="SpaceMarines/Librarian"/>
-						<produceUnit unitType="SpaceMarines/Librarian"
+						<researchUpgrade upgrade="Wildlife/TechpriestBetrayer"/>
+						<produceUnit unitType="Wildlife/TechpriestBetrayer"
 								count="1"/>
 					</objectives>
 					<rewards>
@@ -98,12 +99,12 @@
 						</killCamp>
 					</objectives>
 					<rewards>
-						<upgrade name="SpaceMarines/ChapterUnity"/>
+						<upgrade name="Wildlife/ExtraVehicleArmour"/>
 					</rewards>
 				</stage>
  				<stage>
 					<objectives>
-						<visitTileExodite unitType="SpaceMarines/Librarian"
+						<visitTileExodite unitType="Wildlife/TechpriestBetrayer"
 								featureType="Ruin"
 								count="3"/>
 					</objectives>
@@ -113,11 +114,11 @@
 				</stage>
 			</stages>
 		</quest>
-		<quest name="SpaceMarines/Story2" icon="Quests/SpaceMarines/Chapter2"
+		<quest name="Wildlife/Story2" icon="Quests/SpaceMarines/Chapter2"
 				firstTurn="40" lastTurn="50">
   			<conditions>
 				<quests>
-					<completed name="SpaceMarines/Story1"/>
+					<completed name="Wildlife/Story1"/>
 				</quests>
 			</conditions>
 			<stages>
@@ -129,9 +130,9 @@
 								<unit type="Necrons/Warrior"/>
 							</attackers>
 							<explorers>
-								<unit type="SpaceMarines/AssaultSpaceMarine"
+								<unit type="Wildlife/KrootHound"
 										count="1" rankMin="2" rankMax="4"/>
-								<unit type="SpaceMarines/TacticalSpaceMarine"
+								<unit type="Wildlife/VespidStingwing"
 										count="1" rankMin="2" rankMax="4"/>
 							</explorers>
 						</exploreDepths>
@@ -143,11 +144,11 @@
 				</stage>
 			</stages>
 		</quest>
-		<quest name="SpaceMarines/Story3" icon="Quests/SpaceMarines/Chapter3"
+		<quest name="Wildlife/Story3" icon="Quests/SpaceMarines/Chapter3"
 				firstTurn="60" lastTurn="70">
  			<conditions>
 				<quests>
-					<completed name="SpaceMarines/Story2"/>
+					<completed name="Wildlife/Story2"/>
 				</quests>
 			</conditions>
 			<stages>
@@ -156,12 +157,12 @@
 						<accumulateResearch count="200"/>
 					</objectives>
 					<rewards>
-						<unit type="Wildlife/Ambull"/>
+						<unit type="Wildlife/KastelanRobot"/>
 					</rewards>
 				</stage>
 				<stage>
 					<objectives>
-						<researchUpgrade upgrade="SpaceMarines/OrbitalScan"/>
+						<researchUpgrade upgrade="SpaceMarines/MeleeDamage"/>
 						<scanTiles count="3"/>
 					</objectives>
 					<rewards>
@@ -195,20 +196,20 @@
 				</stage>										
 			</stages>
 		</quest>
-		<quest name="SpaceMarines/Story4" icon="Quests/SpaceMarines/Chapter4"
+		<quest name="Wildlife/Story4" icon="Quests/SpaceMarines/Chapter4"
 				firstTurn="80" lastTurn="90">
 			<conditions>
 				<quests>
-					<completed name="SpaceMarines/Story3"/>
+					<completed name="Wildlife/Story3"/>
 				</quests>
 			</conditions>
 			<stages>
 				<stage>
 					<startRewards>
-						<upgrade name="SpaceMarines/GeneseedBunker"/>
+						<upgrade name="Wildlife/Umbra"/>
 					</startRewards>
 					<objectives>
-						<constructBuilding buildingType="SpaceMarines/GeneseedBunker"
+						<constructBuilding buildingType="Wildlife/Aircraft"
 								count="3"/>
 					</objectives>
 					<rewards>
@@ -217,23 +218,23 @@
 				</stage>							
 			</stages>
 		</quest>
-		<quest name="SpaceMarines/Story5" icon="Quests/SpaceMarines/Chapter5"
+		<quest name="Wildlife/Story5" icon="Quests/SpaceMarines/Chapter5"
 				firstTurn="100" lastTurn="110">
 			<conditions>
 				<quests>
-					<completed name="SpaceMarines/Story4"/>
+					<completed name="Wildlife/Story4"/>
 				</quests>
 			</conditions>			
 			<stages>
 				<stage>
 					<startRewards>
-						<upgrade name="SpaceMarines/LastStandReady"/>
+						<upgrade name="Wildlife/LordOfSkullsGorestormCannon"/>
 					</startRewards>
 					<objectives>
 						<activateUnit token="AncientExterminatusDevice"/>
 					</objectives>
 					<rewards>
-						<upgrade name="SpaceMarines/LastStand"/>
+						<upgrade name="Wildlife/LordOfSkullsHadesGatlingCannon"/>
 					</rewards>
 				</stage>												
 				<stage>
