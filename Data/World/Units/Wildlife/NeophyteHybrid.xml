@@ -2,7 +2,7 @@
 <unit dlc="Supplement1" spawnDistanceMin="6">
 	<model>
 		<unit mesh="Units/Neutral/NeophyteHybrid"
-				material="Units/Neutral/NeophyteHybrid"
+				material="Units/Wildlife/NeophyteHybrid"
 				idleAnimation="Units/Neutral/NeophyteHybridIdle"
 				idleAnimationCount="3"
 				idleContinuously="1"
