@@ -2,8 +2,8 @@
 <unit spawnCountMax="1" spawnWeight="0">
 	<model>
 		<unit mesh="Units/Neutral/CatachanDevil"
-				material="Units/Neutral/CatachanDevil"
-				scale="0.6 0.6 0.6"
+				material="Units/Wildlife/CatachanDevil"
+				scale="0.7 0.7 0.7"
 				idleAnimation="Units/Neutral/CatachanDevilIdle"
 				idleAnimationCount="3"
 				idleContinuously="1"
