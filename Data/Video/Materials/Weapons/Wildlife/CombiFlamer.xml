@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<material>
-	<textures>
-		<texture name="Weapons/SpaceMarines/CombiFlamerDiffuse"/>
-		<texture name="Weapons/SpaceMarines/CombiFlamerNormal"/>
-		<texture name="Weapons/SpaceMarines/CombiFlamerSIC"/>
-		<texture name="ShadowMapColor"/>
-	</textures>
-</material>

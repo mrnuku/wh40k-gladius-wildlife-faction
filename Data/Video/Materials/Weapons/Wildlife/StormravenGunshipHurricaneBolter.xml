@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<material>
-	<textures>
-		<texture name="Weapons/SpaceMarines/StormravenGunshipHurricaneBolterDiffuse"/>
-		<texture name="Weapons/SpaceMarines/StormravenGunshipHurricaneBolterNormal"/>
-		<texture name="Weapons/SpaceMarines/StormravenGunshipHurricaneBolterSIC"/>
-		<texture name="ShadowMapColor"/>
-	</textures>
-</material>

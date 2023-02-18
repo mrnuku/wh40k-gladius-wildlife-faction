@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<material>
-	<textures>
-		<texture name="Units/SpaceMarines/TacticalSpaceMarineDiffuse"/>
-		<texture name="Units/SpaceMarines/TacticalSpaceMarineNormal"/>
-		<texture name="Units/SpaceMarines/TacticalSpaceMarineSIC"/>
-		<texture name="ShadowMapColor"/>
-	</textures>
-</material>

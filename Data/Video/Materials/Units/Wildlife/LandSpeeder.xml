@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<material>
-	<textures>
-		<texture name="Units/SpaceMarines/LandSpeederDiffuse"/>
-		<texture name="Units/SpaceMarines/LandSpeederNormal"/>
-		<texture name="Units/SpaceMarines/LandSpeederSIC"/>
-		<texture name="ShadowMapColor"/>
-	</textures>
-</material>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<material>
-	<textures>
-		<texture name="Units/SpaceMarines/ThunderfireCannonDiffuse"/>
-		<texture name="Units/SpaceMarines/ThunderfireCannonNormal"/>
-		<texture name="Units/SpaceMarines/ThunderfireCannonSIC"/>
-		<texture name="ShadowMapColor"/>
-	</textures>
-</material>
