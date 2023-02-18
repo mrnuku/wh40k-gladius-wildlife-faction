@@ -3,40 +3,53 @@
 	<entry name="Wildlife/Ambull" value="<string name='Units/Neutral/Ambull'/>"/>
 	<entry name="Wildlife/AmbullDescription" value="<string name='Units/Neutral/AmbullDescription'/>"/>
 	<entry name="Wildlife/AmbullFlavor" value="<string name='Units/Neutral/AmbullFlavor'/>"/>
-	<entry name="Wildlife/CatachanDevil" value="<string name='Units/Neutral/CatachanDevil'/>"/>
+
+	<entry name="Wildlife/CatachanDevil" value="<string name='Units/Neutral/CatachanDevil'/> Queen"/>
 	<entry name="Wildlife/CatachanDevilDescription" value="<string name='Units/Neutral/CatachanDevilDescription'/>"/>
 	<entry name="Wildlife/CatachanDevilFlavor" value="<string name='Units/Neutral/CatachanDevilFlavor'/>"/>
+
 	<entry name="Wildlife/CatachanDevilLair" value="<string name='Units/Neutral/CatachanDevilLair'/>"/>
 	<entry name="Wildlife/CatachanDevilLairDescription" value="<string name='Units/Neutral/CatachanDevilLairDescription'/>"/>
+
 	<entry name="Wildlife/Enslaver" value="<string name='Units/Neutral/Enslaver'/>"/>
 	<entry name="Wildlife/EnslaverDescription" value="<string name='Units/Neutral/EnslaverDescription'/>"/>
 	<entry name="Wildlife/EnslaverFlavor" value="<string name='Units/Neutral/EnslaverFlavor'/>"/>
+
 	<entry name="Wildlife/KastelanRobot" value="<string name='Units/Neutral/KastelanRobot'/>"/>
 	<entry name="Wildlife/KastelanRobotDescription" value="<string name='Units/Neutral/KastelanRobotDescription'/>"/>
 	<entry name="Wildlife/KastelanRobotFlavor" value="<string name='Units/Neutral/KastelanRobotFlavor'/>"/>
+
 	<entry name="Wildlife/KrootHound" value="<string name='Units/Neutral/KrootHound'/>"/>
 	<entry name="Wildlife/KrootHoundDescription" value="<string name='Units/Neutral/KrootHoundDescription'/>"/>
 	<entry name="Wildlife/KrootHoundFlavor" value="<string name='Units/Neutral/KrootHoundFlavor'/>"/>
+
 	<entry name="Wildlife/LordOfSkulls" value="<string name='Units/Neutral/LordOfSkulls'/>"/>
 	<entry name="Wildlife/LordOfSkullsDescription" value="<string name='Units/Neutral/LordOfSkullsDescription'/>"/>
 	<entry name="Wildlife/LordOfSkullsFlavor" value="<string name='Units/Neutral/LordOfSkullsFlavor'/>"/>
-	<entry name="Wildlife/NeophyteHybrid" value="<string name='Units/Neutral/NeophyteHybrid'/>"/>
+
+	<entry name="Wildlife/NeophyteHybrid" value="<string name='Units/Neutral/NeophyteHybrid'/> Veterans"/>
 	<entry name="Wildlife/NeophyteHybridDescription" value="<string name='Units/Neutral/NeophyteHybridDescription'/>"/>
 	<entry name="Wildlife/NeophyteHybridFlavor" value="<string name='Units/Neutral/NeophyteHybridFlavor'/>"/>
+
 	<entry name="Wildlife/Psychneuein" value="<string name='Units/Neutral/Psychneuein'/>"/>
 	<entry name="Wildlife/PsychneueinDescription" value="<string name='Units/Neutral/PsychneueinDescription'/>"/>
 	<entry name="Wildlife/PsychneueinFlavor" value="<string name='Units/Neutral/PsychneueinFlavor'/>"/>
+
 	<entry name="Wildlife/TechpriestBetrayer" value="<string name='Units/Neutral/TechpriestBetrayer'/>"/>
-	<entry name="Wildlife/Umbra" value="<string name='Units/Neutral/Umbra'/>"/>
+
+	<entry name="Wildlife/Umbra" value="<string name='Units/Neutral/Umbra'/> Warp Fiend"/>
 	<entry name="Wildlife/UmbraDescription" value="<string name='Units/Neutral/UmbraDescription'/>"/>
 	<entry name="Wildlife/UmbraFlavor" value="<string name='Units/Neutral/UmbraFlavor'/>"/>
+
 	<entry name="Wildlife/VespidStingwing" value="<string name='Units/Neutral/VespidStingwing'/>"/>
 	<entry name="Wildlife/VespidStingwingDescription" value="<string name='Units/Neutral/VespidStingwingDescription'/>"/>
 	<entry name="Wildlife/VespidStingwingFlavor" value="<string name='Units/Neutral/VespidStingwingFlavor'/>"/>
-	<entry name="Wildlife/CyberneticaDatasmith" value="<string name='Units/AdeptusMechanicus/CyberneticaDatasmith'/>"/>
+
+	<entry name="Wildlife/CyberneticaDatasmith" value="<string name='Units/AdeptusMechanicus/CyberneticaDatasmith'/> Biohacker"/>
 	<entry name="Wildlife/CyberneticaDatasmithDescription" value="<string name='Units/AdeptusMechanicus/CyberneticaDatasmithDescription'/>"/>
 	<entry name="Wildlife/CyberneticaDatasmithFlavor" value="<string name='Units/AdeptusMechanicus/CyberneticaDatasmithFlavor'/>"/>
-	<entry name="Wildlife/ChaosCultist" value="<string name='Units/ChaosSpaceMarines/ChaosCultist'/>"/>
+
+	<entry name="Wildlife/ChaosCultist" value="<string name='Units/ChaosSpaceMarines/ChaosCultist'/> Conquistador"/>
 	<entry name="Wildlife/ChaosCultistDescription" value="<string name='Units/ChaosSpaceMarines/ChaosCultistDescription'/>"/>
 	<entry name="Wildlife/ChaosCultistFlavor" value="<string name='Units/ChaosSpaceMarines/ChaosCultistFlavor'/>"/>
 	
