@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <language>
+	<entry name="Wildlife/Headquarters" value="<string name='Buildings/Wildlife/Headquarters'/>"/>
+	
 	<entry name="Wildlife/Ambull" value="<string name='Units/Neutral/Ambull'/>"/>
 	<entry name="Wildlife/AmbullDescription" value="<string name='Units/Neutral/AmbullDescription'/>"/>
 	<entry name="Wildlife/AmbullFlavor" value="<string name='Units/Neutral/AmbullFlavor'/>"/>
