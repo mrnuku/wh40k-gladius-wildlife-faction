@@ -45,6 +45,10 @@
 	<entry name="Wildlife/ExtraVehicleArmourDescription" value="<string name='Upgrades/AstraMilitarum/ExtraVehicleArmourDescription'/>"/>
 	<entry name="Wildlife/ExtraVehicleArmourFlavor" value="When the proper unguents have been spread and blessings made, a Techmarine may well make some minor changes to his charges, in line with Codex Astartes of course, to improve survivability."/>
 
+	<entry name="Wildlife/ExtraAircraftArmour" value="Extra Aircraft Armour"/>
+	<entry name="Wildlife/ExtraAircraftArmourDescription" value="Increases the armour of Enslavers and Umbras."/>
+	<entry name="Wildlife/ExtraAircraftArmourFlavor" value="Increases the armour of aircrafts."/>
+
 	<entry name="Wildlife/MeleeDamage" value="<string name='Traits/SpaceMarines/MeleeDamage'/>"/>
 	<entry name="Wildlife/MeleeDamageDescription" value="Increases the armour penetration of melee weapons."/>
 	<entry name="Wildlife/MeleeDamageFlavor" value="<string name='Traits/SpaceMarines/MeleeDamageFlavor'/>"/>

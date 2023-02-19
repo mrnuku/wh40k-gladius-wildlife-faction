@@ -133,5 +133,6 @@
 	<traits>
 		<trait name="PsychicLash"/>
 		<trait name="Skimmer"/>
+		<trait name="EavyArmour" requiredUpgrade="Wildlife/ExtraAircraftArmour"/>
 	</traits>
 </unit>

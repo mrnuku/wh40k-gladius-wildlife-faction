@@ -126,5 +126,6 @@
 		<trait name="MonstrousCreature"/>
 		<trait name="Shrouded"/>
 		<trait name="Smash"/>
+		<trait name="EavyArmour" requiredUpgrade="Wildlife/ExtraAircraftArmour"/>
 	</traits>
 </unit>
