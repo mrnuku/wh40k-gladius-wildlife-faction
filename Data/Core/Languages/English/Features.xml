@@ -3,4 +3,6 @@
 	<entry name="WildlifeCity" value="Wild Life City"/>
 	<entry name="WildlifeCityDescription" value="<string name='Traits/CityDescription'/>"/>
 	<entry name="WildlifeCityFlavor" value="Where other races have cities, the Space Marines have their solitary fortress-monastery—a bastion of their kind, part-chapel, part-armoury, where new Adeptus Astartes are recruited and altered using the age-old and pitiless techniques devised by the Emperor himself."/>
+	<entry name="Wildlife/ImperialRuin" value="<string name='Features/ImperialRuin'/>"/>
+	<entry name="Wildlife/WireWeed" value="<string name='Features/WireWeed'/>"/>
 </language>

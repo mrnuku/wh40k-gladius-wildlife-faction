@@ -45,6 +45,9 @@
 				</modifier>
 			</modifiers>
 		</clearTile>
+		<constructFeature feature="Wildlife/ImperialRuin"/>
+		<constructFeature feature="Wildlife/WireWeed"/>
+		
 		<constructBuilding building="Wildlife/Food"/>
 		<constructBuilding building="Wildlife/Requisitions"/>
 		<constructBuilding building="Wildlife/Energy"/>
