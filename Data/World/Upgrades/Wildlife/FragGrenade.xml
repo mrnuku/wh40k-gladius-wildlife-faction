@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<upgrade position="2" icon="Weapons/FragGrenade">
+	<requiredUpgrades>
+		<upgrade name="Wildlife/VespidStingwing"/>
+	</requiredUpgrades>
+</upgrade>

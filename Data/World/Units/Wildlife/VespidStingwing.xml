@@ -19,6 +19,11 @@
 						fireInterval="0.2"/>
 			</model>
 		</weapon>
+		<weapon name="FragGrenade" slotName="FragGrenade" enabled="0">
+			<model>
+				<grenadeWeapon muzzleBone=".Muzzle"/>
+			</model>		
+		</weapon>
 	</weapons>
 	<modifiers>
 		<modifier visible="0">
@@ -100,6 +105,13 @@
 				</target>
 			</beginTargets>
 		</jumpPack>
+		<throwGrenade weaponSlotName="FragGrenade" cooldown="10"
+				requiredUpgrade="Wildlife/FragGrenade">
+			<model>
+				<action animation="Units/Neutral/VespidStingwingAttack"
+						beginFire="0.666666666667"/>
+			</model>				
+		</throwGrenade>
 	</actions>
 	<traits>
 		<!-- <trait name="Bulky"/> -->

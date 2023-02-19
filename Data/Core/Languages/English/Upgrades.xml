@@ -57,6 +57,10 @@
 	<entry name="Wildlife/BoltDamageDescription" value="<string name='Upgrades/AstraMilitarum/BoltDamageDescription'/>"/>
 	<entry name="Wildlife/BoltDamageFlavor" value="<string name='Traits/SpaceMarines/BoltDamageFlavor'/>"/>
 
+	<entry name="Wildlife/FragGrenade" value="<string name='Weapons/FragGrenade'/>"/>
+	<entry name="Wildlife/FragGrenadeDescription" value="<string name='Upgrades/SpaceMarines/FragGrenadeDescription'/>"/>
+	<entry name="Wildlife/FragGrenadeFlavor" value="<string name='Weapons/FragGrenadeFlavor'/>"/>
+
 	<!-- City Expansion -->
 
 	<entry name="Wildlife/CityTier2" value="<string name='Traits/Wildlife/CityTier2'/>"/>
