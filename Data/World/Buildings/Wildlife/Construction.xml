@@ -49,7 +49,7 @@
 		<constructFeature feature="Wildlife/WireWeed"/>
 		
 		<constructBuilding building="Wildlife/Food"/>
-		<constructBuilding building="Wildlife/Requisitions"/>
+		<constructBuilding building="Wildlife/Ore"/>
 		<constructBuilding building="Wildlife/Energy"/>
 		<constructBuilding building="Wildlife/Research"/>
 		<constructBuilding building="Wildlife/Influence"/>

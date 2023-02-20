@@ -44,9 +44,9 @@
 	<entry name="Wildlife/LoyaltyDescription" value="Building that enslaves the population and increases loyalty."/>
 	<entry name="Wildlife/LoyaltyFlavor" value="Here the Chaplains tend to the spiritual well-being of their charges, ensuring the discipline of every Marine and keeping their minds and spirits pure. In order to accommodate this, each of the Chapter's ten Companies has its own dedicated chapel. Greater ceremonies take place in the Reclusiam itself."/>
 
-	<entry name="Wildlife/Requisitions" value="Digging Pits"/>
-	<entry name="Wildlife/RequisitionsDescription" value="Where the lesser creatures are forced to mine for ore."/>
-	<entry name="Wildlife/RequisitionsFlavor" value="The Chapter's mammoth dining halls and kitchens are contained within its Refectories. The Space Marine diet is a spartan affair, augmented with a cocktail of bio-chemical supplements to ensure constant battle-readiness. The Battle-Brothers consume this repast in complete silence."/>
+	<entry name="Wildlife/Ore" value="Digging Pits"/>
+	<entry name="Wildlife/OreDescription" value="Where the lesser creatures are forced to mine for ore."/>
+	<entry name="Wildlife/OreFlavor" value="The Chapter's mammoth dining halls and kitchens are contained within its Refectories. The Space Marine diet is a spartan affair, augmented with a cocktail of bio-chemical supplements to ensure constant battle-readiness. The Battle-Brothers consume this repast in complete silence."/>
 	<entry name="Wildlife/Research" value="Totem of wisdom"/>
 
 	<entry name="Wildlife/ResearchDescription" value="Building that generates research."/>
