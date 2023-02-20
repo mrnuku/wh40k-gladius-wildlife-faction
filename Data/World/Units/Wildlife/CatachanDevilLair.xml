@@ -42,5 +42,6 @@
 	</actions>
 	<traits>
 		<trait name="Fortification"/>
+		<trait name="Necrons/EternityGate"/>
 	</traits>
 </unit>

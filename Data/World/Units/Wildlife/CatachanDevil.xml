@@ -24,6 +24,7 @@
 		<modifier visible="0">
 			<effects>
 				<armor base="8"/> <!-- %armor base armor=3+ -->
+				<cargoSlots base="2"/> <!-- %cargoSlots base capacity=20 -->
 				<foodUpkeep base="1.5"/> <!-- %foodUpkeep base tier=7 factor=0.5 -->
 				<foodCost base="30.0"/> <!-- %foodCost base tier=7 factor=0.5 -->
 				<hitpointsMax base="48.0"/> <!-- %hitpointsMax base toughness=5 wounds=3 -->
@@ -115,6 +116,31 @@
 				</selfTarget>
 			</beginTargets>
 		</hammerOfWrath>
+		<dimensionalCorridor cooldown="3"
+				name="Necrons/DimensionalCorridor"
+				requiredUpgrade="Wildlife/CatachanDevilLair">
+			<model>
+				<action sound="Actions/Teleport"/>
+			</model>
+			<modifiers>
+				<modifier visible="0">
+					<effects>
+						<influenceCost base="30"/>
+					</effects>
+				</modifier>
+				<modifier requiredUpgrade="Wildlife/CatachanDevilLair2">
+					<effects>
+						<influenceCost mul="-0.33"/>
+					</effects>
+				</modifier>
+				<modifier requiredUpgrade="Wildlife/CatachanDevilLair3">
+					<effects>
+						<consumedActionPoints max="0"/>
+						<consumedMovement max="0"/>
+					</effects>
+				</modifier>
+			</modifiers>
+		</dimensionalCorridor>
 	</actions>
 	<traits>
 		<trait name="Fleet"/>
@@ -125,5 +151,6 @@
 		<trait name="Smash"/>
 		<trait name="Stealth"/>
 		<trait name="ExtraVehicleArmour" requiredUpgrade="Wildlife/ExtraVehicleArmour"/>
+		<trait name="Transport"/>
 	</traits>
 </unit>

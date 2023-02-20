@@ -316,7 +316,8 @@
 				cooldownScalesWithPace="1"
 				icon="Units/Wildlife/CatachanDevilLair"
 				scaleInfluenceCost="1"
-				unit="Wildlife/CatachanDevilLair">
+				unit="Wildlife/CatachanDevilLair"
+				requiredUpgrade="Wildlife/CatachanDevilLair">
 			<model>
 				<action sound="Actions/DropPod"/>
 			</model>

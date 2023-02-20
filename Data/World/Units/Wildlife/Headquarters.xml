@@ -66,5 +66,6 @@
 		<trait name="Headquarters"/>
 		<trait name="LastStand" requiredUpgrade="SpaceMarines/LastStand"/>
 		<trait name="Transport"/>
+		<trait name="Necrons/EternityGate"/>
 	</traits>
 </unit>
