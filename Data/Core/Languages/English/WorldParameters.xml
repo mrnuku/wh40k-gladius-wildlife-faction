@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <language>
-	
+	<entry name="Difficulty0Wildlife" value="Very Easy"/>
+	<entry name="Difficulty1Wildlife" value="Easy"/>
+	<entry name="Difficulty2Wildlife" value="Medium"/>
+	<entry name="Difficulty3Wildlife" value="Hard"/>
+	<entry name="Difficulty4Wildlife" value="Very Hard"/>
+	<entry name="Difficulty5Wildlife" value="Ultra Hard"/>
+	<entry name="Difficulty6Wildlife" value="Impossible"/>
 </language>
