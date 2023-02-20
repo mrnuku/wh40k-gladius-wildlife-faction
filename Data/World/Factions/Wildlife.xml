@@ -315,7 +315,7 @@
 		</deployCity>
 		<deployFortress cooldown="10"
 				cooldownScalesWithPace="1"
-				icon="Units/Wildlife/CatachanDevilLair"
+				icon="Units/Neutral/CatachanDevilLair"
 				scaleInfluenceCost="1"
 				unit="Wildlife/CatachanDevilLair"
 				requiredUpgrade="Wildlife/CatachanDevilLair">
