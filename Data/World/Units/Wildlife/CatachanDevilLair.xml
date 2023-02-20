@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<unit spawnCountMax="1">
+<unit spawnCountMax="1" icon="Units/Neutral/CatachanDevilLair">
 	<model>
 		<structureUnit mesh="Units/Neutral/CatachanDevilLair"
 				material="Units/Neutral/CatachanDevilLair"

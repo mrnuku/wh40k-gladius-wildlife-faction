@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<unit faction="Tau" spawnDistanceMin="6">
+<unit faction="Tau" spawnDistanceMin="6" icon="Units/Neutral/KrootHound">
 	<model>
 		<unit mesh="Units/Neutral/KrootHound"
 				material="Units/Neutral/KrootHound"
@@ -13,7 +13,7 @@
 	</model>
 	<group size="7" rowSize="4" memberDeltaX="90" memberDeltaY="50"/>
 	<weapons>
-		<weapon name="WildlifeCloseCombatWeapon">
+		<weapon name="Wildlife/CloseCombatWeapon">
 			<model>
 				<weapon fireInterval="1.0"
 						fireSoundCount="0"/>

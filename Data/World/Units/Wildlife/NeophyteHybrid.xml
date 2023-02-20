@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<unit dlc="Supplement1" spawnDistanceMin="6">
+<unit dlc="Supplement1" spawnDistanceMin="6" icon="Units/Neutral/NeophyteHybrid">
 	<model>
 		<unit mesh="Units/Neutral/NeophyteHybrid"
 				material="Units/Wildlife/NeophyteHybrid"
@@ -13,7 +13,7 @@
 	</model>
 	<group size="6" rowSize="3" memberDeltaX="70" memberDeltaY="60"/>
 	<weapons>
-		<weapon name="WildlifeSnazzgun">
+		<weapon name="Wildlife/Snazzgun">
 			<model>
 				<projectileWeapon mesh="Weapons/Neutral/Autogun"
 						material="Units/Neutral/NeophyteHybrid"

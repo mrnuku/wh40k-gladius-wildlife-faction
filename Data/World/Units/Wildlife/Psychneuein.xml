@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<unit>
+<unit icon="Units/Neutral/Psychneuein">
 	<model>
 		<unit mesh="Units/Neutral/Psychneuein"
 				material="Units/Neutral/Psychneuein"
@@ -14,7 +14,7 @@
 	</model>
 	<group size="5" rowSize="3" memberDeltaX="80" memberDeltaY="64"/>
 	<weapons>
-		<weapon name="WildlifeCloseCombatWeapon">
+		<weapon name="Wildlife/CloseCombatWeapon">
 			<model>
 				<weapon fireInterval="1.0"
 						fireSoundCount="0"/>
@@ -103,6 +103,6 @@
 	<traits>
 		<trait name="Flyer"/>
 		<!-- <trait name="Hover"/> -->
-		<trait name="WildlifePsychneueinInfest"/>
+		<trait name="Wildlife/PsychneueinInfest"/>
 	</traits>
 </unit>

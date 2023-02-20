@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<unit>
+<unit icon="Units/Neutral/Ambull">
 	<model>
 		<unit mesh="Units/Neutral/Ambull"
 				material="Units/Neutral/Ambull"
@@ -13,7 +13,7 @@
 	</model>
 	<group size="3" rowSize="3" memberDeltaX="120" memberDeltaY="80"/>
 	<weapons>
-		<weapon name="WildlifeCloseCombatWeapon">
+		<weapon name="Wildlife/CloseCombatWeapon">
 			<model>
 				<weapon fireInterval="0.5"
 						fireSoundCount="0"/>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<unit faction="Tau" spawnDistanceMin="6">
+<unit faction="Tau" spawnDistanceMin="6" icon="Units/Neutral/VespidStingwing">
 	<model>
 		<unit mesh="Units/Neutral/VespidStingwing"
 				material="Units/Neutral/VespidStingwing"

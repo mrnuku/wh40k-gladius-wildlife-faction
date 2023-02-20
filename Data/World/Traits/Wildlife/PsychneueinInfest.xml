@@ -11,7 +11,7 @@
 				</encounter>
 			</conditions>
 			<effects>
-				<addTrait name="WildlifePsychneueinInfestation" duration="1"/>
+				<addTrait name="Wildlife/PsychneueinInfestation" duration="1"/>
 			</effects>
 		</modifier>
 	</onCombatOpponentModifiers>

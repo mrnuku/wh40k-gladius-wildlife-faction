@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<unit faction="AdeptusMechanicus">
+<unit faction="AdeptusMechanicus" icon="Units/Neutral/KastelanRobot">
 	<model>
 		<unit mesh="Units/Neutral/KastelanRobot"
 				material="Units/Neutral/KastelanRobot"

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <language>
 
-	<entry name="WildlifeSnazzgun" value="<string name='Weapons/Snazzgun'/>"/>
-	<entry name="WildlifeCloseCombatWeapon" value="<string name='Weapons/CloseCombatWeapon'/>"/>
-	<entry name="WildlifeWildlifeShadowlimbs" value="<string name='Weapons/Shadowlimbs'/>"/>
+	<entry name="Wildlife/Snazzgun" value="<string name='Weapons/Snazzgun'/>"/>
+	<entry name="Wildlife/CloseCombatWeapon" value="<string name='Weapons/CloseCombatWeapon'/>"/>
+	<entry name="Wildlife/WildlifeShadowlimbs" value="<string name='Weapons/Shadowlimbs'/>"/>
 
 </language>

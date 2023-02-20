@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<unit>
+<unit icon="Units/Neutral/Umbra">
 	<model>
 		<unit mesh="Units/Neutral/Umbra"
 				material="Units/Wildlife/Umbra"
@@ -21,7 +21,7 @@
 		</unit>
 	</model>
 	<weapons>
-		<weapon name="WildlifeShadowlimbs">
+		<weapon name="Wildlife/Shadowlimbs">
 			<model>
 				<beamWeapon muzzleBone="Muzzle" fireInterval="0.3"/>
 			</model>

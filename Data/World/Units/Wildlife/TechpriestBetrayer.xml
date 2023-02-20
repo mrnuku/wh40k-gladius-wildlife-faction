@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<unit visible="0">
+<unit visible="0" icon="Units/Neutral/TechpriestBetrayer">
 	<model>
 		<unit mesh="Units/AstraMilitarum/TechpriestEnginseer"
 				material="Units/AstraMilitarum/TechpriestEnginseer"

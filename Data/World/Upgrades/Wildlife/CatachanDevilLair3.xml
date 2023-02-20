@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<upgrade position="8" icon="Units/Wildlife/CatachanDevilLair">
+<upgrade position="8" icon="Units/Neutral/CatachanDevilLair">
 	<requiredUpgrades>
 		<upgrade name="Wildlife/CatachanDevilLair"/>
 	</requiredUpgrades>

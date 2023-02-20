@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<unit spawnDistanceMin="6">
+<unit spawnDistanceMin="6" icon="Units/ChaosSpaceMarines/ChaosCultist">
 	<model>
 		<unit mesh="Units/ChaosSpaceMarines/ChaosCultist"
 				material="Units/ChaosSpaceMarines/ChaosCultist"
@@ -22,7 +22,7 @@
 						fireInterval="0.25"/>
 			</model>
 		</weapon>
-		<weapon name="WildlifeCloseCombatWeapon">
+		<weapon name="Wildlife/CloseCombatWeapon">
  			<model>
 				<weapon fireInterval="0.5"/>
 			</model>

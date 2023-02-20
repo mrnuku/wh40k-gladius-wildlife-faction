@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<unit productionWeight="0.01">
+<unit productionWeight="0.01" icon="Units/AdeptusMechanicus/CyberneticaDatasmith">
 	<model>
 		<unit mesh="Units/AdeptusMechanicus/CyberneticaDatasmith"
 				material="Units/AdeptusMechanicus/CyberneticaDatasmith"

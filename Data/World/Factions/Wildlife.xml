@@ -17,7 +17,8 @@
 		startingFood="25"
 		startingInfluence="25"
 		startingOre="25"
-		startingRequisitions="0">
+		startingRequisitions="0"
+		icon="Factions/Neutral">
 	<music>
 		<track name="Music/AdeptusMechanicusBGM" dlc="Supplement9"/>
 		<track name="Music/AdeptusMechanicusTheme" dlc="Supplement9"/>
