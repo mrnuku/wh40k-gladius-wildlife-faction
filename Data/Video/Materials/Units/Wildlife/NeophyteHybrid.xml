@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <material>
 	<textures>
-		<texture name="Units/Wildlife/NeophyteHybridDiffuse"/>
+		<texture name="Units/Neutral/NeophyteHybridDiffuse"/>
 		<texture name="Units/Neutral/NeophyteHybridNormal"/>
-		<texture name="Units/Neutral/NeophyteHybridSIC"/>
+		<texture name="Units/Wildlife/NeophyteHybridSIC"/>
 		<texture name="ShadowMapColor"/>
 	</textures>
 </material>
