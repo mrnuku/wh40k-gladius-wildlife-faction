@@ -130,11 +130,11 @@
 	<entry name="Wildlife/CatachanDevilLairDescription" value="Grants deployment of <string name='Units/Wildlife/CatachanDevilLair'/> and adds <string name='Units/Wildlife/CatachanDevil'/> the ability to teleport to <string name='Units/Wildlife/CatachanDevilLair'/>."/>
 	<entry name="Wildlife/CatachanDevilLairFlavor" value="<string name='Actions/Necrons/DimensionalCorridorFlavor'/>"/>
 
-	<entry name="Wildlife/CatachanDevilLair2" value="<string name='Units/Wildlife/CatachanDevilLair'/> Dimensional Stability"/>
+	<entry name="Wildlife/CatachanDevilLair2" value="Catachan Travel Cost"/>
 	<entry name="Wildlife/CatachanDevilLair2Description" value="<string name='Upgrades/Necrons/DimensionalCorridor2Description'/>"/>
 	<entry name="Wildlife/CatachanDevilLair2Flavor" value="<string name='Upgrades/Necrons/DimensionalCorridor2Flavor'/>"/>
 
-	<entry name="Wildlife/CatachanDevilLair3" value="<string name='Units/Wildlife/CatachanDevilLair'/> Dimensional Sanction"/>
+	<entry name="Wildlife/CatachanDevilLair3" value="Catachan Travel Perfection"/>
 	<entry name="Wildlife/CatachanDevilLair3Description" value="<string name='Upgrades/Necrons/DimensionalCorridor3Description'/>"/>
 	<entry name="Wildlife/CatachanDevilLair3Flavor" value="<string name='Upgrades/Necrons/DimensionalCorridor3Flavor'/>"/>
 	
