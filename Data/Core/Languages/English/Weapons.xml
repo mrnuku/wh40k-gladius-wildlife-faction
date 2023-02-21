@@ -3,6 +3,6 @@
 
 	<entry name="Wildlife/Snazzgun" value="<string name='Weapons/Snazzgun'/>"/>
 	<entry name="Wildlife/CloseCombatWeapon" value="<string name='Weapons/CloseCombatWeapon'/>"/>
-	<entry name="Wildlife/WildlifeShadowlimbs" value="<string name='Weapons/Shadowlimbs'/>"/>
+	<entry name="Wildlife/Shadowlimbs" value="<string name='Weapons/Shadowlimbs'/>"/>
 
 </language>
