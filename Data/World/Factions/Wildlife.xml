@@ -344,6 +344,26 @@
 				</target>
 			</beginTargets>
 		</deployFortress>
+		<tactic cooldown="10"
+				durationInSeconds="0.1"
+				interfaceSound="Interface/Tactic"
+				name="SiegeMasters"
+				requiredUpgrade="Wildlife/SiegeMasters">
+			<modifiers>
+				<modifier visible="0">
+					<effects>
+						<influenceCost base="80"/>
+					</effects>
+				</modifier>
+			</modifiers>
+			<playerModifiers>
+				<modifier>
+					<effects>
+						<addTrait duration="10" name="SiegeMasters"/>
+					</effects>
+				</modifier>
+			</playerModifiers>
+		</tactic>
 	</actions>
 	<startingUnits>
 		<unit type="Wildlife/KrootHound" count="2"/>
