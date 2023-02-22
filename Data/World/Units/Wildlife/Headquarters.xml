@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <unit icon="Units/Neutral/CatachanDevilLair">
 	<model>
-		<structureUnit mesh="Units/SpaceMarines/Headquarters"
-				material="Buildings/SpaceMarines/Buildings"
+		<structureUnit mesh="Units/Wildlife/Headquarters"
+				material="Buildings/Wildlife/Headquarters"
 				idleAnimationCount="0"
 				heatImpactSound="Impacts/HeatConcrete"
 				heatImpactSoundCount="4"

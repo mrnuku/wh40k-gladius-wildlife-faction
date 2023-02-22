@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<material>
+	<textures>
+		<texture name="Buildings/Wildlife/HeadquartersDiffuse"/>
+		<texture name="Buildings/Wildlife/HeadquartersNormal"/>
+		<texture name="Buildings/Wildlife/HeadquartersSIC"/>
+		<texture name="ShadowMapColor"/>
+	</textures>
+</material>
