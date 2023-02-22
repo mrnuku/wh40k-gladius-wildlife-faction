@@ -1,4 +1,4 @@
-Adds wildlife as a playable faction. Grants you all the 13 units wandering as wild life units in the base game playable, 31 research possibilities and a modded Space Marines city as the base.
+Adds wildlife as a playable faction. Grants you all the 13 creatures wandering as wild life units in the base game producible, 31 research possibilities and a modded Space Marines city as the base.
 
 [h1] Units [/h1]
 
