@@ -17,3 +17,4 @@ Besides the original units, some units got buffed for balancing the faction.
 Modded Space Marines city with Food and Ore production instead of Requisitions. Can deploy [i] Wire Weed [/i] for a Food buff or [i] Imperial Ruins [/i] for an Ore buff.
 
 [url=https://github.com/mrnuku/wh40k-gladius-wildlife-faction] Github repo [/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2939973047] Wildlife faction plus mod [/url]
