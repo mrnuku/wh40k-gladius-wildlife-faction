@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <language>
 	<entry name="Wildlife" value="<string name='Factions/Wildlife'/>"/>
-	<entry name="Wildlife0" value="Fortress of Dorn"/>
-	<entry name="Wildlife1" value="Primaris Revenant"/>
-	<entry name="Wildlife2" value="Vulkan's Forge"/>
-	<entry name="Wildlife3" value="The Spire"/>
-	<entry name="Wildlife4" value="The Wings of Corax"/>
-	<entry name="Wildlife5" value="Helbrecht"/>
-	<entry name="Wildlife6" value="Oubliette of the Faithful"/>
-	<entry name="Wildlife7" value="The Umbran Citadel"/>
-	<entry name="Wildlife8" value="Pater Fidelium"/>
-	<entry name="Wildlife9" value="Azrael's Wrath"/>
-	<entry name="Wildlife10" value="Tantaline Fall"/>
-	<entry name="Wildlife11" value="Primarch's Rest"/>
-	<entry name="Wildlife12" value="Chapel of the Adytum"/>
-	<entry name="Wildlife13" value="Cor Imperii"/>
-	<entry name="Wildlife14" value="Arx Mortifer"/>
-	<entry name="Wildlife15" value="Castellum Capitalis"/>
-	<entry name="Wildlife16" value="Regia Funestes"/>
-	<entry name="Wildlife17" value="Stygian Moene"/>
+	<entry name="Wildlife0" value="Hive of the Swarm Mother"/>
+	<entry name="Wildlife1" value="Root Fortress"/>
+	<entry name="Wildlife2" value="Thornwood Citadel"/>
+	<entry name="Wildlife3" value="Fangkeep Stronghold"/>
+	<entry name="Wildlife4" value="Canopy Citadel"/>
+	<entry name="Wildlife5" value="Grove of the Ancient"/>
+	<entry name="Wildlife6" value="Beastclaw Bastion"/>
+	<entry name="Wildlife7" value="Chitin Hive"/>
+	<entry name="Wildlife8" value="Nest of the Silent One"/>
+	<entry name="Wildlife9" value="Sylvan Sanctuary"/>
+	<entry name="Wildlife10" value="Arboreal Acropolis"/>
+	<entry name="Wildlife11" value="Maw of the Earthmother"/>
+	<entry name="Wildlife12" value="Feral Outpost"/>
+	<entry name="Wildlife13" value="Coral Reef Stronghold"/>
+	<entry name="Wildlife14" value="Viperhold Bastion"/>
+	<entry name="Wildlife15" value="Lair of the Pack Alpha"/>
+	<entry name="Wildlife16" value="Avian Aerie"/>
+	<entry name="Wildlife17" value="Hive of the Swarm King"/>
 	<entry name="WildlifeCount" value="18"/>
 </language>
