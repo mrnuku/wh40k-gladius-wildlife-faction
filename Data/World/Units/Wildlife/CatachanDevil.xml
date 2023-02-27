@@ -27,7 +27,7 @@
 				<cargoSlots base="2"/> <!-- %cargoSlots base capacity=20 -->
 				<foodUpkeep base="1.5"/> <!-- %foodUpkeep base tier=7 factor=0.5 -->
 				<foodCost base="30.0"/> <!-- %foodCost base tier=7 factor=0.5 -->
-				<hitpointsMax base="48.0"/> <!-- %hitpointsMax base toughness=5 wounds=3 -->
+				<hitpointsMax base="36.0"/> <!-- %hitpointsMax base toughness=5 wounds=3 -->
 				<meleeAccuracy base="8"/> <!-- %meleeAccuracy base weaponSkill=4 -->
 				<meleeAttacks base="3"/>
 				<strengthDamage base="6"/> <!-- %strengthDamage base strength=6 -->
