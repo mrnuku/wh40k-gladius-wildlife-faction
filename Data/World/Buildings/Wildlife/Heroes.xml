@@ -28,7 +28,10 @@
 	<strategyModifiers>
 		<modifier>
 			<effects>
+				<increaseColonizersProductionScore base="1.0"/>
 				<increaseHeroesProductionScore base="1.0"/>
+				<increaseSupportProductionScore base="1.0"/>
+				<increaseVehiclesProductionScore base="1.0"/>
 			</effects>
 		</modifier>
 	</strategyModifiers>
