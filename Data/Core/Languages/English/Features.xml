@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <language>
-	<entry name="WildlifeCity" value="Wild Life City"/>
+	<entry name="WildlifeCity" value="Wildlife City"/>
 	<entry name="WildlifeCityDescription" value="<string name='Traits/CityDescription'/>"/>
-	<entry name="WildlifeCityFlavor" value="Where other races have cities, the Space Marines have their solitary fortress-monastery—a bastion of their kind, part-chapel, part-armoury, where new Adeptus Astartes are recruited and altered using the age-old and pitiless techniques devised by the Emperor himself."/>
+	<entry name="WildlifeCityFlavor" value="The wildlife encampment is a natural habitat for the faction's forces, nestled among trees, bushes, and rocky outcroppings. The sounds of chirping birds and rustling leaves mix with the movement of animals and creatures, creating a natural fortress."/>
 	<entry name="Wildlife/ImperialRuin" value="<string name='Features/ImperialRuin'/>"/>
 	<entry name="Wildlife/WireWeed" value="<string name='Features/WireWeed'/>"/>
 </language>
