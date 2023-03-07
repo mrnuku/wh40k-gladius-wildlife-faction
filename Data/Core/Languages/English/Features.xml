@@ -3,6 +3,6 @@
 	<entry name="WildlifeCity" value="Wildlife City"/>
 	<entry name="WildlifeCityDescription" value="<string name='Traits/CityDescription'/>"/>
 	<entry name="WildlifeCityFlavor" value="The wildlife encampment is a natural habitat for the faction's forces, nestled among trees, bushes, and rocky outcroppings. The sounds of chirping birds and rustling leaves mix with the movement of animals and creatures, creating a natural fortress."/>
-	<entry name="Wildlife/ImperialRuin" value="<string name='Features/ImperialRuin'/>"/>
-	<entry name="Wildlife/WireWeed" value="<string name='Features/WireWeed'/>"/>
+	<entry name="Wildlife/ImperialRuin" value="Wildlife <string name='Features/ImperialRuin'/>"/>
+	<entry name="Wildlife/WireWeed" value="Wildlife <string name='Features/WireWeed'/>"/>
 </language>
