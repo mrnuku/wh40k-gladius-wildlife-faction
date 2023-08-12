@@ -33,6 +33,9 @@
 	<entry name="Wildlife/PsychneueinInfest" value="<string name='Traits/PsychneueinInfest'/>"/>
 	<entry name="Wildlife/PsychneueinInfestDescription" value="<string name='Traits/PsychneueinInfestDescription'/>"/>
 	<entry name="Wildlife/PsychneueinInfestation" value="<string name='Traits/PsychneueinInfestation'/>"/>
-	<entry name="Wildlife/PsychneueinInfestationDescription" value="<string name='Traits/PsychneueinInfestationDescription'/>"/>
+	<entry name="Wildlife/PsychneueinInfestationDescription" value="<string name='Traits/PsychneueinInfestationDescription'/>
+	<entry name="Wildlife/WireWeed" value="<string name='Traits/WireWeed'/>"/>
+	<entry name="Wildlife/WireWeedDescription" value="<string name='Traits/WireWeedDescription'/>"/>
+	<entry name="Wildlife/WireWeedFlavor" value="<string name='Traits/WireWeedFlavor'/>"/>
 
 </language>

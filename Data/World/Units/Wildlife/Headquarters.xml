@@ -59,6 +59,40 @@
 			</model>
 		</die>
 		<setRallyPoint/>
+		<consumeTile icon="Features/Bedrock"
+				name="Tyranids/ConsumeTile" 
+				costScalesWithPace="0">
+			<modifiers>
+				<modifier visible="0">
+					<effects>
+						<influenceCost base="15"/>
+					</effects>
+				</modifier>
+			</modifiers>
+			<beginTargets>
+				<target rangeMax="4">
+					<conditions>
+						<tile>
+							<featureCategory name="OrkoidFungus"/>
+							<affiliatedCity/>
+						</tile>
+					</conditions>
+					<areas>
+						<area affects="Tile">
+							<modifiers>
+								<modifier>
+									<effects>
+										<removeFeature name="OrkoidFungus"/>
+										<removeFeature name="Wildlife/WireWeed"/>
+										<removeFeature name="Wildlife/ImperialRuin"/>
+									</effects>
+								</modifier>
+							</modifiers>
+						</area>
+					</areas>
+				</target>
+			</beginTargets>
+		</consumeTile>
 	</actions>
 	<traits>
 		<trait name="AndTheyShallKnowNoFear"/>

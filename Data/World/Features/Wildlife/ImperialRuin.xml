@@ -4,7 +4,7 @@
 		ambientSoundPriority="0"
 		audioEffectSystem="City"
 		blockingSight="1"
-		category="ImperialRuins"
+		category="OrkoidFungus"
 		icon="Features/ImperialRuin">
 	<model>
 		<imperialRuin material="Buildings/AstraMilitarum/Buildings"/>

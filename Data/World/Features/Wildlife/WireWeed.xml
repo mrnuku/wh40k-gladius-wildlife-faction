@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feature category="ImperialRuins"
+<feature category="OrkoidFungus"
 		icon="Features/WireWeed">
 	<model>
 		<vegetation material="Terrain/Vegetation"
@@ -30,7 +30,7 @@
 		</modifier>
 	</modifiers>
 	<traits>
-		<trait name="WireWeed"/>
+		<trait name="Wildlife/WireWeed"/>
 	</traits>
 	<vegetation>
 		<trees clusterSizeMin="10" clusterSizeMax="20"
