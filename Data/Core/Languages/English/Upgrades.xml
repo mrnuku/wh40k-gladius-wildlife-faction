@@ -84,6 +84,10 @@
 	<entry name="Wildlife/VespidStingwingDescription" value="<string name='Units/Wildlife/VespidStingwingDescription'/>"/>
 	<entry name="Wildlife/VespidStingwingFlavor" value="<string name='Units/Wildlife/VespidStingwingFlavor'/>"/>
 
+	<entry name="Wildlife/Poxwalker" value="<string name='Units/Wildlife/Poxwalker'/>"/>
+	<entry name="Wildlife/PoxwalkerDescription" value="<string name='Units/Wildlife/PoxwalkerDescription'/>"/>
+	<entry name="Wildlife/PoxwalkerFlavor" value="<string name='Units/Wildlife/PoxwalkerFlavor'/>"/>
+
 	<entry name="Wildlife/NeophyteHybrid" value="<string name='Units/Wildlife/NeophyteHybrid'/>"/>
 	<entry name="Wildlife/NeophyteHybridDescription" value="<string name='Units/Wildlife/NeophyteHybridDescription'/>"/>
 	<entry name="Wildlife/NeophyteHybridFlavor" value="<string name='Units/Wildlife/NeophyteHybridFlavor'/>"/>

@@ -35,6 +35,7 @@
 	<actions>
 		<produceUnit unit="Wildlife/KrootHound"/>
         <produceUnit unit="Wildlife/VespidStingwing" requiredUpgrade="Wildlife/VespidStingwing"/>
+        <produceUnit unit="Wildlife/Poxwalker" requiredUpgrade="Wildlife/Poxwalker"/>
         <produceUnit unit="Wildlife/NeophyteHybrid" requiredUpgrade="Wildlife/NeophyteHybrid"/>
 	</actions>
 </building>
