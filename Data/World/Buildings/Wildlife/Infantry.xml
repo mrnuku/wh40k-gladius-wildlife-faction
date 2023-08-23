@@ -33,9 +33,9 @@
 		</modifier>
 	</strategyModifiers>
 	<actions>
-		<produceUnit unit="Wildlife/KrootHound"/>
-        <produceUnit unit="Wildlife/VespidStingwing" requiredUpgrade="Wildlife/VespidStingwing"/>
-        <produceUnit unit="Wildlife/Poxwalker" requiredUpgrade="Wildlife/Poxwalker"/>
-        <produceUnit unit="Wildlife/NeophyteHybrid" requiredUpgrade="Wildlife/NeophyteHybrid"/>
+		<produceUnit unit="Neutral/KrootHound"/>
+        <produceUnit unit="Neutral/VespidStingwing" requiredUpgrade="Wildlife/VespidStingwing"/>
+        <produceUnit unit="Neutral/Poxwalker" requiredUpgrade="Wildlife/Poxwalker"/>
+        <produceUnit unit="Neutral/NeophyteHybrid" requiredUpgrade="Wildlife/NeophyteHybrid"/>
 	</actions>
 </building>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<unit>
+	<modifiers>
+		<modifier visible="0">
+			<effects>
+				<foodUpkeep base="2.0"/> <!-- %foodUpkeep base tier=6 factor=1 -->
+				<foodCost base="30.0"/> <!-- %foodCost base tier=6 factor=0.75 -->
+				<oreCost base="10.0"/> <!-- %oreCost base tier=6 factor=0.25 -->
+			</effects>
+		</modifier>
+	</modifiers>
+	<strategyModifiers>
+		<modifier>
+			<effects>
+				<increaseAircraftScore base="1.0"/>
+			</effects>
+		</modifier>
+	</strategyModifiers>
+	<traits>
+		<trait name="Wildlife/HeavyAcid" requiredUpgrade="Wildlife/HeavyAcid"/>
+	</traits>
+</unit>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<unit>
+	<modifiers>
+		<modifier visible="0">
+			<effects>
+				<energyUpkeep base="5.0"/> <!-- %energyUpkeep base tier=13 factor=0.25 -->
+				<energyCost base="100.0"/> <!-- %energyCost base tier=13 factor=0.25 -->
+				<influenceUpkeep base="10.0"/> <!-- %influenceUpkeep base tier=13 factor=0.5 -->
+				<influenceCost base="100.0"/> <!-- %influenceCost base tier=13 factor=0.25 -->
+				<itemSlots base="6"/>
+				<oreCost base="200.0"/> <!-- %oreCost base tier=13 factor=0.5 -->
+				<oreUpkeep base="5.0"/> <!-- %oreUpkeep base tier=13 factor=0.25 -->
+			</effects>
+		</modifier>
+	</modifiers>
+	<strategyModifiers>
+		<modifier>
+			<effects>
+				<increaseVehiclesScore base="1.0"/>
+				<increaseHeroesScore base="1.0"/>
+			</effects>
+		</modifier>
+	</strategyModifiers>
+	<actions>
+		<shop/>
+	</actions>
+</unit>

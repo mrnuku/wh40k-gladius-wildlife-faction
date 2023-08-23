@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<unit>
+	<weapons>
+		<weapon name="Wildlife/Snazzgun" requiredUpgrade="Wildlife/ExtraInfantryArmour">
+			<model>
+				<projectileWeapon mesh="Weapons/Neutral/Autogun"
+						material="Units/Neutral/NeophyteHybrid"
+						bone="Bone099"
+						muzzleBone=".Muzzle"
+						fireInterval="0.1"/>
+			</model>
+		</weapon>
+	</weapons>
+	<modifiers>
+		<modifier>
+			<effects>
+				<foodUpkeep base="1.5"/> <!-- %foodUpkeep base tier=5 factor=1 -->
+				<foodCost base="15.0"/> <!-- %foodCost base tier=5 factor=0.5 -->
+				<oreCost base="15.0"/> <!-- %oreCost base tier=5 factor=0.5 -->
+				<productionCost base="30.0"/> <!-- %productionCost base tier=5 factor=1 -->
+			</effects>
+		</modifier>
+	</modifiers>
+	<traits>
+		<trait name="EavyArmour" requiredUpgrade="Wildlife/ExtraInfantryArmour"/>
+	</traits>
+</unit>

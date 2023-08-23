@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<unit>
+	<modifiers>
+		<modifier visible="0">
+			<effects>
+				<foodUpkeep base="2.0"/> <!-- %foodUpkeep base tier=7 factor=0.5 -->
+				<foodCost base="30.0"/> <!-- %foodCost base tier=7 factor=0.5 -->
+				<influenceUpkeep base="2.0"/> <!-- %influenceUpkeep base tier=7 factor=0.5 -->
+				<influenceCost base="30.0"/> <!-- %influenceCost base tier=7 factor=0.5 -->
+			</effects>
+		</modifier>
+	</modifiers>
+	<strategyModifiers>
+		<modifier>
+			<effects>
+				<increaseAircraftScore base="1.0"/>
+			</effects>
+		</modifier>
+	</strategyModifiers>
+	<traits>
+		<trait name="EavyArmour" requiredUpgrade="Wildlife/ExtraAircraftArmour"/>
+		<trait name="Wildlife/FlyerBoost" requiredUpgrade="Wildlife/FlyerBoost"/>
+	</traits>
+</unit>

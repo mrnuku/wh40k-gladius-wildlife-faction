@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<unit spawnDistanceMin="6" icon="Units/ChaosSpaceMarines/ChaosCultist">
+	<traits>
+		<trait name="EavyArmour" requiredUpgrade="Wildlife/ExtraInfantryArmour"/>
+	</traits>
+</unit>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<unit>
+	<strategyModifiers>
+		<modifier>
+			<effects>
+				<increaseInfantryScore base="1.0"/>
+			</effects>
+		</modifier>
+	</strategyModifiers>
+	<traits>
+		<trait name="EavyArmour" requiredUpgrade="Wildlife/ExtraInfantryArmour"/>
+		<trait name="Wildlife/RabidRage" requiredUpgrade="Wildlife/RabidRage"/>
+	</traits>
+</unit>

@@ -36,9 +36,9 @@
 		</modifier>
 	</strategyModifiers>
 	<actions>
-		<produceUnit unit="Wildlife/CyberneticaDatasmith"/>
-		<produceUnit unit="Wildlife/ChaosCultist" requiredUpgrade="Wildlife/ChaosCultist"/>
-		<produceUnit unit="Wildlife/TechpriestBetrayer" requiredUpgrade="Wildlife/TechpriestBetrayer"/>
-		<produceUnit unit="Wildlife/LordOfSkulls" requiredUpgrade="Wildlife/LordOfSkulls"/>
+		<produceUnit unit="AdeptusMechanicus/CyberneticaDatasmith"/>
+		<produceUnit unit="ChaosSpaceMarines/ChaosCultist" requiredUpgrade="Wildlife/ChaosCultist"/>
+		<produceUnit unit="Neutral/TechpriestBetrayer" requiredUpgrade="Wildlife/TechpriestBetrayer"/>
+		<produceUnit unit="Neutral/LordOfSkulls" requiredUpgrade="Wildlife/LordOfSkulls"/>
 	</actions>
 </building>

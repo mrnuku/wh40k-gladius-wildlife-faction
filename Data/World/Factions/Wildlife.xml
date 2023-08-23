@@ -308,16 +308,11 @@
 		</quest>
 	</quests>
 	<actions>
-		<deployCity charges="1">
-			<model>
-				<action sound="Actions/DropPod"/>
-			</model>
-		</deployCity>
 		<deployFortress cooldown="10"
 				cooldownScalesWithPace="1"
 				icon="Units/Neutral/CatachanDevilLair"
 				scaleInfluenceCost="1"
-				unit="Wildlife/CatachanDevilLair"
+				unit="Neutral/CatachanDevilLair"
 				requiredUpgrade="Wildlife/CatachanDevilLair">
 			<model>
 				<action sound="Actions/DropPod"/>
@@ -366,6 +361,8 @@
 		</tactic>
 	</actions>
 	<startingUnits>
-		<unit type="Wildlife/KrootHound" count="2"/>
+		<unit type="Neutral/KrootHound" count="1"/>
+		<unit type="Neutral/Enslaver" count="1"/>
+		<unit type="AdeptusMechanicus/CyberneticaDatasmith" count="1"/>
 	</startingUnits>
 </faction>

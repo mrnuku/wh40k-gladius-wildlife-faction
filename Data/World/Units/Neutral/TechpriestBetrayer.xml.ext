@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<unit>
+	<modifiers>
+		<modifier visible="0">
+			<effects>
+				<itemSlots base="6"/>
+			</effects>
+		</modifier>
+	</modifiers>
+	<strategyModifiers>
+		<modifier>
+			<effects>
+				<increaseHeroesScore base="1.0"/>
+			</effects>
+		</modifier>
+	</strategyModifiers>
+	<actions>
+		<shop/>
+	</actions>
+	<traits>
+		<trait name="EavyArmour" requiredUpgrade="Wildlife/ExtraInfantryArmour"/>
+	</traits>
+</unit>

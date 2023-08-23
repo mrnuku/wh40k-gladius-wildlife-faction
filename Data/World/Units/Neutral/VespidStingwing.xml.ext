@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<unit>
+	<weapons>
+		<weapon name="FragGrenade" slotName="FragGrenade" enabled="0">
+			<model>
+				<grenadeWeapon muzzleBone=".Muzzle"/>
+			</model>		
+		</weapon>
+	</weapons>
+	<modifiers>
+		<modifier visible="0">
+			<effects>
+				<moraleMax base="8"/> <!-- %moraleMax base leadership=7 -->
+			</effects>
+		</modifier>
+	</modifiers>
+	<strategyModifiers>
+		<modifier>
+			<effects>
+				<increaseInfantryScore base="1.0"/>
+			</effects>
+		</modifier>
+	</strategyModifiers>
+	<actions>
+		<throwGrenade weaponSlotName="FragGrenade" cooldown="10"
+				requiredUpgrade="Wildlife/FragGrenade">
+			<model>
+				<action animation="Units/Neutral/VespidStingwingAttack"
+						beginFire="0.666666666667"/>
+			</model>				
+		</throwGrenade>
+	</actions>
+	<traits>
+		<trait name="EavyArmour" requiredUpgrade="Wildlife/ExtraInfantryArmour"/>
+	</traits>
+</unit>
