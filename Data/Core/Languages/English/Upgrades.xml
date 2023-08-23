@@ -65,6 +65,10 @@
 	<entry name="Wildlife/FragGrenadeDescription" value="<string name='Upgrades/SpaceMarines/FragGrenadeDescription'/>"/>
 	<entry name="Wildlife/FragGrenadeFlavor" value="<string name='Weapons/FragGrenadeFlavor'/>"/>
 
+	<entry name="Wildlife/HeavyAcid" value="<string name='Traits/Wildlife/HeavyAcid'/>"/>
+	<entry name="Wildlife/HeavyAcidDescription" value="Grants <string name='Units/Wildlife/Psychneuein'/>s increased damage."/>
+	<entry name="Wildlife/HeavyAcidFlavor" value="<string name='Traits/Wildlife/HeavyAcidFlavor'/>"/>
+
 	<!-- City Expansion -->
 
 	<entry name="Wildlife/CityTier2" value="<string name='Traits/Wildlife/CityTier2'/>"/>

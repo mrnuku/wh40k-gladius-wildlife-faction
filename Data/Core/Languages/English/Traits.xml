@@ -34,5 +34,8 @@
 	<entry name="Wildlife/PsychneueinInfestDescription" value="<string name='Traits/PsychneueinInfestDescription'/>"/>
 	<entry name="Wildlife/PsychneueinInfestation" value="<string name='Traits/PsychneueinInfestation'/>"/>
 	<entry name="Wildlife/PsychneueinInfestationDescription" value="<string name='Traits/PsychneueinInfestationDescription'/>"/>
+	<entry name="Wildlife/HeavyAcid" value="Heavy Acid"/>
+	<entry name="Wildlife/HeavyAcidDescription" value="Very corrosive and deadly acid"/>
+	<entry name="Wildlife/HeavyAcidFlavor" value="Selective breading of creatures whose blessed with acid production will lead to more effective acidicus massdestructus."/>
 
 </language>

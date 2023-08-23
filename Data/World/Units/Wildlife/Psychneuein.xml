@@ -104,5 +104,6 @@
 		<trait name="Flyer"/>
 		<!-- <trait name="Hover"/> -->
 		<trait name="Wildlife/PsychneueinInfest"/>
+		<trait name="Wildlife/HeavyAcid" requiredUpgrade="Wildlife/HeavyAcid"/>
 	</traits>
 </unit>
