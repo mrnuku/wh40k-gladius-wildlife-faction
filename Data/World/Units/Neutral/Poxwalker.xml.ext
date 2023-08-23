@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <unit>
 	<modifiers>
-		<modifier visible="0">
+		<modifier>
 			<effects>
 				<foodUpkeep base="3.0"/> <!-- %foodUpkeep base tier=5 factor=1 -->
 				<foodCost base="30.0"/> <!-- %foodCost base tier=5 factor=1 -->
@@ -9,6 +9,13 @@
 			</effects>
 		</modifier>
 	</modifiers>
+	<strategyModifiers>
+		<modifier>
+			<effects>
+				<increaseInfantryScore base="1.0"/>
+			</effects>
+		</modifier>
+	</strategyModifiers>
 	<traits>
 		<trait name="EavyArmour" requiredUpgrade="Wildlife/ExtraInfantryArmour"/>
 		<trait name="Wildlife/PoxwalkerArmour" requiredUpgrade="Wildlife/PoxwalkerArmour"/>

@@ -8,7 +8,7 @@
 		</weapon>
 	</weapons>
 	<modifiers>
-		<modifier visible="0">
+		<modifier>
 			<effects>
 				<moraleMax base="8"/> <!-- %moraleMax base leadership=7 -->
 			</effects>

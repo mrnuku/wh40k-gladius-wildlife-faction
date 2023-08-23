@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <unit>
 	<modifiers>
-		<modifier visible="0">
+		<modifier>
 			<effects>
 				<itemSlots base="6"/>
 			</effects>

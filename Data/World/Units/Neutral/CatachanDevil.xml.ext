@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <unit>
 	<modifiers>
-		<modifier visible="0">
+		<modifier>
 			<effects>
 				<cargoSlots base="2"/> <!-- %cargoSlots base capacity=20 -->
 				<foodUpkeep base="1.5"/> <!-- %foodUpkeep base tier=7 factor=0.5 -->

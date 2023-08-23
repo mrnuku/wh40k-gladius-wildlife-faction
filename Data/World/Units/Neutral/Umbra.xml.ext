@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <unit>
 	<modifiers>
-		<modifier visible="0">
+		<modifier>
 			<effects>
 				<energyUpkeep base="1.0"/> <!-- %energyUpkeep base tier=8 factor=0.25 -->
 				<energyCost base="20.0"/> <!-- %energyCost base tier=8 factor=0.25 -->
