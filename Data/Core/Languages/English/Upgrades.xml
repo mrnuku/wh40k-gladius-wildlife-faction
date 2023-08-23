@@ -79,7 +79,11 @@
 
 	<entry name="Wildlife/FlyerBoost" value="<string name='Traits/Wildlife/FlyerBoost'/>"/>
 	<entry name="Wildlife/FlyerBoostDescription" value="Grants <string name='Units/Wildlife/Enslaver'/>, <string name='Units/Wildlife/Umbra'/>s increased movement speeds."/>
-	<entry name="Wildlife/FlyerBoostFlavor" value="<string name='Traits/Wildlife/FlyerBoost'/>"/>
+	<entry name="Wildlife/FlyerBoostFlavor" value="<string name='Traits/Wildlife/FlyerBoostFlavor'/>"/>
+
+	<entry name="Wildlife/RabidRage" value="<string name='Traits/Wildlife/RabidRage'/>"/>
+	<entry name="Wildlife/RabidRageDescription" value="Grants <string name='Units/Wildlife/KrootHound'/> increased damage and armour."/>
+	<entry name="Wildlife/RabidRageFlavor" value="<string name='Traits/Wildlife/RabidRageFlavor'/>"/>
 
 	<!-- City Expansion -->
 

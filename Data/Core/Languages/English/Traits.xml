@@ -46,5 +46,8 @@
 	<entry name="Wildlife/FlyerBoost" value="Flyer Boost"/>
 	<entry name="Wildlife/FlyerBoostDescription" value="Extra movement for flyers"/>
 	<entry name="Wildlife/FlyerBoostFlavor" value="Gene boost for certain creatures yields more movement."/>
+	<entry name="Wildlife/RabidRage" value="Rabid Rage"/>
+	<entry name="Wildlife/RabidRageDescription" value="Mutated dog virus"/>
+	<entry name="Wildlife/RabidRageFlavor" value="A virus what infects dogs what makes them extremely aggressive and reduces their sense of pain."/>
 
 </language>

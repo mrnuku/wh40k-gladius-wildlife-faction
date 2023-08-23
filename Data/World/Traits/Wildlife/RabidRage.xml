@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<trait icon="Traits/Blighted">
+	<modifiers>
+		<modifier>
+			<effects>
+				<armor add="4"/>
+				<damage mul="0.25"/>
+			</effects>
+		</modifier>
+	</modifiers>
+</trait>

@@ -80,5 +80,6 @@
 		<trait name="MoveThroughCover"/>
 		<trait name="ForestStealth"/>
 		<trait name="EavyArmour" requiredUpgrade="Wildlife/ExtraInfantryArmour"/>
+		<trait name="Wildlife/RabidRage" requiredUpgrade="Wildlife/RabidRage"/>
 	</traits>
 </unit>
