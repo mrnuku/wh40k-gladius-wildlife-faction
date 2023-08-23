@@ -31,6 +31,10 @@
 	<entry name="Wildlife/VehiclesDescription" value="<string name='Buildings/Wildlife/VehiclesDescription'/>"/>
 	<entry name="Wildlife/VehiclesFlavor" value="<string name='Buildings/Wildlife/VehiclesFlavor'/>"/>
 
+	<entry name="Wildlife/OrkoidFungusFood" value="<string name='Upgrades/Orks/OrkoidFungusFood'/>"/>
+	<entry name="Wildlife/OrkoidFungusFoodDescription" value="<string name='Upgrades/Orks/OrkoidFungusFoodDescription'/>"/>
+	<entry name="Wildlife/OrkoidFungusFoodFlavor" value="<string name='Upgrades/Orks/OrkoidFungusFoodFlavor'/>"/>
+
 	<!-- Unit upgrades -->
 
 	<entry name="Wildlife/HammerOfWrath" value="<string name='Actions/HammerOfWrath'/>"/>
