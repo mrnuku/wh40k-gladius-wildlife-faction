@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<upgrade position="8" icon="Traits/SavantLock">
+	<requiredUpgrades>
+		<upgrade name="Wildlife/Enslaver"/>
+		<upgrade name="Wildlife/Umbra"/>
+	</requiredUpgrades>
+	<strategyModifiers>
+		<modifier>
+			<effects>
+				<increaseAircraftScore base="1.0"/>
+			</effects>
+		</modifier>
+	</strategyModifiers>
+</upgrade>

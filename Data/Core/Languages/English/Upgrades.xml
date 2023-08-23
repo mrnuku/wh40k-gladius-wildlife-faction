@@ -77,6 +77,10 @@
 	<entry name="Wildlife/PoxwalkerDraculaLeechDescription" value="Grants <string name='Units/Wildlife/Poxwalker'/>s increased damage."/>
 	<entry name="Wildlife/PoxwalkerDraculaLeechFlavor" value="<string name='Traits/Wildlife/PoxwalkerArmourFlavor'/>"/>
 
+	<entry name="Wildlife/FlyerBoost" value="<string name='Traits/Wildlife/FlyerBoost'/>"/>
+	<entry name="Wildlife/FlyerBoostDescription" value="Grants <string name='Units/Wildlife/Enslaver'/>, <string name='Units/Wildlife/Umbra'/>s increased movement speeds."/>
+	<entry name="Wildlife/FlyerBoostFlavor" value="<string name='Traits/Wildlife/FlyerBoost'/>"/>
+
 	<!-- City Expansion -->
 
 	<entry name="Wildlife/CityTier2" value="<string name='Traits/Wildlife/CityTier2'/>"/>

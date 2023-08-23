@@ -127,5 +127,6 @@
 		<trait name="Shrouded"/>
 		<trait name="Smash"/>
 		<trait name="EavyArmour" requiredUpgrade="Wildlife/ExtraAircraftArmour"/>
+		<trait name="Wildlife/FlyerBoost" requiredUpgrade="Wildlife/FlyerBoost"/>
 	</traits>
 </unit>

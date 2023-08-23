@@ -43,5 +43,8 @@
 	<entry name="Wildlife/PoxwalkerDraculaLeech" value="<string name='Units/Wildlife/Poxwalker'/> Dracula Leech"/>
 	<entry name="Wildlife/PoxwalkerDraculaLeechDescription" value="Vampiric lifeleech upgrade"/>
 	<entry name="Wildlife/PoxwalkerDraculaLeechFlavor" value="Leeches every remaining lifeforce out of any target very quickly."/>
+	<entry name="Wildlife/FlyerBoost" value="Flyer Boost"/>
+	<entry name="Wildlife/FlyerBoostDescription" value="Extra movement for flyers"/>
+	<entry name="Wildlife/FlyerBoostFlavor" value="Gene boost for certain creatures yields more movement."/>
 
 </language>
