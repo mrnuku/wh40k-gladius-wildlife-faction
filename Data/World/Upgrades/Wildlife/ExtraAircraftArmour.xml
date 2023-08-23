@@ -6,7 +6,7 @@
 	<strategyModifiers>
 		<modifier>
 			<effects>
-				<increaseVehiclesScore base="1.0"/>
+				<increaseAircraftScore base="1.0"/>
 			</effects>
 		</modifier>
 	</strategyModifiers>
