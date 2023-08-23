@@ -76,5 +76,7 @@
 		<!-- <trait name="Relentless"/> -->
 		<trait name="UnendingHorde"/>
 		<trait name="EavyArmour" requiredUpgrade="Wildlife/ExtraInfantryArmour"/>
+		<trait name="Wildlife/PoxwalkerArmour" requiredUpgrade="Wildlife/PoxwalkerArmour"/>
+		<trait name="Wildlife/PoxwalkerDraculaLeech" requiredUpgrade="Wildlife/PoxwalkerDraculaLeech"/>
 	</traits>
 </unit>

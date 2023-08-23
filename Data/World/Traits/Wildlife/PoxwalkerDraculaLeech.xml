@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<trait icon="Traits/MonstrousCreature">
+	<modifiers>
+		<modifier>
+			<effects>
+				<damage mul="0.15"/>
+				<armorPenetration add="2"/>
+				<attacks mul="1.0"/>
+				<accuracy add="2"/>
+			</effects>
+		</modifier>
+	</modifiers>
+</trait>

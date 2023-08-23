@@ -37,5 +37,11 @@
 	<entry name="Wildlife/HeavyAcid" value="Heavy Acid"/>
 	<entry name="Wildlife/HeavyAcidDescription" value="Very corrosive and deadly acid"/>
 	<entry name="Wildlife/HeavyAcidFlavor" value="Selective breading of creatures whose blessed with acid production will lead to more effective acidicus massdestructus."/>
+	<entry name="Wildlife/PoxwalkerArmour" value="<string name='Units/Wildlife/Poxwalker'/> Armour"/>
+	<entry name="Wildlife/PoxwalkerArmourDescription" value="Heavy Armour"/>
+	<entry name="Wildlife/PoxwalkerArmourFlavor" value="A heavy armour upgrade for your favourite life leaching infantry unit."/>
+	<entry name="Wildlife/PoxwalkerDraculaLeech" value="<string name='Units/Wildlife/Poxwalker'/> Dracula Leech"/>
+	<entry name="Wildlife/PoxwalkerDraculaLeechDescription" value="Vampiric lifeleech upgrade"/>
+	<entry name="Wildlife/PoxwalkerDraculaLeechFlavor" value="Leeches every remaining lifeforce out of any target very quickly."/>
 
 </language>
