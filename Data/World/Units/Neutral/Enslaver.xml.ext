@@ -17,6 +17,37 @@
 			</effects>
 		</modifier>
 	</strategyModifiers>
+	<actions>
+		<narthecium cooldown="1" requiredUpgrade="Wildlife/Enslaver">
+			<model>
+				<action animation="Units/Neutral/EnslaverAttack"
+						sound="Actions/Heal"/>
+			</model>
+			<beginTargets>
+				<target rangeMax="1">
+					<conditions>
+						<unit>
+							<allied/>
+							<damaged/>
+							<noTrait name="Fortification"/>
+							<noTrait name="Vehicle"/>
+						</unit>
+					</conditions>
+					<areas>
+						<area affects="Unit">
+							<modifiers>
+								<modifier>
+									<effects>
+										<hitpoints add="8"/>
+									</effects>
+								</modifier>
+							</modifiers>
+						</area>
+					</areas>
+				</target>
+			</beginTargets>
+		</narthecium>
+	</actions>
 	<traits>
 		<trait name="EavyArmour" requiredUpgrade="Wildlife/ExtraAircraftArmour"/>
 		<trait name="Wildlife/FlyerBoost" requiredUpgrade="Wildlife/FlyerBoost"/>
