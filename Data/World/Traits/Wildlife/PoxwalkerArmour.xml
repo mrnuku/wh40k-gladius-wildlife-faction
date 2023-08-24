@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<trait icon="Traits/BruteShield">
+<trait category="Buff" icon="Traits/BruteShield">
 	<modifiers>
 		<modifier>
 			<effects>
