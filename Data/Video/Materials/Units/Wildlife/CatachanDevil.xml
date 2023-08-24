@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<material>
-	<textures>
-		<texture name="Units/Neutral/CatachanDevilDiffuse"/>
-		<texture name="Units/Neutral/CatachanDevilNormal"/>
-		<texture name="Units/Wildlife/CatachanDevilSIC"/>
-		<texture name="ShadowMapColor"/>
-	</textures>
-</material>

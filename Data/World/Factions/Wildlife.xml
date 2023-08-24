@@ -51,7 +51,7 @@
 			<stages>
 				<stage>
 					<objectives>
-						<deployFortress unitType="Wildlife/CatachanDevilLair"/>
+						<deployFortress unitType="Neutral/CatachanDevilLair"/>
 					</objectives>
 					<rewards>
 						<ore amount="50"/>
@@ -60,7 +60,7 @@
 				<stage>
 					<objectives>
 						<constructBuilding buildingType="Wildlife/Infantry"/>
-						<produceUnit unitType="Wildlife/VespidStingwing" count="2" ignoreExisting="1"/>
+						<produceUnit unitType="Neutral/VespidStingwing" count="2" ignoreExisting="1"/>
 					</objectives>
 					<rewards>
 						<food amount="50"/>
@@ -82,7 +82,7 @@
 						<constructBuilding buildingType="Wildlife/Heroes"
 								count="1"/>
 						<researchUpgrade upgrade="Wildlife/TechpriestBetrayer"/>
-						<produceUnit unitType="Wildlife/TechpriestBetrayer"
+						<produceUnit unitType="Neutral/TechpriestBetrayer"
 								count="1"/>
 					</objectives>
 					<rewards>
@@ -105,7 +105,7 @@
 				</stage>
  				<stage>
 					<objectives>
-						<visitTileExodite unitType="Wildlife/TechpriestBetrayer"
+						<visitTileExodite unitType="Neutral/TechpriestBetrayer"
 								featureType="Ruin"
 								count="3"/>
 					</objectives>
@@ -131,9 +131,9 @@
 								<unit type="Necrons/Warrior"/>
 							</attackers>
 							<explorers>
-								<unit type="Wildlife/KrootHound"
+								<unit type="Neutral/KrootHound"
 										count="1" rankMin="2" rankMax="4"/>
-								<unit type="Wildlife/VespidStingwing"
+								<unit type="Neutral/VespidStingwing"
 										count="1" rankMin="2" rankMax="4"/>
 							</explorers>
 						</exploreDepths>
@@ -158,7 +158,7 @@
 						<accumulateResearch count="200"/>
 					</objectives>
 					<rewards>
-						<unit type="Wildlife/KastelanRobot"/>
+						<unit type="Neutral/KastelanRobot"/>
 					</rewards>
 				</stage>
 				<stage>

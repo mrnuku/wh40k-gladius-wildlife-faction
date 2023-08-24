@@ -1,8 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
 <language>
-
-	<entry name="Wildlife/Snazzgun" value="<string name='Weapons/Snazzgun'/>"/>
-	<entry name="Wildlife/CloseCombatWeapon" value="<string name='Weapons/CloseCombatWeapon'/>"/>
-	<entry name="Wildlife/Shadowlimbs" value="<string name='Weapons/Shadowlimbs'/>"/>
-
 </language>

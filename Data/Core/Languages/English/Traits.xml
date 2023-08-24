@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <language>
-	<entry name="Wildlife/BlastDamage" value="<string name='Traits/AstraMilitarum/BlastDamage'/>"/>
-	<entry name="Wildlife/BlastDamageDescription" value="<string name='Traits/AstraMilitarum/BlastDamageDescription'/>"/>
-	<entry name="Wildlife/BlastDamageFlavor" value="<string name='Traits/AstraMilitarum/BlastDamageFlavor'/>"/>
-	<entry name="Wildlife/BoltDamage" value="<string name='Traits/AstraMilitarum/BoltDamage'/>"/>
-	<entry name="Wildlife/BoltDamageDescription" value="<string name='Traits/AstraMilitarum/BoltDamageDescription'/>"/>
-	<entry name="Wildlife/BoltDamageFlavor" value="<string name='Traits/AstraMilitarum/BoltDamageFlavor'/>"/>
-	<entry name="Wildlife/BolterDiscipline" value="Bolter Discipline"/>
-	<entry name="Wildlife/BolterDisciplineDescription" value="<string name='Traits/ChaosWildlife/MaliciousVolleysDescription'/>"/>
-	<entry name="Wildlife/BolterDisciplineFlavor" value="To a Space Marine, the boltgun is more than a weapon—it is an instrument of Mankind’s divinity, the bringer of death to his foes."/>
 	<entry name="Wildlife/CityTier2" value="Fortress Expansion"/>
 	<entry name="Wildlife/CityTier2Description" value="Increases the tile acquisition radius."/>
 	<entry name="Wildlife/CityTier2Flavor" value="The second stage of the Fortress' construction has started. With the core facilities established, the Techmarines are authorised to expand their operations and create a second defensive line."/>
@@ -18,29 +9,14 @@
 	<entry name="Wildlife/CityTier4" value="Fortress Supreme"/>
 	<entry name="Wildlife/CityTier4Description" value="<string name='Traits/Wildlife/CityTier2Description'/>"/>
 	<entry name="Wildlife/CityTier4Flavor" value="With this expansion, the Master Artificer declares the fortress complete. Now it rivals in scale a Hive City. Inside its impregnable walls, you could be anywhere in the Imperium. Outside, the local tribes come from enormous distances to pay tribute, whilst their finest warriors hope to be accepted for the lethal trials that might lead to their being modified into a Space Marine."/>
-	<entry name="Wildlife/FortressOfRedemptionDamageReduction" value="Stronghold Shielding"/>
-	<entry name="Wildlife/FortressOfRedemptionDamageReductionDescription" value="Increases the invulnerable damage reduction."/>
-	<entry name="Wildlife/FortressOfRedemptionDamageReductionFlavor" value="Gladius Prime is already proving far more hostile than the Adeptus Administratum's worst forecasts. With the Fortress' physical defenses under almost constant assault, the Techmarines approve installation of a void shield. Once constructed, this shimmering dome of power is sufficient to warp away the firepower of entire battalions (or even a rogue Imperial Knight) before collapsing."/>
-	<entry name="Wildlife/LasDamage" value="<string name='Traits/AstraMilitarum/LasDamage'/>"/>
-	<entry name="Wildlife/LasDamageDescription" value="<string name='Traits/AstraMilitarum/LasDamageDescription'/>"/>
-	<entry name="Wildlife/LasDamageFlavor" value="<string name='Traits/AstraMilitarum/LasDamageFlavor'/>"/>
-	<entry name="Wildlife/MeleeDamage" value="Close Combat Mastery"/>
-	<entry name="Wildlife/MeleeDamageDescription" value="Increases the armour penetration."/>
-	<entry name="Wildlife/MeleeDamageFlavor" value="Certain Adeptus Astartes chapters—the Space Wolves, the Blood Drinkers, the Minotaurs—are renowned for their mastery of close-quarters combat. To come to blows with even the lowliest Scout Marine from such a chapter is to fight generations of knowledge and training."/>
-	<entry name="Wildlife/Omniscope" value="<string name='Actions/Wildlife/Omniscope'/>"/>
-	<entry name="Wildlife/OmniscopeDescription" value="<string name='Actions/Wildlife/OmniscopeDescription'/>"/>
-	<entry name="Wildlife/OmniscopeFlavor" value="<string name='Actions/Wildlife/OmniscopeFlavor'/>"/>
-	<entry name="Wildlife/PsychneueinInfest" value="<string name='Traits/PsychneueinInfest'/>"/>
-	<entry name="Wildlife/PsychneueinInfestDescription" value="<string name='Traits/PsychneueinInfestDescription'/>"/>
-	<entry name="Wildlife/PsychneueinInfestation" value="<string name='Traits/PsychneueinInfestation'/>"/>
-	<entry name="Wildlife/PsychneueinInfestationDescription" value="<string name='Traits/PsychneueinInfestationDescription'/>"/>
+	
 	<entry name="Wildlife/HeavyAcid" value="Heavy Acid"/>
 	<entry name="Wildlife/HeavyAcidDescription" value="Very corrosive and deadly acid"/>
 	<entry name="Wildlife/HeavyAcidFlavor" value="Selective breading of creatures whose blessed with acid production will lead to more effective acidicus massdestructus."/>
-	<entry name="Wildlife/PoxwalkerArmour" value="<string name='Units/Wildlife/Poxwalker'/> Armour"/>
+	<entry name="Wildlife/PoxwalkerArmour" value="<string name='Units/Neutral/Poxwalker'/> Armour"/>
 	<entry name="Wildlife/PoxwalkerArmourDescription" value="Heavy Armour"/>
 	<entry name="Wildlife/PoxwalkerArmourFlavor" value="A heavy armour upgrade for your favourite life leaching infantry unit."/>
-	<entry name="Wildlife/PoxwalkerDraculaLeech" value="<string name='Units/Wildlife/Poxwalker'/> Dracula Leech"/>
+	<entry name="Wildlife/PoxwalkerDraculaLeech" value="<string name='Units/Neutral/Poxwalker'/> Dracula Leech"/>
 	<entry name="Wildlife/PoxwalkerDraculaLeechDescription" value="Vampiric lifeleech upgrade"/>
 	<entry name="Wildlife/PoxwalkerDraculaLeechFlavor" value="Leeches every remaining lifeforce out of any target very quickly."/>
 	<entry name="Wildlife/FlyerBoost" value="Flyer Boost"/>

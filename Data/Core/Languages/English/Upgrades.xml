@@ -16,7 +16,7 @@
 	<entry name="Wildlife/GeneseedBunkerFlavor" value="<string name='Buildings/Wildlife/GeneseedBunkerFlavor'/>"/>
 
 	<entry name="Wildlife/Heroes" value="<string name='Buildings/Wildlife/Heroes'/>"/>
-	<entry name="Wildlife/HeroesDescription" value="<string name='Buildings/Wildlife/HeroesDescription'/>"/>
+	<entry name="Wildlife/HeroesDescription" value="<string name='Buildings/Wildlife/HeroesDescription'/> Also produces <string name='Units/AdeptusMechanicus/CyberneticaDatasmith'/>s for founding new cities."/>
 	<entry name="Wildlife/HeroesFlavor" value="<string name='Buildings/Wildlife/HeroesFlavor'/>"/>
 
 	<entry name="Wildlife/Housing" value="<string name='Buildings/Wildlife/Housing'/>"/>
@@ -36,10 +36,6 @@
 	<entry name="Wildlife/OrkoidFungusFoodFlavor" value="<string name='Upgrades/Orks/OrkoidFungusFoodFlavor'/>"/>
 
 	<!-- Unit upgrades -->
-
-	<entry name="Wildlife/HammerOfWrath" value="<string name='Actions/HammerOfWrath'/>"/>
-	<entry name="Wildlife/HammerOfWrathDescription" value="Grants Catachan Devils, Kastelan Robots, Umbras and Lord Of Skulls the ability to perform more devastating attacks."/>
-	<entry name="Wildlife/HammerOfWrathFlavor" value="<string name='Actions/HammerOfWrathFlavor'/>"/>
 
 	<entry name="Wildlife/ExtraInfantryArmour" value="<string name='Traits/ExtraInfantryArmour'/>"/>
 	<entry name="Wildlife/ExtraInfantryArmourDescription" value="<string name='Upgrades/AstraMilitarum/ExtraInfantryArmourDescription'/>"/>
@@ -66,7 +62,7 @@
 	<entry name="Wildlife/BoltDamageFlavor" value="<string name='Traits/SpaceMarines/BoltDamageFlavor'/>"/>
 
 	<entry name="Wildlife/SacralVigor" value="<string name='Upgrades/SistersOfBattle/SacralVigor'/>"/>
-	<entry name="Wildlife/SacralVigorDescription" value="<string name='Upgrades/SistersOfBattle/SacralVigorDescription'/>"/>
+	<entry name="Wildlife/SacralVigorDescription" value="Sacred Rite that restores the hitpoints of units with any Wildlife upgrade."/>
 	<entry name="Wildlife/SacralVigorFlavor" value="<string name='Upgrades/SistersOfBattle/SacralVigorFlavor'/>"/>
 
 	<entry name="Wildlife/RitualizedCeremonies" value="<string name='Upgrades/SistersOfBattle/RitualizedCeremonies'/>"/>
@@ -74,27 +70,27 @@
 	<entry name="Wildlife/RitualizedCeremoniesFlavor" value="<string name='Upgrades/SistersOfBattle/RitualizedCeremoniesFlavor'/>"/>
 
 	<entry name="Wildlife/FragGrenade" value="<string name='Weapons/FragGrenade'/>"/>
-	<entry name="Wildlife/FragGrenadeDescription" value="<string name='Upgrades/SpaceMarines/FragGrenadeDescription'/>"/>
+	<entry name="Wildlife/FragGrenadeDescription" value="Grants <string name='Units/Neutral/VespidStingwing'/> the ability tp throw anti-infantry grenades."/>
 	<entry name="Wildlife/FragGrenadeFlavor" value="<string name='Weapons/FragGrenadeFlavor'/>"/>
 
 	<entry name="Wildlife/HeavyAcid" value="<string name='Traits/Wildlife/HeavyAcid'/>"/>
-	<entry name="Wildlife/HeavyAcidDescription" value="Grants <string name='Units/Wildlife/Psychneuein'/>s increased damage."/>
+	<entry name="Wildlife/HeavyAcidDescription" value="Grants <string name='Units/Neutral/Psychneuein'/>s increased damage."/>
 	<entry name="Wildlife/HeavyAcidFlavor" value="<string name='Traits/Wildlife/HeavyAcidFlavor'/>"/>
 
 	<entry name="Wildlife/PoxwalkerArmour" value="<string name='Traits/Wildlife/PoxwalkerArmour'/>"/>
-	<entry name="Wildlife/PoxwalkerArmourDescription" value="Grants <string name='Units/Wildlife/Poxwalker'/>s increased armour."/>
+	<entry name="Wildlife/PoxwalkerArmourDescription" value="Grants <string name='Units/Neutral/Poxwalker'/>s increased armour."/>
 	<entry name="Wildlife/PoxwalkerArmourFlavor" value="<string name='Traits/Wildlife/PoxwalkerArmourFlavor'/>"/>
 
 	<entry name="Wildlife/PoxwalkerDraculaLeech" value="<string name='Traits/Wildlife/PoxwalkerDraculaLeech'/>"/>
-	<entry name="Wildlife/PoxwalkerDraculaLeechDescription" value="Grants <string name='Units/Wildlife/Poxwalker'/>s increased damage."/>
+	<entry name="Wildlife/PoxwalkerDraculaLeechDescription" value="Grants <string name='Units/Neutral/Poxwalker'/>s increased damage."/>
 	<entry name="Wildlife/PoxwalkerDraculaLeechFlavor" value="<string name='Traits/Wildlife/PoxwalkerArmourFlavor'/>"/>
 
 	<entry name="Wildlife/FlyerBoost" value="<string name='Traits/Wildlife/FlyerBoost'/>"/>
-	<entry name="Wildlife/FlyerBoostDescription" value="Grants <string name='Units/Wildlife/Enslaver'/>, <string name='Units/Wildlife/Umbra'/>s increased movement speeds."/>
+	<entry name="Wildlife/FlyerBoostDescription" value="Grants <string name='Units/Neutral/Enslaver'/>, <string name='Units/Neutral/Umbra'/>s increased movement speeds."/>
 	<entry name="Wildlife/FlyerBoostFlavor" value="<string name='Traits/Wildlife/FlyerBoostFlavor'/>"/>
 
 	<entry name="Wildlife/RabidRage" value="<string name='Traits/Wildlife/RabidRage'/>"/>
-	<entry name="Wildlife/RabidRageDescription" value="Grants <string name='Units/Wildlife/KrootHound'/> increased damage and armour."/>
+	<entry name="Wildlife/RabidRageDescription" value="Grants <string name='Units/Neutral/KrootHound'/> increased damage and armour."/>
 	<entry name="Wildlife/RabidRageFlavor" value="<string name='Traits/Wildlife/RabidRageFlavor'/>"/>
 
 	<!-- City Expansion -->
@@ -112,58 +108,50 @@
 
 	<!-- Units -->
 
-	<entry name="Wildlife/VespidStingwing" value="<string name='Units/Wildlife/VespidStingwing'/>"/>
-	<entry name="Wildlife/VespidStingwingDescription" value="<string name='Units/Wildlife/VespidStingwingDescription'/>"/>
-	<entry name="Wildlife/VespidStingwingFlavor" value="<string name='Units/Wildlife/VespidStingwingFlavor'/>"/>
+	<entry name="Wildlife/VespidStingwing" value="<string name='Units/Neutral/VespidStingwing'/>"/>
+	<entry name="Wildlife/VespidStingwingDescription" value="<string name='Units/Neutral/VespidStingwingDescription'/>"/>
+	<entry name="Wildlife/VespidStingwingFlavor" value="<string name='Units/Neutral/VespidStingwingFlavor'/>"/>
 
-	<entry name="Wildlife/Poxwalker" value="<string name='Units/Wildlife/Poxwalker'/>"/>
-	<entry name="Wildlife/PoxwalkerDescription" value="<string name='Units/Wildlife/PoxwalkerDescription'/>"/>
-	<entry name="Wildlife/PoxwalkerFlavor" value="<string name='Units/Wildlife/PoxwalkerFlavor'/>"/>
+	<entry name="Wildlife/Poxwalker" value="<string name='Units/Neutral/Poxwalker'/>"/>
+	<entry name="Wildlife/PoxwalkerDescription" value="<string name='Units/Neutral/PoxwalkerDescription'/>"/>
+	<entry name="Wildlife/PoxwalkerFlavor" value="<string name='Units/Neutral/PoxwalkerFlavor'/>"/>
 
-	<entry name="Wildlife/NeophyteHybrid" value="<string name='Units/Wildlife/NeophyteHybrid'/>"/>
-	<entry name="Wildlife/NeophyteHybridDescription" value="<string name='Units/Wildlife/NeophyteHybridDescription'/>"/>
-	<entry name="Wildlife/NeophyteHybridFlavor" value="<string name='Units/Wildlife/NeophyteHybridFlavor'/>"/>
+	<entry name="Wildlife/NeophyteHybrid" value="<string name='Units/Neutral/NeophyteHybrid'/>"/>
+	<entry name="Wildlife/NeophyteHybridDescription" value="<string name='Units/Neutral/NeophyteHybridDescription'/>"/>
+	<entry name="Wildlife/NeophyteHybridFlavor" value="<string name='Units/Neutral/NeophyteHybridFlavor'/>"/>
 
-	<entry name="Wildlife/ChaosCultist" value="<string name='Units/Wildlife/ChaosCultist'/>"/>
-	<entry name="Wildlife/ChaosCultistDescription" value="<string name='Units/Wildlife/ChaosCultistDescription'/>"/>
-	<entry name="Wildlife/ChaosCultistFlavor" value="<string name='Units/Wildlife/ChaosCultistFlavor'/>"/>
+	<entry name="Wildlife/ChaosCultist" value="<string name='Units/ChaosSpaceMarines/ChaosCultist'/>"/>
+	<entry name="Wildlife/ChaosCultistDescription" value="<string name='Units/ChaosSpaceMarines/ChaosCultistDescription'/>"/>
+	<entry name="Wildlife/ChaosCultistFlavor" value="<string name='Units/ChaosSpaceMarines/ChaosCultistFlavor'/>"/>
 
-	<entry name="Wildlife/LordOfSkulls" value="<string name='Units/Wildlife/LordOfSkulls'/>"/>
-	<entry name="Wildlife/LordOfSkullsDescription" value="<string name='Units/Wildlife/LordOfSkullsDescription'/>"/>
-	<entry name="Wildlife/LordOfSkullsFlavor" value="<string name='Units/Wildlife/LordOfSkullsFlavor'/>"/>
+	<entry name="Wildlife/LordOfSkulls" value="<string name='Units/Neutral/LordOfSkulls'/>"/>
+	<entry name="Wildlife/LordOfSkullsDescription" value="<string name='Units/Neutral/LordOfSkullsDescription'/>"/>
+	<entry name="Wildlife/LordOfSkullsFlavor" value="<string name='Units/Neutral/LordOfSkullsFlavor'/>"/>
 
-	<entry name="Wildlife/CatachanDevil" value="<string name='Units/Wildlife/CatachanDevil'/>"/>
-	<entry name="Wildlife/CatachanDevilDescription" value="<string name='Units/Wildlife/CatachanDevilDescription'/>"/>
-	<entry name="Wildlife/CatachanDevilFlavor" value="<string name='Units/Wildlife/CatachanDevilFlavor'/>"/>
+	<entry name="Wildlife/CatachanDevil" value="<string name='Traits/Wildlife/CatachanDevilQueen'/>"/>
+	<entry name="Wildlife/CatachanDevilDescription" value="<string name='Units/Neutral/CatachanDevilDescription'/>"/>
+	<entry name="Wildlife/CatachanDevilFlavor" value="<string name='Units/Neutral/CatachanDevilFlavor'/>"/>
 
-	<entry name="Wildlife/KastelanRobot" value="<string name='Units/Wildlife/KastelanRobot'/>"/>
-	<entry name="Wildlife/KastelanRobotDescription" value="<string name='Units/Wildlife/KastelanRobotDescription'/>"/>
-	<entry name="Wildlife/KastelanRobotFlavor" value="<string name='Units/Wildlife/KastelanRobotFlavor'/>"/>
+	<entry name="Wildlife/KastelanRobot" value="<string name='Units/Neutral/KastelanRobot'/>"/>
+	<entry name="Wildlife/KastelanRobotDescription" value="<string name='Units/Neutral/KastelanRobotDescription'/>"/>
+	<entry name="Wildlife/KastelanRobotFlavor" value="<string name='Units/Neutral/KastelanRobotFlavor'/>"/>
 
-	<entry name="Wildlife/Enslaver" value="<string name='Units/Wildlife/Enslaver'/>"/>
-	<entry name="Wildlife/EnslaverDescription" value="<string name='Units/Wildlife/EnslaverDescription'/>"/>
-	<entry name="Wildlife/EnslaverFlavor" value="<string name='Units/Wildlife/EnslaverFlavor'/>"/>
+	<entry name="Wildlife/Enslaver" value="<string name='Units/Neutral/Enslaver'/>"/>
+	<entry name="Wildlife/EnslaverDescription" value="<string name='Units/Neutral/EnslaverDescription'/>"/>
+	<entry name="Wildlife/EnslaverFlavor" value="<string name='Units/Neutral/EnslaverFlavor'/>"/>
 
-	<entry name="Wildlife/Umbra" value="<string name='Units/Wildlife/Umbra'/>"/>
-	<entry name="Wildlife/UmbraDescription" value="<string name='Units/Wildlife/UmbraDescription'/>"/>
-	<entry name="Wildlife/UmbraFlavor" value="<string name='Units/Wildlife/UmbraFlavor'/>"/>
+	<entry name="Wildlife/Umbra" value="<string name='Traits/Wildlife/UmbraWarpFiend'/>"/>
+	<entry name="Wildlife/UmbraDescription" value="<string name='Units/Neutral/UmbraDescription'/>"/>
+	<entry name="Wildlife/UmbraFlavor" value="<string name='Units/Neutral/UmbraFlavor'/>"/>
 
-	<entry name="Wildlife/TechpriestBetrayer" value="<string name='Units/Wildlife/TechpriestBetrayer'/>"/>
+	<entry name="Wildlife/TechpriestBetrayer" value="<string name='Units/Neutral/TechpriestBetrayer'/>"/>
 
 	<!-- Weapon unlocks -->
 
-	<entry name="Wildlife/LordOfSkullsGorestormCannon" value="<string name='Weapons/GorestormCannon'/>"/>
-	<entry name="Wildlife/LordOfSkullsGorestormCannonDescription" value="<string name='Weapons/GorestormCannonFlavor'/>"/>
-	<entry name="Wildlife/LordOfSkullsGorestormCannonFlavor" value="<string name='Weapons/GorestormCannonFlavor'/>"/>
-
-	<entry name="Wildlife/LordOfSkullsHadesGatlingCannon" value="<string name='Weapons/HadesGatlingCannon'/>"/>
-	<entry name="Wildlife/LordOfSkullsHadesGatlingCannonDescription" value="<string name='Weapons/HadesGatlingCannonFlavor'/>"/>
-	<entry name="Wildlife/LordOfSkullsHadesGatlingCannonFlavor" value="<string name='Weapons/HadesGatlingCannonFlavor'/>"/>
-
 	<!-- Catachan Devil Lair & Teleport -->
 
-	<entry name="Wildlife/CatachanDevilLair" value="<string name='Units/Wildlife/CatachanDevilLair'/>"/>
-	<entry name="Wildlife/CatachanDevilLairDescription" value="Grants deployment of <string name='Units/Wildlife/CatachanDevilLair'/> and adds <string name='Units/Wildlife/CatachanDevil'/> the ability to teleport to <string name='Units/Wildlife/CatachanDevilLair'/>."/>
+	<entry name="Wildlife/CatachanDevilLair" value="<string name='Units/Neutral/CatachanDevilLair'/>"/>
+	<entry name="Wildlife/CatachanDevilLairDescription" value="Grants deployment of <string name='Units/Neutral/CatachanDevilLair'/> and adds <string name='Units/Neutral/CatachanDevil'/> the ability to teleport to <string name='Units/Neutral/CatachanDevilLair'/>."/>
 	<entry name="Wildlife/CatachanDevilLairFlavor" value="<string name='Actions/Necrons/DimensionalCorridorFlavor'/>"/>
 
 	<entry name="Wildlife/CatachanDevilLair2" value="Catachan Travel Cost"/>
