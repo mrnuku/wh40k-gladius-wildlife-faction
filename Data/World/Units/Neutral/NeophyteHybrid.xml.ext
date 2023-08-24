@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <unit>
 	<weapons>
-		<weapon name="Wildlife/Snazzgun" requiredUpgrade="Wildlife/ExtraInfantryArmour">
+		<weapon name="Wildlife/Snazzgun" requiredUpgrade="Wildlife/NeophyteHybrid">
 			<model>
 				<projectileWeapon mesh="Weapons/Neutral/Autogun"
 						material="Units/Neutral/NeophyteHybrid"

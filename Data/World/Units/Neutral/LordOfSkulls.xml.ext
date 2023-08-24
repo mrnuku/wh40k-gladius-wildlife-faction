@@ -22,6 +22,6 @@
 		</modifier>
 	</strategyModifiers>
 	<actions>
-		<shop/>
+		<shop requiredUpgrade="Wildlife/LordOfSkulls"/>
 	</actions>
 </unit>
