@@ -52,5 +52,8 @@
 	<entry name="Wildlife/CatachanDevilQueen" value="<string name='Units/Neutral/CatachanDevil'/> Queen"/>
 	<entry name="Wildlife/CatachanDevilQueenDescription" value="Wildlife nobility"/>
 	<entry name="Wildlife/CatachanDevilQueenFlavor" value="<string name='Units/Neutral/CatachanDevilFlavor'/>"/>
+	<entry name="Wildlife/UmbraWarpFiend" value="<string name='Units/Neutral/Umbra'/> Warp Fiend"/>
+	<entry name="Wildlife/UmbraWarpFiendDescription" value="Wildlife elite unit"/>
+	<entry name="Wildlife/UmbraWarpFiendFlavor" value="<string name='Units/Neutral/UmbraFlavor'/>"/>
 
 </language>

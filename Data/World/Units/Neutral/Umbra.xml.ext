@@ -20,6 +20,7 @@
 	</strategyModifiers>
 	<traits>
 		<trait name="EavyArmour" requiredUpgrade="Wildlife/ExtraAircraftArmour"/>
+		<trait name="Wildlife/UmbraWarpFiend" requiredUpgrade="Wildlife/Umbra"/>
 		<trait name="Wildlife/FlyerBoost" requiredUpgrade="Wildlife/FlyerBoost"/>
 	</traits>
 </unit>
