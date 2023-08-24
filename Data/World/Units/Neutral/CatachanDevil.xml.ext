@@ -48,6 +48,7 @@
 	</actions>
 	<traits>
 		<trait name="ExtraVehicleArmour" requiredUpgrade="Wildlife/ExtraVehicleArmour"/>
-		<trait name="Transport"/>
+		<trait name="Transport" requiredUpgrade="Wildlife/CatachanDevil"/>
+		<trait name="Wildlife/CatachanDevilQueen" requiredUpgrade="Wildlife/CatachanDevil"/>
 	</traits>
 </unit>

@@ -49,5 +49,8 @@
 	<entry name="Wildlife/RabidRage" value="Rabid Rage"/>
 	<entry name="Wildlife/RabidRageDescription" value="Mutated dog virus"/>
 	<entry name="Wildlife/RabidRageFlavor" value="A virus what infects dogs what makes them extremely aggressive and reduces their sense of pain."/>
+	<entry name="Wildlife/CatachanDevilQueen" value="<string name='Units/Neutral/CatachanDevil'/> Queen"/>
+	<entry name="Wildlife/CatachanDevilQueenDescription" value="Wildlife nobility"/>
+	<entry name="Wildlife/CatachanDevilQueenFlavor" value="<string name='Units/Neutral/CatachanDevilFlavor'/>"/>
 
 </language>
