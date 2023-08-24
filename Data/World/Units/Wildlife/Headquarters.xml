@@ -59,6 +59,59 @@
 			</model>
 		</die>
 		<setRallyPoint/>
+		<mindControl passive="1">
+			<beginTargets>
+				<selfTarget>
+					<areas>
+						<area affects="Tile" radius="1" excludeRadius="0">
+							<modifiers>
+								<modifier>
+									<effects>
+										<addTrait name="MindControl"/>
+									</effects>
+								</modifier>
+							</modifiers>
+						</area>
+					</areas>
+				</selfTarget>
+			</beginTargets>
+		</mindControl>
+		<enslavement cooldown="3">
+			<model>
+				<action animation="Units/Neutral/EnslaverAttack"
+						sound="Actions/PsychicDebuff"/>
+			</model>
+			<modifiers>
+				<modifier visible="0">
+					<effects>
+						<influenceCost base="20"/>
+					</effects>
+				</modifier>
+			</modifiers>
+			<beginTargets>
+				<target rangeMax="1">
+					<conditions>
+						<unit>
+							<enemy/>
+							<morale less="6.5"/>
+							<moraleMax greater="0.0"/>
+							<noTrait name="Headquarters"/>
+						</unit>
+					</conditions>
+					<areas>
+						<area affects="Unit">
+							<modifiers>
+								<modifier>
+									<effects>
+										<addTrait name="Enslaved" removeOnSourceDeath="1"/>
+									</effects>
+								</modifier>
+							</modifiers>
+						</area>
+					</areas>
+				</target>
+			</beginTargets>
+		</enslavement>
 	</actions>
 	<traits>
 		<trait name="AndTheyShallKnowNoFear"/>
