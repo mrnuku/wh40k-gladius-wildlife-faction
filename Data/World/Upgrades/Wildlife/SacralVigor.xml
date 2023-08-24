@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<upgrade position="4" icon="Actions/SistersOfBattle/SacralVigor">
+	<requiredUpgrades>
+		<upgrade name="Wildlife/CatachanDevil"/>
+		<upgrade name="Wildlife/FlyerBoost"/>
+		<upgrade name="Wildlife/HeavyAcid"/>
+		<upgrade name="Wildlife/PoxwalkerArmour"/>
+		<upgrade name="Wildlife/PoxwalkerDraculaLeech"/>
+		<upgrade name="Wildlife/RabidRage"/>
+		<upgrade name="Wildlife/Umbra"/>
+	</requiredUpgrades>
+</upgrade>

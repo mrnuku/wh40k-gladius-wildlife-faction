@@ -65,6 +65,14 @@
 	<entry name="Wildlife/BoltDamageDescription" value="<string name='Upgrades/AstraMilitarum/BoltDamageDescription'/>"/>
 	<entry name="Wildlife/BoltDamageFlavor" value="<string name='Traits/SpaceMarines/BoltDamageFlavor'/>"/>
 
+	<entry name="Wildlife/SacralVigor" value="<string name='Upgrades/SistersOfBattle/SacralVigor'/>"/>
+	<entry name="Wildlife/SacralVigorDescription" value="<string name='Upgrades/SistersOfBattle/SacralVigorDescription'/>"/>
+	<entry name="Wildlife/SacralVigorFlavor" value="<string name='Upgrades/SistersOfBattle/SacralVigorFlavor'/>"/>
+
+	<entry name="Wildlife/RitualizedCeremonies" value="<string name='Upgrades/SistersOfBattle/RitualizedCeremonies'/>"/>
+	<entry name="Wildlife/RitualizedCeremoniesDescription" value="<string name='Upgrades/SistersOfBattle/RitualizedCeremoniesDescription'/>"/>
+	<entry name="Wildlife/RitualizedCeremoniesFlavor" value="<string name='Upgrades/SistersOfBattle/RitualizedCeremoniesFlavor'/>"/>
+
 	<entry name="Wildlife/FragGrenade" value="<string name='Weapons/FragGrenade'/>"/>
 	<entry name="Wildlife/FragGrenadeDescription" value="<string name='Upgrades/SpaceMarines/FragGrenadeDescription'/>"/>
 	<entry name="Wildlife/FragGrenadeFlavor" value="<string name='Weapons/FragGrenadeFlavor'/>"/>

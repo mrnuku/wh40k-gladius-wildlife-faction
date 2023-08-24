@@ -370,6 +370,70 @@
 				</target>
 			</beginTargets>
 		</deployFortress>
+		<tactic cooldown="1"
+				durationInSeconds="0.1"
+				interfaceSound="Interface/SacralVigor"
+				icon="Actions/SistersOfBattle/SacralVigor"
+				name="SistersOfBattle/SacralVigor"
+				requiredUpgrade="Wildlife/SacralVigor">
+			<modifiers>
+				<modifier visible="0">
+					<effects>
+						<influenceCost base="10"/>
+					</effects>
+				</modifier>
+				<modifier requiredUpgrade="Wildlife/RitualizedCeremonies">
+					<effects>
+						<influenceCost mul="-0.33"/>
+					</effects>
+				</modifier>
+			</modifiers>
+			<conditions>
+				<player match="Any">
+					<upgrade name="SistersOfBattle/AdditionalSacredRite"/>
+					<noTrait name="SistersOfBattle/UsedSacredRite"/>
+				</player>
+				<player match="Any">
+					<noTrait name="SistersOfBattle/UsedSacredRite"/>
+					<noTrait name="SistersOfBattle/UsedSacredRite2"/>
+				</player>
+			</conditions>
+			<unitModifiers endure="0">
+				<modifier>
+					<conditions>
+						<unit match="Any">
+							<trait name="Wildlife/CatachanDevilQueen"/>
+							<trait name="Wildlife/FlyerBoost"/>
+							<trait name="Wildlife/HeavyAcid"/>
+							<trait name="Wildlife/PoxwalkerArmour"/>
+							<trait name="Wildlife/PoxwalkerDraculaLeech"/>
+							<trait name="Wildlife/RabidRage"/>
+							<trait name="Wildlife/UmbraWarpFiend"/>
+						</unit>
+					</conditions>
+					<effects>
+						<hitpoints add="2"/>
+					</effects>
+				</modifier>
+			</unitModifiers>
+			<playerModifiers>
+				<modifier>
+					<conditions>
+						<player>
+							<trait name="SistersOfBattle/UsedSacredRite"/>
+						</player>
+					</conditions>
+					<effects>
+						<addTrait duration="1" name="SistersOfBattle/UsedSacredRite2"/>
+					</effects>
+				</modifier>
+				<modifier>
+					<effects>
+						<addTrait duration="1" name="SistersOfBattle/UsedSacredRite"/>
+					</effects>
+				</modifier>
+			</playerModifiers>
+		</tactic>
 		<tactic cooldown="10"
 				durationInSeconds="0.1"
 				interfaceSound="Interface/Tactic"
