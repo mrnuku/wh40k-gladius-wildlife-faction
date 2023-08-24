@@ -308,6 +308,37 @@
 		</quest>
 	</quests>
 	<actions>
+		<convertWildlife cooldown="5"
+				name="Tau/ConvertWildlife">
+			<model>
+				<action sound="Actions/ConvertWildlife"/>
+			</model>
+			<beginTargets>
+				<target rangeMax="-1">
+					<conditions>
+						<unit>
+							<enemy/>
+							<noTrait name="Enslaved"/>
+						</unit>
+						<unit match="Any">
+							<type name="Neutral/KrootHound"/>
+							<type name="Neutral/VespidStingwing"/>
+						</unit>
+					</conditions>
+					<areas>
+						<area affects="Unit">
+							<modifiers>
+								<modifier>
+									<effects>
+										<changePlayer/>
+									</effects>
+								</modifier>
+							</modifiers>
+						</area>
+					</areas>
+				</target>
+			</beginTargets>
+		</convertWildlife>
 		<deployFortress cooldown="10"
 				cooldownScalesWithPace="1"
 				icon="Units/Neutral/CatachanDevilLair"
