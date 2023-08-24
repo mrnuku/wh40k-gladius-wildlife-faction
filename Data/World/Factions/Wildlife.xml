@@ -16,7 +16,7 @@
 		startingEnergy="25"
 		startingFood="25"
 		startingInfluence="25"
-		startingOre="25"
+		startingOre="50"
 		startingRequisitions="0"
 		icon="Factions/Neutral">
 	<music>
