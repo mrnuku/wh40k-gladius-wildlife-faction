@@ -78,8 +78,7 @@
 		</mindControl>
 		<enslavement cooldown="3">
 			<model>
-				<action animation="Units/Neutral/EnslaverAttack"
-						sound="Actions/PsychicDebuff"/>
+				<action sound="Actions/PsychicDebuff"/>
 			</model>
 			<modifiers>
 				<modifier visible="0">
@@ -112,6 +111,34 @@
 				</target>
 			</beginTargets>
 		</enslavement>
+		<narthecium cooldown="1">
+			<model>
+				<action sound="Actions/Heal"/>
+			</model>
+			<beginTargets>
+				<target rangeMax="1">
+					<conditions>
+						<unit>
+							<allied/>
+							<damaged/>
+							<noTrait name="Fortification"/>
+							<noTrait name="Vehicle"/>
+						</unit>
+					</conditions>
+					<areas>
+						<area affects="Unit">
+							<modifiers>
+								<modifier>
+									<effects>
+										<hitpoints add="8"/>
+									</effects>
+								</modifier>
+							</modifiers>
+						</area>
+					</areas>
+				</target>
+			</beginTargets>
+		</narthecium>
 	</actions>
 	<traits>
 		<trait name="AndTheyShallKnowNoFear"/>
