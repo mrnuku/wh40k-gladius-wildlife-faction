@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<trait category="Debuff" alwaysVisible="1" icon="Traits/PsychneueinInfestation">
+	<modifiers>
+		<modifier>
+			<effects>
+				<foodUpkeep add="15"/>
+				<oreUpkeep add="5"/>
+			</effects>
+		</modifier>
+	</modifiers>
+</trait>
