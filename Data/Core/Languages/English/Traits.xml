@@ -34,5 +34,8 @@
 	<entry name="Wildlife/PsychneueinCostPenalty" value="<string name='Units/Neutral/Psychneuein'/> Cost Penalty"/>
 	<entry name="Wildlife/PsychneueinCostPenaltyDescription" value="Cost penalty debuff"/>
 	<entry name="Wildlife/PsychneueinCostPenaltyFlavor" value="<string name='Units/Neutral/PsychneueinFlavor'/>"/>
+	<entry name="Wildlife/EnslaverCostPenalty" value="<string name='Units/Neutral/Enslaver'/> Cost Penalty"/>
+	<entry name="Wildlife/EnslaverCostPenaltyDescription" value="Cost penalty debuff"/>
+	<entry name="Wildlife/EnslaverCostPenaltyFlavor" value="<string name='Units/Neutral/EnslaverFlavor'/>"/>
 
 </language>
