@@ -23,4 +23,7 @@
 			</effects>
 		</modifier>
 	</strategyModifiers>
+	<traits>
+		<trait name="AdeptusMechanicus/OptateRestrictions" requiredUpgrade="Wildlife/OptateRestrictions"/>
+	</traits>
 </building>

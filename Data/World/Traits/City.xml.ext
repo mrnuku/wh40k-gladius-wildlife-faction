@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<trait>
+	<modifiers>
+		<modifier requiredUpgrade="Wildlife/CityDefenseBonus">
+			<conditions>
+				<unit>
+					<allied/>
+				</unit>
+			</conditions>
+			<effects>
+				<cityDamageReduction add="0.08"/>
+			</effects>
+		</modifier>
+	</modifiers>
+</trait>

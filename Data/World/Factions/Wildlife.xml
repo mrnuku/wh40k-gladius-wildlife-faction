@@ -460,4 +460,7 @@
 		<unit type="Neutral/Enslaver" count="1"/>
 		<unit type="AdeptusMechanicus/CyberneticaDatasmith" count="1"/>
 	</startingUnits>
+	<traits>
+		<trait name="AdeptusMechanicus/StygianEnlightenment" requiredUpgrade="Wildlife/StygianEnlightenment"/>
+	</traits>
 </faction>

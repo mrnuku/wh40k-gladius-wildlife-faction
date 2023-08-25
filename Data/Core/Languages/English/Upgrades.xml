@@ -35,6 +35,22 @@
 	<entry name="Wildlife/OrkoidFungusFoodDescription" value="<string name='Upgrades/Orks/OrkoidFungusFoodDescription'/>"/>
 	<entry name="Wildlife/OrkoidFungusFoodFlavor" value="<string name='Upgrades/Orks/OrkoidFungusFoodFlavor'/>"/>
 
+	<entry name="Wildlife/ReclaimatorProtocols" value="<string name='Upgrades/AdeptusMechanicus/ReclaimatorProtocols'/>"/>
+	<entry name="Wildlife/ReclaimatorProtocolsDescription" value="<string name='Upgrades/AdeptusMechanicus/ReclaimatorProtocolsDescription'/>"/>
+	<entry name="Wildlife/ReclaimatorProtocolsFlavor" value="<string name='Upgrades/AdeptusMechanicus/ReclaimatorProtocolsFlavor'/>"/>
+
+	<entry name="Wildlife/StygianEnlightenment" value="<string name='Upgrades/AdeptusMechanicus/StygianEnlightenment'/>"/>
+	<entry name="Wildlife/StygianEnlightenmentDescription" value="<string name='Upgrades/AdeptusMechanicus/StygianEnlightenmentDescription'/>"/>
+	<entry name="Wildlife/StygianEnlightenmentFlavor" value="<string name='Upgrades/AdeptusMechanicus/StygianEnlightenmentFlavor'/>"/>
+
+	<entry name="Wildlife/OptateRestrictions" value="<string name='Upgrades/AdeptusMechanicus/OptateRestrictions'/>"/>
+	<entry name="Wildlife/OptateRestrictionsDescription" value="<string name='Upgrades/AdeptusMechanicus/OptateRestrictionsDescription'/>"/>
+	<entry name="Wildlife/OptateRestrictionsFlavor" value="<string name='Upgrades/AdeptusMechanicus/OptateRestrictionsFlavor'/>"/>
+
+	<entry name="Wildlife/CityDefenseBonus" value="<string name='Upgrades/Necrons/CityDefenseBonus'/>"/>
+	<entry name="Wildlife/CityDefenseBonusDescription" value="<string name='Upgrades/Necrons/CityDefenseBonusDescription'/>"/>
+	<entry name="Wildlife/CityDefenseBonusFlavor" value="<string name='Upgrades/Necrons/CityDefenseBonusFlavor'/>"/>
+
 	<!-- Unit upgrades -->
 
 	<entry name="Wildlife/ExtraInfantryArmour" value="<string name='Traits/ExtraInfantryArmour'/>"/>

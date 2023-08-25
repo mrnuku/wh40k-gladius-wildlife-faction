@@ -27,5 +27,6 @@
 		<trait name="Wildlife/CityTier3" requiredUpgrade="Wildlife/CityTier3"/>
 		<trait name="Wildlife/CityTier4" requiredUpgrade="Wildlife/CityTier4"/>
 		<trait name="Headquarters"/>
+		<trait name="AdeptusMechanicus/ReclaimatorProtocols" requiredUpgrade="Wildlife/ReclaimatorProtocols"/>
 	</traits>
 </building>

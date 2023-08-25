@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<upgrade position="4" icon="Actions/SistersOfBattle/SacralVigor">
+<upgrade position="6" icon="Actions/SistersOfBattle/SacralVigor">
 	<requiredUpgrades>
 		<upgrade name="Wildlife/CatachanDevil"/>
 		<upgrade name="Wildlife/FlyerBoost"/>
