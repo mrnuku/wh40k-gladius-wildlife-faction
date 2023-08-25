@@ -51,6 +51,10 @@
 	<entry name="Wildlife/CityDefenseBonusDescription" value="<string name='Upgrades/Necrons/CityDefenseBonusDescription'/>"/>
 	<entry name="Wildlife/CityDefenseBonusFlavor" value="<string name='Upgrades/Necrons/CityDefenseBonusFlavor'/>"/>
 
+	<entry name="Wildlife/ChapterUnity" value="<string name='Upgrades/SpaceMarines/ChapterUnity'/>"/>
+	<entry name="Wildlife/ChapterUnityDescription" value="<string name='Upgrades/SpaceMarines/ChapterUnityDescription'/>"/>
+	<entry name="Wildlife/ChapterUnityFlavor" value="<string name='Upgrades/SpaceMarines/ChapterUnityFlavor'/>"/>
+
 	<!-- Unit upgrades -->
 
 	<entry name="Wildlife/ExtraInfantryArmour" value="<string name='Traits/ExtraInfantryArmour'/>"/>
