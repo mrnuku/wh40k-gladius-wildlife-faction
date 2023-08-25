@@ -24,4 +24,7 @@
 	<actions>
 		<shop requiredUpgrade="Wildlife/LordOfSkulls"/>
 	</actions>
+	<traits>
+		<trait name="Wildlife/LordOfSkullsCost" requiredUpgrade="Wildlife/LordOfSkulls"/>
+	</traits>
 </unit>

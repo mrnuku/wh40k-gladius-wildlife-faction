@@ -3,9 +3,11 @@
 	<entry name="Wildlife/CityTier2" value="Fortress Expansion"/>
 	<entry name="Wildlife/CityTier2Description" value="Increases the tile acquisition radius."/>
 	<entry name="Wildlife/CityTier2Flavor" value="The second stage of the Fortress' construction has started. With the core facilities established, the Techmarines are authorised to expand their operations and create a second defensive line."/>
+	
 	<entry name="Wildlife/CityTier3" value="Advanced Redoubts"/>
 	<entry name="Wildlife/CityTier3Description" value="<string name='Traits/Wildlife/CityTier2Description'/>"/>
 	<entry name="Wildlife/CityTier3Flavor" value="The third stage of the Fortress construction involves the creation of independent garrisons and buttresses along an additional line of city walls. In the shadow of those cyclopean barriers, Servitors and serfs spend their lives, scurrying from one task to another."/>
+
 	<entry name="Wildlife/CityTier4" value="Fortress Supreme"/>
 	<entry name="Wildlife/CityTier4Description" value="<string name='Traits/Wildlife/CityTier2Description'/>"/>
 	<entry name="Wildlife/CityTier4Flavor" value="With this expansion, the Master Artificer declares the fortress complete. Now it rivals in scale a Hive City. Inside its impregnable walls, you could be anywhere in the Imperium. Outside, the local tribes come from enormous distances to pay tribute, whilst their finest warriors hope to be accepted for the lethal trials that might lead to their being modified into a Space Marine."/>
@@ -13,29 +15,41 @@
 	<entry name="Wildlife/HeavyAcid" value="Heavy Acid"/>
 	<entry name="Wildlife/HeavyAcidDescription" value="Very corrosive and deadly acid"/>
 	<entry name="Wildlife/HeavyAcidFlavor" value="Selective breading of creatures whose blessed with acid production will lead to more effective acidicus massdestructus."/>
+
 	<entry name="Wildlife/PoxwalkerArmour" value="<string name='Units/Neutral/Poxwalker'/> Armour"/>
 	<entry name="Wildlife/PoxwalkerArmourDescription" value="Heavy Armour"/>
 	<entry name="Wildlife/PoxwalkerArmourFlavor" value="A heavy armour upgrade for your favourite life leaching infantry unit."/>
+
 	<entry name="Wildlife/PoxwalkerDraculaLeech" value="<string name='Units/Neutral/Poxwalker'/> Dracula Leech"/>
 	<entry name="Wildlife/PoxwalkerDraculaLeechDescription" value="Vampiric lifeleech upgrade"/>
 	<entry name="Wildlife/PoxwalkerDraculaLeechFlavor" value="Leeches every remaining lifeforce out of any target very quickly."/>
+
 	<entry name="Wildlife/FlyerBoost" value="Flyer Boost"/>
 	<entry name="Wildlife/FlyerBoostDescription" value="Extra movement for flyers"/>
 	<entry name="Wildlife/FlyerBoostFlavor" value="Gene boost for certain creatures yields more movement."/>
+
 	<entry name="Wildlife/RabidRage" value="Rabid Rage"/>
 	<entry name="Wildlife/RabidRageDescription" value="Mutated dog virus"/>
 	<entry name="Wildlife/RabidRageFlavor" value="A virus what infects dogs what makes them extremely aggressive and reduces their sense of pain."/>
+
 	<entry name="Wildlife/CatachanDevilQueen" value="<string name='Units/Neutral/CatachanDevil'/> Queen"/>
 	<entry name="Wildlife/CatachanDevilQueenDescription" value="Wildlife nobility"/>
 	<entry name="Wildlife/CatachanDevilQueenFlavor" value="<string name='Units/Neutral/CatachanDevilFlavor'/>"/>
+
 	<entry name="Wildlife/UmbraWarpFiend" value="<string name='Units/Neutral/Umbra'/> Warp Fiend"/>
 	<entry name="Wildlife/UmbraWarpFiendDescription" value="Wildlife elite unit"/>
 	<entry name="Wildlife/UmbraWarpFiendFlavor" value="<string name='Units/Neutral/UmbraFlavor'/>"/>
+
 	<entry name="Wildlife/PsychneueinCostPenalty" value="<string name='Units/Neutral/Psychneuein'/> Cost Penalty"/>
 	<entry name="Wildlife/PsychneueinCostPenaltyDescription" value="Cost penalty debuff"/>
 	<entry name="Wildlife/PsychneueinCostPenaltyFlavor" value="<string name='Units/Neutral/PsychneueinFlavor'/>"/>
+
 	<entry name="Wildlife/EnslaverCostPenalty" value="<string name='Units/Neutral/Enslaver'/> Cost Penalty"/>
 	<entry name="Wildlife/EnslaverCostPenaltyDescription" value="Cost penalty debuff"/>
 	<entry name="Wildlife/EnslaverCostPenaltyFlavor" value="<string name='Units/Neutral/EnslaverFlavor'/>"/>
+
+	<entry name="Wildlife/LordOfSkullsCost" value="<string name='Units/Neutral/LordOfSkulls'/> Cost"/>
+	<entry name="Wildlife/EnslaverCostPenaltyDescription" value="Production cost tweak"/>
+	<entry name="Wildlife/EnslaverCostPenaltyFlavor" value="<string name='Units/Neutral/LordOfSkullsFlavor'/>"/>
 
 </language>
