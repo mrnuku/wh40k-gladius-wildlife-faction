@@ -549,9 +549,6 @@
 		<unit type="Neutral/KrootHound" count="1"/>
 		<unit type="Neutral/Enslaver" count="1"/>
 		<unit type="AdeptusMechanicus/CyberneticaDatasmith" count="1"/>
-		<unit type="Neutral/VespidStingwing" count="1"/>
-		<unit type="Neutral/Ambull" count="1"/>
-		<unit type="Neutral/KastelanRobot" count="1"/>
 	</startingUnits>
 	<traits>
 		<trait name="AdeptusMechanicus/StygianEnlightenment" requiredUpgrade="Wildlife/StygianEnlightenment"/>
