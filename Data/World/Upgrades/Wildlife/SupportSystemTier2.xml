@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<upgrade position="3" icon="Traits/Tau/SupportSystems">
+	<requiredUpgrades>
+		<upgrade name="Wildlife/Vehicles"/>
+		<upgrade name="Wildlife/KastelanRobot"/>
+	</requiredUpgrades>
+</upgrade>

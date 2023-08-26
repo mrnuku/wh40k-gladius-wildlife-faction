@@ -1,3 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <language>
+	<entry name="Wildlife/SSArmourPenetration" value="<string name='Traits/Tau/SupportSystems'/> <string name='Traits/AdeptusMechanicus/AssaultWeaponBonus'/>"/>
+	<entry name="Wildlife/SSArmourPenetrationDescription" value="<string name='Traits/AdeptusMechanicus/AssaultWeaponBonusDescription'/>"/>
+	<entry name="Wildlife/SSArmourPenetrationFlavor" value="<string name='Traits/AdeptusMechanicus/AssaultWeaponBonusFlavor'/>"/>
+
+	<entry name="Wildlife/SSHammerOfWrath" value="<string name='Traits/Tau/SupportSystems'/> <string name='Traits/HammerOfWrath'/>"/>
+	<entry name="Wildlife/SSHammerOfWrathDescription" value="<string name='Traits/HammerOfWrathDescription'/>"/>
+	<entry name="Wildlife/SSHammerOfWrathFlavor" value="<string name='Traits/HammerOfWrathFlavor'/>"/>
+
+	<entry name="Wildlife/SSShieldGenerator" value="<string name='Traits/Tau/SupportSystems'/> <string name='Traits/Tau/ShieldGenerator'/>"/>
+	<entry name="Wildlife/SSShieldGeneratorDescription" value="<string name='Traits/Tau/ShieldGeneratorDescription'/>"/>
+	<entry name="Wildlife/SSShieldGeneratorFlavor" value="<string name='Traits/Tau/ShieldGeneratorFlavor'/>"/>
 </language>

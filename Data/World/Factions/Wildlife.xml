@@ -454,11 +454,104 @@
 				</modifier>
 			</playerModifiers>
 		</tactic>
+		<installSupportSystem cooldown="1"
+				name="Wildlife/SSArmourPenetration"
+				icon="Traits/WeaponBonus"
+				requiredUpgrade="Wildlife/SSArmourPenetration">
+			<model>
+				<action sound="Actions/InstallSupportSystem"/>
+			</model>
+			<beginTargets>
+				<target rangeMax="-1">
+					<conditions>
+						<unit>
+							<allied/>
+							<supportSystemSlots greater="0"/>
+							<noTrait name="Wildlife/SSArmourPenetration"/>
+						</unit>
+					</conditions>
+					<areas>
+						<area affects="Unit">
+							<modifiers>
+								<modifier>
+									<effects>
+										<addTrait name="Wildlife/SSArmourPenetration"/>
+									</effects>
+								</modifier>
+							</modifiers>
+						</area>
+					</areas>
+				</target>
+			</beginTargets>
+		</installSupportSystem>
+		<installSupportSystem cooldown="1"
+				name="Wildlife/SSHammerOfWrath"
+				icon="Actions/HammerOfWrath"
+				requiredUpgrade="Wildlife/SSHammerOfWrath">
+			<model>
+				<action sound="Actions/InstallSupportSystem"/>
+			</model>
+			<beginTargets>
+				<target rangeMax="-1">
+					<conditions>
+						<unit>
+							<allied/>
+							<supportSystemSlots greater="0"/>
+							<noTrait name="Wildlife/SSHammerOfWrath"/>
+						</unit>
+					</conditions>
+					<areas>
+						<area affects="Unit">
+							<modifiers>
+								<modifier>
+									<effects>
+										<addTrait name="Wildlife/SSHammerOfWrath"/>
+									</effects>
+								</modifier>
+							</modifiers>
+						</area>
+					</areas>
+				</target>
+			</beginTargets>
+		</installSupportSystem>
+		<installSupportSystem cooldown="1"
+				name="Wildlife/SSShieldGenerator"
+				icon="Actions/Tau/ShieldGenerator"
+				requiredUpgrade="Wildlife/SSShieldGenerator">
+			<model>
+				<action sound="Actions/InstallSupportSystem"/>
+			</model>
+			<beginTargets>
+				<target rangeMax="-1">
+					<conditions>
+						<unit>
+							<allied/>
+							<supportSystemSlots greater="0"/>
+							<noTrait name="Wildlife/SSShieldGenerator"/>
+						</unit>
+					</conditions>
+					<areas>
+						<area affects="Unit">
+							<modifiers>
+								<modifier>
+									<effects>
+										<addTrait name="Wildlife/SSShieldGenerator"/>
+									</effects>
+								</modifier>
+							</modifiers>
+						</area>
+					</areas>
+				</target>
+			</beginTargets>
+		</installSupportSystem>
 	</actions>
 	<startingUnits>
 		<unit type="Neutral/KrootHound" count="1"/>
 		<unit type="Neutral/Enslaver" count="1"/>
 		<unit type="AdeptusMechanicus/CyberneticaDatasmith" count="1"/>
+		<unit type="Neutral/VespidStingwing" count="1"/>
+		<unit type="Neutral/Ambull" count="1"/>
+		<unit type="Neutral/KastelanRobot" count="1"/>
 	</startingUnits>
 	<traits>
 		<trait name="AdeptusMechanicus/StygianEnlightenment" requiredUpgrade="Wildlife/StygianEnlightenment"/>

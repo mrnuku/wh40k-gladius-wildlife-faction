@@ -17,5 +17,7 @@
 	</strategyModifiers>
 	<traits>
 		<trait name="ExtraVehicleArmour" requiredUpgrade="Wildlife/ExtraVehicleArmour"/>
+		<trait name="Wildlife/SupportSystemTier1" requiredUpgrade="Wildlife/SupportSystemTier1"/>
+		<trait name="Wildlife/SupportSystemTier2" requiredUpgrade="Wildlife/SupportSystemTier2"/>
 	</traits>
 </unit>

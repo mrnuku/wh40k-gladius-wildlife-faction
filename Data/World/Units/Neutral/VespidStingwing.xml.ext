@@ -33,5 +33,6 @@
 	</actions>
 	<traits>
 		<trait name="EavyArmour" requiredUpgrade="Wildlife/ExtraInfantryArmour"/>
+		<trait name="Wildlife/SupportSystemTier1" requiredUpgrade="Wildlife/SupportSystemTier1"/>
 	</traits>
 </unit>

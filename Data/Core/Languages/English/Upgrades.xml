@@ -113,6 +113,30 @@
 	<entry name="Wildlife/RabidRageDescription" value="Grants <string name='Units/Neutral/KrootHound'/> increased damage and armour."/>
 	<entry name="Wildlife/RabidRageFlavor" value="<string name='Traits/Wildlife/RabidRageFlavor'/>"/>
 
+	<entry name="Wildlife/SupportSystemTier1" value="<string name='Traits/Tau/SupportSystems'/>"/>
+	<entry name="Wildlife/SupportSystemTier1Description" value="<string name='Traits/Tau/SupportSystemsDescription'/>"/>
+	<entry name="Wildlife/SupportSystemTier1Flavor" value="<string name='Traits/Tau/SupportSystemsFlavor'/>"/>
+
+	<entry name="Wildlife/SupportSystemTier2" value="<string name='Traits/Tau/SupportSystems'/>"/>
+	<entry name="Wildlife/SupportSystemTier2Description" value="<string name='Traits/Tau/SupportSystemsDescription'/>"/>
+	<entry name="Wildlife/SupportSystemTier2Flavor" value="<string name='Traits/Tau/SupportSystemsFlavor'/>"/>
+
+	<entry name="Wildlife/SupportSystemTier3" value="<string name='Traits/Tau/SupportSystems'/>"/>
+	<entry name="Wildlife/SupportSystemTier3Description" value="<string name='Traits/Tau/SupportSystemsDescription'/>"/>
+	<entry name="Wildlife/SupportSystemTier3Flavor" value="<string name='Traits/Tau/SupportSystemsFlavor'/>"/>
+
+	<entry name="Wildlife/SSArmourPenetration" value="<string name='Traits/Tau/SupportSystems'/> <string name='Traits/AdeptusMechanicus/AssaultWeaponBonus'/>"/>
+	<entry name="Wildlife/SSArmourPenetrationDescription" value="<string name='Traits/AdeptusMechanicus/AssaultWeaponBonusDescription'/>"/>
+	<entry name="Wildlife/SSArmourPenetrationFlavor" value="<string name='Traits/AdeptusMechanicus/AssaultWeaponBonusFlavor'/>"/>
+
+	<entry name="Wildlife/SSHammerOfWrath" value="<string name='Traits/Tau/SupportSystems'/> <string name='Traits/HammerOfWrath'/>"/>
+	<entry name="Wildlife/SSHammerOfWrathDescription" value="<string name='Traits/HammerOfWrathDescription'/>"/>
+	<entry name="Wildlife/SSHammerOfWrathFlavor" value="<string name='Traits/HammerOfWrathFlavor'/>"/>
+
+	<entry name="Wildlife/SSShieldGenerator" value="<string name='Traits/Tau/SupportSystems'/> <string name='Traits/Tau/ShieldGenerator'/>"/>
+	<entry name="Wildlife/SSShieldGeneratorDescription" value="<string name='Traits/Tau/ShieldGeneratorDescription'/>"/>
+	<entry name="Wildlife/SSShieldGeneratorFlavor" value="<string name='Traits/Tau/ShieldGeneratorFlavor'/>"/>
+
 	<!-- City Expansion -->
 
 	<entry name="Wildlife/CityTier2" value="<string name='Traits/Wildlife/CityTier2'/>"/>
