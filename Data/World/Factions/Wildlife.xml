@@ -316,6 +316,9 @@
 			<beginTargets>
 				<target rangeMax="-1">
 					<conditions>
+						<player>
+							<noFaction name="Wildlife"/>
+						</player>
 						<unit>
 							<enemy/>
 							<noTrait name="Enslaved"/>
