@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <unit>
 	<weapons>
-		<weapon name="FragGrenade" slotName="FragGrenade" enabled="0"
-			requiredUpgrade="Wildlife/FragGrenade">
+		<weapon name="FragGrenade" slotName="FragGrenade" enabled="0">
 			<model>
 				<grenadeWeapon muzzleBone=".Muzzle"/>
 			</model>		
