@@ -6,13 +6,13 @@ V2.0 intruduces a new unit system what offers a better mod compatibility with ex
 
 [list]
  [*][b] Kroot Hunds [/b] received an upgrade: [b] Rabid Rage [/b] [i] Armour: +4 Damage: +25% [/i]
- [*][b] Vespid Stinwings [/b] received 1 system upgrade slot
- [*][b] Neophyte Hybrid [/b] buffed damage [i] RangedDamage: +100% RangedArmorPenetration: +2 Attacks: +2 [/i]
- [*][b] Poxwalker [/b] (dlc required) received 2 upgrades: [b] Poxwalker Armour [/b] [i] Armor: +6 [/i] [b] Poxwalker Dracula Leech [/b] [i] ArmorPenetration: +2 Damage: +15% Attacks: +2 Accuracy: +2 [/i]
+ [*][b] Vespid Stingwings [/b] received 1 system upgrade slot
+ [*][b] Neophyte Hybrid [/b] buffed damage: [i] RangedDamage: +100% RangedArmorPenetration: +2 Attacks: +2 [/i]
+ [*][b] Poxwalker [/b] (dlc required) received 2 upgrades: [b] Poxwalker Armour [/b] [i] Armor: +6 [/i] and [b] Poxwalker Dracula Leech [/b] [i] ArmorPenetration: +2 Damage: +15% Attacks: +2 Accuracy: +2 [/i]
 
- [*][b] Ambuls [/b] received 2 system upgrade slot2
- [*][b] Catachan Devil [/b] buffed damage and health, can carry 2 units, and has a teleport ability to Lairs [i] HitpointsMax: +24 Damage: +100% [/i]
- [*][b] Kastelan Robot [/b] received 3 system upgrade slot2
+ [*][b] Ambuls [/b] received 2 system upgrade slots
+ [*][b] Catachan Devil [/b] buffed damage and health, can carry 2 units, and has a teleport ability to Lairs: [i] HitpointsMax: +24 Damage: +100% [/i]
+ [*][b] Kastelan Robot [/b] received 3 system upgrade slots
 
  [*][b] Cybernetica Datasmith [/b] the default city founder unit
  [*][b] Chaos Cultist [/b] can deploy new cities (2x cost)
@@ -20,8 +20,8 @@ V2.0 intruduces a new unit system what offers a better mod compatibility with ex
  [*][b] Lord of Skulls [/b] production penalty per unit +50% (like Heroes)
 
  [*][b] Psychneuein [/b] received an upgrade: [b] Heavy Acid [/b] [i] ArmorPenetration: +1 Damage: +50% [/i]
- [*][b] Enslaver [/b] received a healing action
- [*][b] Umbra [/b] has buffed damage and movement [i]  Damage: +50% [/i]
+ [*][b] Enslaver [/b] has buffed movement and received a healing action
+ [*][b] Umbra [/b] has buffed damage and movement: [i] Damage: +50% [/i]
 [/list]
 
 [h1] Tactics [/h1]
