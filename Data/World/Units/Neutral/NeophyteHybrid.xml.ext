@@ -1,16 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <unit>
-	<weapons>
-		<weapon name="Snazzgun" requiredUpgrade="Wildlife/NeophyteHybrid">
-			<model>
-				<projectileWeapon mesh="Weapons/Neutral/Autogun"
-						material="Units/Neutral/NeophyteHybrid"
-						bone="Bone099"
-						muzzleBone=".Muzzle"
-						fireInterval="0.1"/>
-			</model>
-		</weapon>
-	</weapons>
 	<modifiers>
 		<modifier>
 			<effects>
@@ -23,5 +12,6 @@
 	</modifiers>
 	<traits>
 		<trait name="EavyArmour" requiredUpgrade="Wildlife/ExtraInfantryArmour"/>
+		<trait name="Wildlife/NeophyteHybrid" requiredUpgrade="Wildlife/NeophyteHybrid"/>
 	</traits>
 </unit>

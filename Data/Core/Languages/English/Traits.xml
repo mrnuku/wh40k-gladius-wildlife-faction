@@ -76,4 +76,8 @@
 	<entry name="Wildlife/SSShieldGeneratorDescription" value="<string name='Traits/Tau/ShieldGeneratorDescription'/>"/>
 	<entry name="Wildlife/SSShieldGeneratorFlavor" value="<string name='Traits/Tau/ShieldGeneratorFlavor'/>"/>
 
+	<entry name="Wildlife/NeophyteHybrid" value="<string name='Units/Neutral/NeophyteHybrid'/>"/>
+	<entry name="Wildlife/NeophyteHybridDescription" value="<string name='Units/Neutral/NeophyteHybridDescription'/>"/>
+	<entry name="Wildlife/NeophyteHybridFlavor" value="<string name='Units/Neutral/NeophyteHybridFlavor'/>"/>
+
 </language>
