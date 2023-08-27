@@ -1,20 +1,44 @@
-Adds wildlife as a playable faction. Grants you all the 13 creatures wandering as wild life units in the base game producible, 31 research possibilities and a modded Space Marines city as the base.
+Adds wildlife as a playable faction. Grants you all the 13 (+1 poxwalkers with dlc) creatures wandering as wild life units in the base game producible, 49 research possibilities and a modded Space Marines city as the base.
+
+V2.0 intruduces a new unit system what offers a better mod compatibility with existing mods. City mods are unlikely be supported. Enslaved units receives all upgrades (basic units needed to be researched) from the faction.
 
 [h1] Units [/h1]
 
-Besides the original units, some units got buffed for balancing the faction.
+[list]
+ [*][b] Kroot Hunds [/b] received an upgrade: [b] Rabid Rage [/b] [i] Armour: +4 Damage: +25% [/i]
+ [*][b] Vespid Stinwings [/b] received 1 system upgrade slot
+ [*][b] Neophyte Hybrid [/b] buffed damage [i] RangedDamage: +100% RangedArmorPenetration: +2 Attacks: +2 [/i]
+ [*][b] Poxwalker [/b] (dlc required) received 2 upgrades: [b] Poxwalker Armour [/b] [i] Armor: +6 [/i] [b] Poxwalker Dracula Leech [/b] [i] ArmorPenetration: +2 Damage: +15% Attacks: +2 Accuracy: +2 [/i]
+
+ [*][b] Ambuls [/b] received 2 system upgrade slot2
+ [*][b] Catachan Devil [/b] buffed damage and health, can carry 2 units, and has a teleport ability to Lairs [i] HitpointsMax: +24 Damage: +100% [/i]
+ [*][b] Kastelan Robot [/b] received 3 system upgrade slot2
+
+ [*][b] Cybernetica Datasmith [/b] the default city founder unit
+ [*][b] Chaos Cultist [/b] can deploy new cities (2x cost)
+ [*][b] Techpriest Betrayer [/b] can build Imperial Bastions
+ [*][b] Lord of Skulls [/b] production penalty per unit +50% (like Heroes)
+
+ [*][b] Psychneuein [/b] received an upgrade: [b] Heavy Acid [/b] [i] ArmorPenetration: +1 Damage: +50% [/i]
+ [*][b] Enslaver [/b] received a healing action
+ [*][b] Umbra [/b] has buffed damage and movement [i]  Damage: +50% [/i]
+[/list]
+
+[h1] Tactics [/h1]
 
 [list]
- [*][b] Neophyte Hybrid Veterans [/b] sports the [i] Snazzgun [/i] from Flash Gitz
- [*][b] Catachan Devil Queen [/b] buffed to a level of a tank, can carry 2 units, and has a teleport ability to Lairs
- [*][b] Umbra Warp Fiend [/b] has buffed damage and movement
- [*][b] Cybernetica Datasmith Biohacker [/b] has infantry healing abilities, but lost its city deploy ability
- [*][b] Chaos Cultist Conquistador [/b] can deploy new cities, increased upkeep and costs
+ [*][b] Deploy Catachan Devil Lair [/b]
+ [*][b] Tau Mindcontrol [/b] to capture other [b] Kroot Hunds [/b] or [b] Vespid Stinwings [/b]
+ [*][b] Sacral Vigor [/b] +2.0 HP healing
+ [*][b] Armour Penetration System Upgrade [/b] [i] ArmorPenetration: +2 [/i]
+ [*][b] Hammer Of Wrath System Upgrade [/b] [i] Damage: +25% [/i]
+ [*][b] Shield Generator System Upgrade [/b] [i] InvulnerableDamageReduction: +17% [/i]
+ [*][b] Siege Masters [/b]
 [/list]
 
 [h1] City [/h1]
 
-Modded Space Marines city with Food and Ore production instead of Requisitions. Can deploy [i] Wire Weed [/i] for a Food buff or [i] Imperial Ruins [/i] for an Ore buff.
+Modded Space Marines city with Food and Ore production instead of Requisitions. Can deploy [i] Orkoid Fungus [/i] for a Food buff.
 
 [url=https://github.com/mrnuku/wh40k-gladius-wildlife-faction] Github repo [/url]
 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2939973047] Wildlife faction plus mod [/url]
