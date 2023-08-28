@@ -3,7 +3,6 @@ Adds wildlife as a playable faction. Grants you all the 13 (+1 poxwalkers with d
 V2.0 intruduces a new unit system which offers a better mod compatibility with existing mods. City mods are unlikely to be supported. Enslaved units receive all upgrades (basic units needed to be researched) from the faction.
 
 [h1] Units [/h1]
-
 [list]
  [*][b] Kroot Hunds [/b] received an upgrade: [b] Rabid Rage [/b] [i] Armour: +4 Damage: +25% [/i]
  [*][b] Vespid Stingwings [/b] received 1 system upgrade slot
@@ -23,9 +22,7 @@ V2.0 intruduces a new unit system which offers a better mod compatibility with e
  [*][b] Enslaver [/b] has buffed movement and received a healing action
  [*][b] Umbra [/b] has buffed damage and movement: [i] Damage: +50% [/i]
 [/list]
-
 [h1] Tactics [/h1]
-
 [list]
  [*][b] Deploy Catachan Devil Lair [/b]
  [*][b] Tau Mindcontrol [/b] to capture other [b] Kroot Hunds [/b] or [b] Vespid Stinwings [/b]
@@ -35,9 +32,7 @@ V2.0 intruduces a new unit system which offers a better mod compatibility with e
  [*][b] Shield Generator System Upgrade [/b] [i] InvulnerableDamageReduction: +17% [/i]
  [*][b] Siege Masters [/b]
 [/list]
-
 [h1] City [/h1]
-
 Modded Space Marines city with Food and Ore production instead of Requisitions. Can deploy [i] Orkoid Fungus [/i] for a Food buff.
 
 [url=https://github.com/mrnuku/wh40k-gladius-wildlife-faction] Github repo [/url]
